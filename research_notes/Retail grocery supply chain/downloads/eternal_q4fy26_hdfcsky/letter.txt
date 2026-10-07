@@ -1,0 +1,510 @@
+29 April 2026 4QFY26 Results Review                                                                                           BUY
+
+Eternal                                                                                     CMP (as on 28 Apr 2026)           INR 253
+                                                                                            Target Price                      INR 340
+FD recovery continues; Blinkit-peers gap likely rising                                      NIFTY
+                                                                                                                                23,996
+Overall, B2C NoV grew ~54% YoY (4.5% QoQ) to INR 268.8bn in Q4FY26 (in-line).
+Eternal's food delivery (FD) sustained its recovery momentum with NOV                       KEY                    OLD           NEW
+increasing 18.8% YoY to INR97.6bn (vs 16.6% in Q3; in-line), driven by strategic            CHANGES                 BUY           BUY
+focus on improving affordability across select consumer cohorts. FD adj. EBITDAM            Rating              INR 340       INR 340
+(as % of NoV) remained largely stable QoQ at 5.5% (HSIE: 5.6%), as improving                                      FY27E         FY28E
+revenue per order and operating efficiencies offset the shift toward lower value            Price Target            +10.4          +9.7
+orders. No meaningful impact from LPG shortage witnessed yet. Management
+anticipates that FD growth will continue trending toward their long-term                    Adj. EBITDA
+expectation of 20%+ YoY NOV growth, with margins sustaining in the 5-6% range.              %
+Meanwhile, Blinkit's NOV moderated to 8.2% QoQ to INR 143.9bn (HSIE:
+INR147bn), as Q4 is seasonally a weak quarter for QC due to fewer operational days          KEY STOCK DATA
+and lower mix of long-tail categories (NOV grew 95%+ YoY in Q4). Despite the
+moderation in NOV growth, Blinkit's adj. EBITDAM (as a % of NoV) improved by                Bloomberg code      ETERNAL IN
+23bps QoQ to 0.3% (HSIE: -0.3%) as underlying unit economics remain resilient
+even amidst heightened competition. QC Adj. EBITDA profit stood at INR 370mn                No. of Shares (mn)                   9,650
+(vs. INR40mn in Q3FY26; HSIE: -INR420mn). Consolidated adj. EBITDA grew 160%
+YoY to INR4.29bn (HSIE: INR3.31bn), with adj. EBITDAM at 2.4% (HSIE: 1.8%). We              MCap (INR bn) / ($ mn) 2,442/25,818
+have revised our adj. EBITDA estimates upward for FY27/28 by ~10% each and
+maintain our BUY rating with an SOTP-based TP of INR340/sh (incl. 45x Mar-28                6m avg traded value (INR mn) 12,291
+EV/EBITDA for FD; 1.5x Mar-28 NoV for Blinkit).
+                                                                                            52 Week high / low             INR 368/213
+ FD recovery gains momentum; margins steady: Eternal's FD segment sustained
+                                                                                            STOCK PERFORMANCE (%)
+     its recovery momentum as no meaningful impact from LPG shortage was
+     witnessed in Q4FY26. NOV growth accelerated 18.8% YoY to INR 97.6bn (vs.                                   3M 6M            12M
+     16.6% in Q3; in-line). The recovery was driven by a strategic focus on affordability,                                       11.4
+     including lower minimum order value for Gold members, curated value                    Absolute (%)        (5.0) (24.4)     15.5
+     assortments, and stepped-up activation of budget-conscious consumers (MTU
+     grew 2% QoQ to 25.4mn). While higher platform fees improved take-rates (as %           Relative (%)        1.7 (15.2)
+     of NoV) by 102bps QoQ to 32%, management noted that a declining net AOV is
+     an intended consequence of this affordability strategy. Despite the shift toward       SHAREHOLDING PATTERN (%)
+     lower value orders, adj. EBITDAM remained stable QoQ at 5.5% (HSIE: 5.6%) as
+     improving revenue per order and operating efficiencies offset the mix change.                              Dec-25 Dec-25
+     Adj. EBITDA was stable QoQ at INR 5.32bn (HSIE: INR 5.45bn). Management
+     anticipates that growth will continue trending toward their long-term expectation      Promoters                      -     -
+     of 20%+ YoY NOV growth, with margins sustaining in the 5-6% range.
+                                                                                            FIs & Local MFs     32.71            35.99
+ Blinkit's profitability remains resilient: Blinkit's NoV growth moderated to 8.2%
+                                                                                            FPIs                36.24            32.61
+     QoQ to INR 143.9bn (HSIE: INR147bn), due to seasonal weakness from fewer
+     operating days in Q4 and lower mix of long-tail categories, which led to a decline     Public & Others     25.47            31.40
+     in net AOV by 4% QoQ to INR 525. MTUs grew by 15.3% QoQ to 27.2mn (HSIE:
+     26mn), leading to a 12.6% QoQ rise in order volumes to ~274mn (HSIE: 279mn).           Pledged Shares                 -     -
+     Adj. EBITDAM (as % of NoV) improved by 23bps QoQ to 0.3% (HSIE: -0.3%),
+     reflecting resilient underlying unit economics even during periods of elevated         Source : BSE
+     competition. Adj. EBITDA profit stood at INR 370mn (vs. INR40mn in Q3FY26;
+     HSIE: -INR420mn). Blinkit added 216 dark stores (net) in Q4 (store count: 2,243),      Pledged shares as % of total shares
+     and management maintained its guidance of 3,000 dark stores by Mar-27. Over
+     the next three years, management expects NOV CAGR of 60%+, driven by                   Jay Gandhi
+     assortment and geographic expansion, as well as improving demand density in            jay.gandhi@hdfcsec.com
+     next seven cities after Delhi NCR.                                                     +91-22-6171-7320
+
+ Valuation and outlook: FD growth recovery continues to gain momentum, while                Vedant Mulik
+                                                                                            vedant.mulik@hdfcsec.com
+     Blinkit's ability to balance aggressive blitz-scaling with disciplined unit            +91-22-6171-7348
+     economics ­ despite intense competition ­ remains commendable. We have
+     revised our adj. EBITDA estimates upward for FY27/28 by ~10% each and
+     maintain BUY with an SOTP-based TP of INR340/sh (incl. 45x Mar-28 EV/EBITDA
+     for FD; 1.5x Mar-28 NoV for Blinkit).
+
+HSIE Research is also available on Bloomberg ERH HDF <GO> & Thomson Reuters
+Eternal Ltd: 4QFY26 Results Review
+
+Financial Summary  4QFY26 4QFY25 YoY (%) 3QFY26 QoQ (%)           FY23 FY24 FY25 FY26 FY27E FY28E
+
+(Rs mn)            1,72,920 58,330 196.5 1,63,150            6.0  73,370 1,21,150 2,02,430 5,43,640 9,00,925 12,39,056
+Net Revenue
+EBITDA             4,860            720 575.0 3,680   32.1        (9,527)     430 6,370 12,080 28,563 42,656
+APAT
+EPS (Rs)           1,740            390 346.2 1,020   70.6        (7,134) 3,520 5,270 3,660 10,820 18,632
+P/E (x)
+                        0.2         0.0 346.2    0.1  70.6        (0.9)       0.4             0.5          0.4          1.1  1.9
+EV/EBITDA (x)
+                                                                  (297.5)      625.8          464.8   669.2     226.4        131.5
+Core RoCE(%)                                                      (117.4)     (1,454.         811.8   617.8     122.8         72.2
+                                                                                                                              10.1
+                                                                     (5.9)          0)           5.2     3.4       7.2
+                                                                                  4.1
+
+                   Estimate changes:                              FY27E                                    FY28E
+
+                   (INR mn)                          New          Old Change (%)                      New       Old Change (%)
+                                                 9,00,925
+                   Revenue                                        8,85,305              1.8   12,39,056 11,81,771            4.8
+                   Adj. EBITDA                     27,358
+                   Adj. EBITDAM (%)                    3.0        24,777                10.4          40,842 37,230          9.7
+                   Pre-IND AS EBITDA
+                   Pre-IND AS EBITDA margin (%)    18,668                2.8  24 bps                  3.3       3.2          15 bps
+                   APAT                                2.1
+                   APAT margin (%)                                16,177                15.4          31,752 28,230          12.5
+                   EPS (Rs)                        10,820
+                                                       1.2               1.8  24 bps                  2.6       2.4          17 bps
+                                                       1.1
+                                                                  12,310      (12.1)                  18,632 20,947          (11.1)
+
+                                                                         1.4  -19 bps                 1.5       1.8          -27 bps
+
+                                                                         1.3  (12.1)                  1.9       2.2          (11.1)
+
+                   SOTP Valuation (Mar-28):
+
+                   Eternal                       Methodology      Multiple       GoV/Gross            EV (INR mn)            Per share
+                                                                              sales/EBITDA
+                   Food Delivery                 EV/EBITDA            45                                   12,19,865                 126
+                   Quick Commerce                  EV/NOV             1.5                27,108            16,59,046                 172
+                   Going-out                       EV/GOV             1.0            10,98,706               1,79,920
+                   Hyperpure                       EV/Sales           0.5             1,79,920                                        19
+                   Others                          EV/Sales           0.5                                      37,669                   4
+                   Consol Enterprise Value                                               69,758                    568                  0
+                   Net Debt                                                               1,053
+                   Consol Equity Value                                                                     30,97,069                 321
+                   No. of shares (#)                                                                       (1,82,663)               (19)
+                                                                                                           32,79,732                 340
+                                                                                                                                  9,650
+
+                   CMP                                                                                                       254
+
+                   Upside/(Downside) (%)                                                                                     33.9
+
+                                                                                                                             Page | 2
+Eternal Ltd: 4QFY26 Results Review
+
+Summary                             4QFY24 1QFY25 2QFY25 3QFY25 4QFY25 1QFY26 2QFY26 3QFY26 4QFY26
+NoV (B2C business)
+                                      71,890    79,280    82,810    84,430    82,100    89,670    94,230     98,460     97,570
+      Food delivery                   33,360    40,610    49,280    60,200    73,620    92,030  1,16,790   1,33,000   1,43,860
+      Quick commerce                            10,310    15,620    21,580    18,680    20,130
+      Going-out                        8,400  1,30,200  1,47,710  1,66,210  1,74,400  2,01,830    20,630     25,870     27,360
+Total NoV (B2C business)            1,13,650                                                    2,31,650   2,57,330   2,68,790
+NoV Mix
+Food delivery                       63.3      60.9      56.1      50.8      47.1      44.4      40.7       38.3       36.3
+Quick commerce
+Going-out                           29.4      31.2      33.4      36.2      42.2      45.6      50.4       51.7       53.5
+Adjusted Revenue
+      Food delivery                 7.4       7.9       10.6      13.0      10.7      10.0      8.9        10.1       10.2
+      Hyperpure (B2B supplies)
+      Quick commerce                20,500    22,560    23,400    24,130    24,090    26,570      28,630     30,530     31,250
+      Going-out                      9,510    12,120    14,730    16,710    18,400    22,950      10,230     10,700      9,780
+      Others                         7,690              11,560    13,990    17,090    24,000      98,910   1,22,560
+Total Adjusted Revenue                 930     9,420                                                                  1,32,320
+      YoY (%)                          100       950     1,540     2,590     2,290     2,070       1,890      3,000      2,770
+B2C take rate (as % of NoV)                      150         40        40        10        40          20        130        680
+      Food delivery                 38,730
+      Quick commerce                   60.4   45,200    51,270    57,460    61,880    75,630    1,39,680   1,66,920   1,76,800
+      Going-out                        25.6      62.2      58.2      57.6      59.8      67.3      172.4      190.5      185.7
+Adjusted EBITDA                        28.5      25.3      24.7      24.5      24.9      26.1        55.9       60.7       61.9
+      Food delivery                    23.1      28.5      28.3      28.6      29.3      29.6        30.4       31.0       32.0
+      Hyperpure (B2B supplies)         11.1      23.2      23.5      23.2      23.2      26.1        84.7       92.2       92.0
+      Quick commerce                              9.2       9.9      12.0      12.3      10.3         9.2       11.6       10.1
+      Going-out
+      Others                        2,750     3,130     3,410       4,230     4,280     4,510     5,030      5,310    5,320
+      Unallocated cost              (230)     (220)     (210)       (190)     (220)     (180)      (50)         10       50
+Total Adjusted EBITDA               (370)                         (1,030)   (1,780)   (1,620)                   40
+      YoY (%)                       (110)      (30)      (80)       (170)     (470)     (540)   (1,560)                 370
+Adjusted EBITDAM (%)                (100)       100       160                 (160)     (450)     (630)    (1,210)    (810)
+      Food delivery                                                    10                         (550)      (510)    (640)
+      Hyperpure (B2B supplies)                   10        20
+      Quick commerce
+      Going-out                       1,940 2,990       3,300     2,850     1,650     1,720     2,240      3,640      4,290
+      Others                        (210.9) 2,391.7     704.9     128.0     (14.9)    (42.5)    (32.1)      27.7      160.0
+Total Adjusted EBITDAM (%)
+                                    13.4      13.9      14.6      17.5      17.8      17.0      17.6       17.4       17.0
+
+                                    (2.4)     (1.8)     (1.4)     (1.1)     (1.2)     (0.8)     (0.5)      0.1        0.5
+
+                                    (4.8)     (0.3)     (0.7)     (7.4) (10.4)        (6.8)     (1.6)      0.0        0.3
+
+                                    (11.8)    10.5      10.4      (6.6) (20.5) (26.1) (33.3) (40.3) (29.2)
+
+                                    (100.0)   6.7       50.0      25.0 (1,600.0) (1,125.0) (2,750.0) (392.3) (94.1)
+
+                                    5.0       6.6       6.4       5.0       2.7       2.3       1.6        2.2        2.4
+
+                                                                                                                      Page | 3
+Eternal Ltd: 4QFY26 Results Review  4QFY25      3QFY26     4QFY26     YoY (%)     QoQ (%)      4QFY26E     Variance
+                                                                                                                  (%)
+Key performance indicators
+                                       20.9        24.9       25.4        21.5          2.0       25.0          1.5
+KPIs                                82,100      98,460     97,570         18.8        (0.9)    97,266           0.3
+                                    24,090      30,530     31,250         29.7                 29,487           6.0
+Food Delivery                                                         269 bps           2.4                171 bps
+Avg. MTUs (mn)                         29.3        31.0       32.0        18.5    102 bps         30.3        (2.7)
+NoV (INR mn)                         8,420      10,230      9,980      -3 bps                  10,262      -32 bps
+Gross revenue (INR mn)                                                    24.3        (2.4)                   (2.3)
+Take rate (% of NoV)                   10.3        10.4       10.2     24 bps     -16 bps         10.5     -15 bps
+Contribution profit (INR mn)         4,280       5,310      5,320                               5,446
+CM (%)                                                                                  0.2
+Adjusted EBITDA (INR mn)                5.2         5.4        5.5                   6 bps         5.6
+Adj EBITDAM (As % of NoV)
+Quick Commerce                         13.7          23.6       27.2        98.5      15.3          26.0        4.6
+Avg. MTUs (mn)                           3.4          3.4        3.4       (2.6)     (2.3)           3.6      (6.0)
+Ordering frequency/month (x)          141.7        243.3      273.9         93.3      12.6           279      (1.7)
+Orders (mn)                             520           547        525                 (4.0)           528      (0.5)
+Net AoV (INR)                       73,620      1,33,000   1,43,860          1.0               1,47,034       (2.2)
+NoV (INR mn)                        17,090      1,22,560   1,32,320         95.4       8.2     1,35,836       (2.6)
+Gross revenue (INR mn)                 23.2          92.2       92.0      674.3        8.0          92.4   -41 bps
+Take rate (% of NoV)                  2,890        7,360      7,820   6876 bps    -17 bps         8,073       (3.1)
+Contribution profit (INR mn)             3.9          5.5        5.4      170.6        6.3           5.5    -5 bps
+Contribution margin (%)             (1,780)            40        370   151 bps    -10 bps          (420)   (188.1)
+Adjusted EBITDA (INR mn)               (2.4)          0.0        0.3    (120.8)     825.0          (0.3)    54 bps
+Adj EBITDAM (As % of NoV)                                              268 bps     23 bps
+Going out
+NoV (INR mn)                        18,680      25,870     27,360          46.5          5.8   23,044           18.7
+Gross revenue (INR mn)               2,290        3,000     2,770          21.0        (7.7)     2,680           3.4
+Take rate (% of NoV)                   12.3        11.6       10.1    -213 bps    -147 bps        11.6     -151 bps
+Adjusted EBITDA (INR mn)             (470)                  (810)          72.3      (33.1)                   (32.9)
+Adj EBITDAM (As % of NoV)             (2.5)     (1,210)      (3.0)     -44 bps     172 bps     (1,207)      228 bps
+Hyperpure                                          (4.7)                                          (5.2)
+Revenue (INR mn)
+Gross Profit (INR mn)               18,400      10,700     9,780        (46.8)      (8.6)      11,264      (13.2)
+Gross Margin (%)                     2,080       1,017       987                                1,072
+Adjusted EBITDA (INR mn)               11.3         9.5     10.1       (122.7)     400.0            10      109.7
+Adj EBITDAM (As % of Revenue)        (220)           10       50      171 bps     42 bps            24     30 bps
+Others                                (1.2)         0.1       0.5                                  0.2
+Revenue (INR mn)
+Adjusted EBITDA (INR mn)                    10      130    680        6,700.0           423.1          50     1,260.0
+Adj EBITDAM (As % of Revenue)           (160)     (510)                                  25.5      (530)          20.8
+                                    (1,600.0)   (392.3)    (640)      300.0                    (1,060.0)
+                                                                                  29819 bps                96588 bps
+                                                           (94.1) 150588 bps
+
+                                                                                                           Page | 4
+Eternal Ltd: 4QFY26 Results Review         FY22        FY23       FY24        FY25        FY26       FY27E        FY28E
+                                          41,900      73,370   1,21,150    2,02,430    5,43,640    9,00,925    12,39,056
+Income Statement
+                                           111.6         75.1       65.1        67.1      168.6         65.7         37.5
+Net Revenues                               5,246      13,952     28,820      55,650    3,01,670      50,977       66,270
+Growth (%)                                16,331      14,650     16,590      25,580                  53,716       71,015
+Material Expenses                         12,168      12,274     14,320      19,720      35,360      55,516       76,353
+Employee Expense                           1,724                                         33,500      25,368       34,889
+A&P Expense                               18,141       2,969      3,300       5,700      15,308    1,50,226     2,06,608
+Outsourced support cost                    6,822      25,369     39,150      57,280      90,650    5,36,558     7,41,265
+Delivery and related charges            (18,532)      13,683     18,540      32,130      55,072      28,563       42,656
+Other Expenses                             285.3     (9,527)                             12,080
+EBITDA                                     (44.2)      (48.6)        430      6,370                   136.5          49.3
+EBITDA Growth (%)                        (9,800)       (13.0)   (104.5)     1,381.4         89.6         3.2           3.4
+EBITDA Margin (%)                           (4.6)   (12,360)                                 2.2                  40,842
+Adjusted EBITDA                         (18,579)                     0.4         3.1     11,890      27,358            1.8
+Adjusted EBITDAM (% of GoV)                (44.3)       (3.6)     3,720      10,790          1.0         1.6      31,752
+Pre-IND AS 116 EBITDA                      1,503    (17,420)                              3,700                        2.6
+Pre-IND AS 116 EBITDAM (%)              (20,035)                     0.8         1.4         0.7     18,668       25,577
+Depreciation                               7,923       (23.7)   (1,430)       2,810      15,970          2.1      17,079
+EBIT                                                   4,369                            (3,890)                   13,516
+Other Income (Including EO Items)            120    (13,896)       (1.2)         1.4     13,960      22,594         5,695
+Interest                                (12,232)       6,816      5,260       8,630       3,920       5,969       24,899
+PBT                                                             (4,830)     (2,260)       6,150                     6,267
+Total Tax                                      20        487      8,470      10,770       2,490      13,670       18,632
+PAT before share of associate earnings  (12,252)     (7,567)                  1,540       3,660       5,180
+Share of associate earnings                                          720      6,970                                       -
+RPAT                                            3      (436)      2,920       1,700             -    14,460       18,632
+Exceptional Gain/(loss)                 (12,249)     (7,131)       (600)      5,270       3,660       3,640
+Adjusted PAT                                                      3,520                                                   -
+APAT Growth (%)                            2,974          (3)                       -           -    10,820       18,632
+Adjusted EPS (Rs)                       (15,223)     (7,134)            -     5,270       3,660             -
+EPS Growth (%)                                                    3,520                   (30.6)                     72.2
+                                           201.2            1                       -                10,820            1.9
+Balance Sheet                               (2.0)    (7,135)            -     5,270          0.4            -        72.2
+                                           111.5                  3,520                   (30.6)
+SOURCES OF FUNDS                                       (53.1)   (149.3)         49.7                 10,820
+Share Capital - Equity                                  (0.9)                    0.5                  195.6
+Reserves                                                             0.4        34.7                     1.1
+Total Shareholders Funds                               (57.2)   (147.5)                               195.6
+Minority Interest
+Long Term Debt                          FY22        FY23       FY24        FY25        FY26        FY27E       FY28E
+Short Term Debt
+Total Debt                                 7,643       8,364      8,680       9,070       9,190       9,190       9,190
+Net Deferred Taxes                      1,57,412    1,86,234   1,95,450    2,94,100    3,00,610    3,11,430    3,30,063
+Other Non-current Liabilities & Provns  1,65,055    1,94,598   2,04,130    3,03,170    3,09,800    3,20,620    3,39,253
+TOTAL SOURCES OF FUNDS
+APPLICATION OF FUNDS                         (66)        (66)       (70)        (70)        (70)        (70)        (70)
+Net Block                                        -         58           -           -           -           -           -
+CWIP                                             -                      -           -           -           -           -
+Other Non-current Assets                         -        346           -           -           -           -           -
+Total Non-current Assets                         -        404
+Inventories                                            2,495      1,880       2,120       1,020       1,020       1,020
+Debtors                                       706      4,710      7,520      20,460      45,920      49,641      54,606
+Other Current Assets                    1,65,695    2,02,141   2,13,460    3,25,680    3,56,670    3,71,212    3,94,808
+Cash & Equivalents
+Total Current Assets                       1,308      11,990     10,410      18,770      26,440      31,246      33,341
+Creditors                                        6         75        180         510      1,360       1,360       1,360
+Other Current Liabilities & Provns
+Total Current Liabilities                 65,646      72,816     64,740    1,10,740    1,25,140    1,17,647    1,18,408
+Net Current Assets                        66,960      84,881     75,330    1,30,020    1,52,940    1,50,253    1,53,109
+TOTAL APPLICATION OF FUNDS
+                                              397         827        880      1,760      21,810      36,144      49,709
+                                           1,599       4,569      7,940      19,460      17,640      26,518      33,076
+                                          41,382      47,896     25,650      36,930      51,410      85,197    1,17,173
+                                          62,932      77,814   1,23,760    1,68,060    1,63,560    1,57,103    1,57,273
+                                        1,06,310    1,31,106   1,58,230    2,26,210    2,54,420    3,04,962    3,57,231
+                                           4,288       6,798      8,860      15,360      30,100      49,882      68,603
+                                           3,287       7,048     11,240      15,190      20,590      34,122      46,928
+                                           7,575      13,846     20,100      30,550      50,690      84,004    1,15,532
+                                          98,735    1,17,260   1,38,130    1,95,660    2,03,730    2,20,958    2,41,699
+                                        1,65,695    2,02,141   2,13,460    3,25,680    3,56,670    3,71,212    3,94,808
+
+                                                                                                               Page | 5
+Eternal Ltd: 4QFY26 Results Review     FY22        FY23       FY24          FY25        FY26      FY27E       FY28E
+                                    (12,205)    (10,146)      2,910         6,970       6,150      14,460      24,899
+Cash Flow Statement                                         (1,860)         (450)                (13,670)    (13,516)
+                                       1,474       (646)                                  140
+Reported PBT                                7          50        20             40            -     5,180       5,695
+Non-operating & EO Items                                      5,260         8,630                  22,594      25,577
+Interest Expenses                      1,503       4,369      1,180      (10,930)      15,970    (23,685)    (20,571)
+Depreciation                           2,483     (1,759)    (1,050)       (1,180)    (12,280)     (3,640)     (6,267)
+Working Capital Change                 (192)                  6,460         3,080     (3,660)                  15,818
+Tax Paid                             (6,930)       (308)    (2,020)      (29,360)                   1,239    (16,735)
+OPERATING CASH FLOW ( a )              (558)     (8,440)      4,440      (26,280)       6,320    (17,122)
+Capex                                (7,488)     (1,621)    (7,630)      (58,760)    (17,460)    (15,883)       (917)
+Free Cash Flow (FCF)                (76,196)    (10,061)      6,180         8,190    (11,140)                         -
+Investments                          (2,624)                (3,470)      (79,930)                         -
+Non-operating Income                (79,378)       8,794      (420)                    13,290      10,885       1,817
+INVESTING CASH FLOW ( b )                        (2,600)      2,570           (40)      9,530     (6,237)    (14,917)
+Debt Issuance/(Repaid)                   (20)                            (76,890)       5,360     (5,180)     (5,695)
+FCFE                                (86,328)       4,573        310                     (160)    (10,178)     (4,795)
+Share Capital Issuance                             (324)           -       84,510
+Dividend                                     -   (4,191)                          -    11,520             -           -
+Others                                       -              (1,960)                       120             -           -
+FINANCING CASH FLOW ( c )              (298)             -  (2,070)       (4,050)             -     3,721       4,964
+NET CASH FLOW (a+b+c)                  (318)             -                 80,420                 (1,458)       (731)
+EO Items, Others                    (86,626)     (1,055)        920                   (8,380)     (6,457)         169
+Closing Cash & Equivalents                       (1,379)                    3,570     (8,420)
+                                                 (5,246)
+Key Ratios                                                                              3,260
+
+PROFITABILITY (%)                   3,923       2,181       3,090        6,660       9,960       3,503       3,673
+GPM
+EBITDA Margin                         FY22      FY23        FY24         FY25        FY26        FY27E       FY28E
+Pre-IND-AS EBITDA Margin (%)
+Adj. EBITDAM (%)                       87.5     81.0        76.2          72.5        44.5          94.3        94.7
+EBIT Margin                          (44.2)                                 3.1         2.2          3.2         3.4
+APAT Margin                          (65.2)     (13.0)      0.4             1.4         0.7          2.1         2.6
+RoE                                  (23.4)                                 5.3         2.2          3.0         3.3
+RoIC (or Core RoCE)                  (47.8)     (23.7)      (1.2)         (1.1)       (0.7)          0.7         1.4
+RoCE                                 (36.3)                                 2.6         0.7          1.2         1.5
+RoE*                                 (12.4)     (16.8)      3.1             2.1         1.2          3.4         5.6
+EFFICIENCY                           (26.1)                                 5.2         3.4          7.2        10.1
+Tax Rate (%)                         (12.2)     (18.9)      (4.0)           2.4         1.8          4.0         6.0
+Fixed Asset Turnover (x)             (12.4)                                 2.1         1.2          3.3         5.3
+Inventory (days)                                (9.7)       2.9
+Debtors (days)                         (0.1)                              24.4        40.5          25.2        25.2
+Other Current Assets (days)            30.1     (4.0)       1.8           15.1        18.3          19.4        19.8
+Payables (days)                          3.5                                3.2       14.6          14.6        14.6
+Other Current Liab & Provns (days)     13.9     (5.9)       4.1           35.1        11.8          10.7         9.7
+Cash Conversion Cycle (days)          360.5                               66.6        34.5          34.5        34.5
+Net D/E (x)                            37.4     (3.6)       2.1           27.7        20.2          20.2        20.2
+Interest Coverage (x)                  28.6                               27.4        13.8          13.8        13.8
+PER SHARE DATA (Rs)                   311.9     (4.0)       1.8           49.8        27.0          25.9        24.9
+EPS                                    (0.4)                              (0.6)       (0.5)        (0.5)       (0.5)
+CEPS                                (167.0)        5.8      (20.5)        (1.5)       (1.0)          1.2         3.0
+Dividend                                          20.2        22.9
+Book Value                             (2.0)       4.1         2.7          0.5         0.4          1.1         1.9
+VALUATION                              (1.6)      22.7        23.9          2.8         4.6          7.1         8.7
+P/E (x)                                         238.3         77.3
+P/BV (x)                               21.6       33.8        26.7        31.4        32.1          33.2        35.2
+EV/EBITDA (x)                                     35.1        33.9
+EV/Revenues (x)                     (127.4)     196.2         43.3       464.8       669.2        226.4       131.5
+OCF/EV (%)                             11.8      (0.4)       (0.6)          8.1         7.9          7.6         7.2
+FCF/EV (%)                                      (28.5)       (6.7)                                              72.2
+FCFE/Mkt Cap (%)                    (101.3)                              811.8       617.8        122.8          1.8
+Dividend Yield (%)                     44.8     (0.9)       0.4           11.3          4.2          2.5         0.7
+                                       (0.4)                                0.1         0.3          0.1
+                                       (0.4)    0.3         1.8           (1.2)                                (0.0)
+                                       (4.5)                              (3.1)       (0.5)        (0.7)       (0.2)
+                                           -    23.3        23.5              -         0.5        (0.4)
+                                                                                          -                         -
+                                                (297.5)         625.8                                   -
+                                                   10.9          10.8
+
+                                                (117.4)     (1,454.0)
+                                                   27.9          17.2
+                                                   (0.4)           0.3
+                                                   (0.5)           0.2
+                                                   (0.2)           0.1
+                                                       -              -
+
+                                                                                                             Page | 6
+Eternal Ltd: 4QFY26 Results Review
+
+Price Movement  Eternal
+
+    400                                                                                  Rating Criteria
+    350
+    300                                                                                  BUY:   >+15% return potential
+    250
+    200                                                                                  ADD: +5% to +15% return potential
+    150
+
+Apr-25                                                                                   REDUCE: -10% to +5% return potential
+      May-25
+             Jun-25                                                                      SELL:  > 10% Downside return potential
+
+                    Jul-25
+                           Aug-25
+                                  Sep-25
+                                         Oct-25
+                                                Nov-25
+                                                      Dec-25
+
+                                                             Jan-26
+                                                                    Feb-26
+                                                                          Mar-26
+                                                                                 Apr-26
+
+                                                                                                                                 Page | 7
+Eternal Ltd: 4QFY26 Results Review
+
+ Disclosure:
+ We, Jay Gandhi, MBA and Vedant Mulik, CA authors and the name subscribed to this report, hereby certify that all of
+ the views expressed in this research report accurately reflect my views about the subject issuer(s) or securities. SEBI
+ conducted the inspection and based on their observations have issued advise/warning. The said observations have been
+ complied with. I also certify that no part of my compensation was, is, or will be directly or indirectly related to the specific
+ recommendation(s) or view(s) in this report.
+ Research Analyst or his/her relative or HDFC Securities Ltd. does not have any financial interest in the subject company.
+ Also Research Analyst or his relative or HDFC Securities Ltd. or its Associate may have beneficial ownership of 1% or
+ more in the subject company at the end of the month immediately preceding the date of publication of the Research
+ Report. Further Research Analyst or his relative or HDFC Securities Ltd. or its associate does have/does not have any
+ material conflict of interest.
+ Any holding in stock ­ No
+ HDFC Securities Limited (HSL) is a SEBI Registered Research Analyst having registration no. INH000002475.
+
+ Disclaimer:
+ This report has been prepared by HDFC Securities Ltd and is solely for information of the recipient only. The report must
+ not be used as a singular basis of any investment decision. The views herein are of a general nature and do not consider
+ the risk appetite or the particular circumstances of an individual investor; readers are requested to take professional
+ advice before investing. This report may have been refined using AI tools to enhance clarity and readability.
+ Nothing in this document should be construed as investment advice. Each recipient of this document should make such
+ investigations as they deem necessary to arrive at an independent evaluation of an investment in securities of the
+ companies referred to in this document (including merits and risks) and should consult their own advisors to determine
+ merits and risks of such investment. The information and opinions contained herein have been compiled or arrived at,
+ based upon information obtained in good faith from sources believed to be reliable. Such information has not been
+ independently verified and no guaranty, representation of warranty, express or implied, is made as to its accuracy,
+ completeness or correctness. All such information and opinions are subject to change without notice. Descriptions of any
+ company or companies or their securities mentioned herein are not intended to be complete. HSL is not obliged to update
+ this report for such changes. HSL has the right to make changes and modifications at any time.
+ This report is not directed to, or intended for display, downloading, printing, reproducing or for distribution to or use by,
+ any person or entity who is a citizen or resident or located in any locality, state, country or other jurisdiction where such
+ distribution, publication, reproduction, availability or use would be contrary to law or regulation or what would subject
+ HSL or its affiliates to any registration or licensing requirement within such jurisdiction.
+ If this report is inadvertently sent or has reached any person in such country, especially, United States of America, the
+ same should be ignored and brought to the attention of the sender. This document may not be reproduced, distributed or
+ published in whole or in part, directly or indirectly, for any purposes or in any manner.
+ Foreign currencies denominated securities, wherever mentioned, are subject to exchange rate fluctuations, which could
+ have an adverse effect on their value or price, or the income derived from them. In addition, investors in securities such
+ as ADRs, the values of which are influenced by foreign currencies effectively assume currency risk. It should not be
+ considered to be taken as an offer to sell or a solicitation to buy any security.
+ This document is not, and should not, be construed as an offer or solicitation of an offer, to buy or sell any securities or
+ other financial instruments. This report should not be construed as an invitation or solicitation to do business with HSL.
+ HSL may from time to time solicit from, or perform broking, or other services for, any company mentioned in this mail
+ and/or its attachments.
+ HSL and its affiliated company(ies), their directors and employees may; (a) from time to time, have a long or short position
+ in, and buy or sell the securities of the company(ies) mentioned herein or (b) be engaged in any other transaction involving
+ such securities and earn brokerage or other compensation or act as a market maker in the financial instruments of the
+ company(ies) discussed herein or act as an advisor or lender/borrower to such company(ies) or may have any other
+ potential conflict of interests with respect to any recommendation and other related information and opinions.
+ HSL, its directors, analysts or employees do not take any responsibility, financial or otherwise, of the losses or the damages
+ sustained due to the investments made or any action taken on basis of this report, including but not restricted to,
+ fluctuation in the prices of shares and bonds, changes in the currency rates, diminution in the NAVs, reduction in the
+ dividend or income, etc.
+
+                                                                                                                                                        Page | 8
+Eternal Ltd: 4QFY26 Results Review
+
+ HSL and other group companies, its directors, associates, employees may have various positions in any of the stocks,
+ securities and financial instruments dealt in the report, or may make sell or purchase or other deals in these securities
+ from time to time or may deal in other securities of the companies / organizations described in this report. As regards the
+ associates of HSL please refer the website.
+ HSL or its associates might have managed or co-managed public offering of securities for the subject company or might
+ have been mandated by the subject company for any other assignment in the past twelve months.
+ HSL or its associates might have received any compensation from the companies mentioned in the report during the
+ period preceding twelve months from the date of this report for services in respect of managing or co-managing public
+ offerings, corporate finance, investment banking or merchant banking, brokerage services or other advisory service in a
+ merger or specific transaction in the normal course of business.
+ HSL or its analysts did not receive any compensation or other benefits from the companies mentioned in the report or
+ third party in connection with preparation of the research report. Accordingly, neither HSL nor Research Analysts have
+ any material conflict of interest at the time of publication of this report. Compensation of our Research Analysts is not
+ based on any specific merchant banking, investment banking or brokerage service transactions. HSL may have issued
+ other reports that are inconsistent with and reach different conclusion from the information presented in this report.
+ Research entity has not been engaged in market making activity for the subject company. Research analyst has not served
+ as an officer, director or employee of the subject company. We have not received any compensation/benefits from the
+ subject company or third party in connection with the Research Report.
+ Please note that HDFC Securities has a proprietary trading desk. This desk maintains an arm's length distance with the
+ Research team and all its activities are segregated from Research activities. The proprietary desk operates independently,
+ potentially leading to investment decisions that may deviate from research views.
+ HDFC securities Limited, I Think Techno Campus, Building - B, "Alpha", Office Floor 8, Near Kanjurmarg Station, Opp.
+ Crompton Greaves, Kanjurmarg (East), Mumbai 400 042 Phone: (022) 3075 3400 Fax: (022) 2496 5066
+ Compliance Officer: Murli V Karkera Email: complianceofficer@hdfcsec.com Phone: (022) 3045 3600
+ For grievance redressal contact Customer Care Team Email: customercare@hdfcsec.com Phone: (022) 3901 9400
+ HDFC Securities Limited, SEBI Reg. No.: NSE, BSE, MSEI, MCX: INZ000186937; AMFI Reg. No. ARN: 13549; PFRDA Reg.
+ No. POP: 11092018; IRDA Corporate Agent License No.: CA0062; SEBI Research Analyst Reg. No.: INH000002475; SEBI
+ Investment Adviser Reg. No.: INA000011538; CIN - U67120MH2000PLC152193
+ Investment in securities market are subject to market risks. Read all the related documents carefully before investing.
+ Mutual Funds Investments are subject to market risk. Please read the offer and scheme related documents carefully before
+ investing.
+ Registration granted by SEBI, membership of BASL (in case of IAs) and certification from NISM in no way guarantee
+ performance of the intermediary or provide any assurance of returns to investors.
+
+HDFC Securities
+Institutional Equities
+Unit No. 1602, 16th Floor, Tower A, Peninsula Business Park,
+Senapati Bapat Marg, Lower Parel, Mumbai - 400 013
+Board: +91-22-6171-7330 www.hdfcsec.com
+
+                                                              Page | 9
+

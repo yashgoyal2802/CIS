@@ -1,0 +1,2130 @@
+                                                              29 April 2026
+
+THE MANAGER,                                                  THE MANAGER,
+BSE LIMITED                                                   LISTING DEPARTMENT
+DCS - CRD                                                     NATIONAL STOCK EXCHANGE OF INDIA LTD.
+PHIROZE JEEJEEBHOY TOWERS                                     EXCHANGE PLAZA, C-1. BLOCK G,
+DALAL STREET,                                                 BANDRA - KURLA COMPLEX, BANDRA (EAST)
+MUMBAI - 400 001                                              MUMBAI - 400 051
+SCRIP CODE: 500034                                            SCRIP CODE: BAJFINANCE ­ EQ
+
+Dear Sir/Madam,
+
+Sub: Investor Presentation for the quarter ended 31 March 2026
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find enclosed herewith Presentation to be made to analyst/investor
+for the quarter ended 31 March 2026.
+Please access the live webcast of conference call scheduled to be held today i.e., 29 April 2026
+at 6.00 p.m. IST at
+https://services.choruscall.in/DiamondPassRegistration/register?confirmationNumber=92744
+65&linkSecurityString=4b83752a5a.
+We request you to kindly take the same on record.
+
+Thanking you,
+For Bajaj Finance Limited
+
+                                   Digitally signed by R
+
+R VIJAY VIJAY
+                                   Date: 2026.04.29 17:23:47
+                                   +05'30'
+
+R. Vijay
+Company Secretary
+Email ID: investor.service@bajajfinserv.in
+
+Encl.: As above
+
+                                                           https://www.aboutbajajfinserv.com/finance-about-us
+
+Corporate Office: 4th Floor, Bajaj Finserv Corporate Office, Off Pune - Ahmednagar Road, Viman Nagar, Pune - 411 014, Maharashtra, India
+                        Corporate Office Extn.: 3rd Floor, Panchshil Tech Park, Viman Nagar, Pune ­ 411 014, Maharashtra, India
+                                                                 Tel: +91 20 7157 6403 | Fax: +91 20 7157 6364
+
+               Registered Office: C/o Bajaj Auto Limited complex, Mumbai - Pune Road, Akurdi, Pune - 411 035, Maharashtra, India
+                                   Corporate ID No.: L65910MH1987PLCO42961 | Email ID: investor.service@bajajfinserv.in
+          Q4 FY26
+Investor Presentation
+
+      29 April 2026
+Presentation Path
+
+Section 01                            Section 02                      Section 03     Section 04                         Section 05
+
+Executive summary ­ Q4 FY26 and FY26  Bajaj Finance          Financial                   Asset liability  Customer
+                                      Limited                performance-                management
+ Executive                            overview               Q4 FY26                                      franchise and
+ summary ­ Q4                                                                     43
+ FY26 and FY26                                        29                                                  distribution              57
+                                                                                                          50 reach
+                               3
+
+                                      Section 06      Section 07                  Section 08              Section 09
+
+Business                                              Update on            Omnipresence                   Environment,
+
+segment wise                                          credit quality       summary                        Social and
+
+AUM                                                                        overview                       Governance
+
+                                                  62                  65                      74 (ESG)                  78
+
+Click on the section to view                                                                                                            2
+                        1.1 Quarter and year gone by
+
+     Section 01         1.2 Lead financial indicators
+
+Executive summary ­ Q4  1.3  Consolidated financial performance ­
+       FY26 and FY26         FY26
+
+                        1.4 Management assessment for FY27
+
+                                                                   3
+Q4 FY26 Executive summary - Consolidated
+
+(before one-time actions and presentation change)
+
+ A strong quarter across all key metrics, viz. volume, AUM, new
+customer addition, credit cost, profit, ROA and ROE. PBT grew by
+26% to  7,552 crore. AUM crossed a milestone of  5 lakh crore
+and stood at  509,975 crore. Delivered AUM growth of  25,498
+
+    crore, booked 12.89 MM new loans and added 3.93 MM new
+         customers. Customer franchise stood at 119.33 MM.
+
+    AUM    Opex to Net     PBT         PAT                 ROE    Net NPA
+           total income
+ 509,975                  7,552   Pre-minority interest  20.0%     0.41%
+     Cr        33.2%        Cr
+                                     5,660               Q4 FY25   Q4 FY25
+   Growth      Q4 FY25    Growth        Cr                 18.7%    0.44%
+     22%         33.1%      26%
+                                      Growth
+                                         27%
+
+                                                                            4
+Impact of one-time actions and presentation change
+
+Impact of one-time actions:
+
+· In Q4 FY25, the Company recorded an additional ECL provision of  359 crore and a tax benefit of  348 crore
+   on deductibility of certain expenditure based on favourable court and tribunal orders.
+
+· In Q4 FY26, the Company recorded an additional ECL provision of  142 crore towards management and
+   macro-economic overlay.
+
+Presentation change:
+
+· In Q4 FY26, the Company revised presentation of recoveries against written off loans from `Other Operating
+   Income' to `Loan Losses and Provisions' across all periods. This presentation change led to a reduction in net
+   total income (NTI), loan losses and provisions, and related ratios, with no impact on profit before and after tax.
+
+Before one-time actions & presentation change  After one-time actions & presentation change
+
+Particulars          Q4 FY26  Q4 FY25  Growth  Particulars          Q4 FY26 Q4 FY25  Growth
+                                6,006    26%                                           31%
+Profit before tax     7,552     4,466    27%   Profit before tax    7,410  5,647       22%
+                                33.1%
+Profit after tax      5,660                    Profit after tax     5,553 4,546                         5
+                                1.97%
+Opex to NTI           33.2%                    Opex to NTI          33.8% 33.6%
+                                4.5%
+Loan losses & prov.   1.75%     18.7%          Loan losses & prov.  1.65%  2.17%
+to average AUF                                 to average AUF
+
+Annualised ROA        4.7%                     Annualised ROA       4.6%   4.6%
+
+Annualised ROE        20.0%                    Annualised ROE       19.7%  19.1%
+Lead financial indicators for Q4 FY26 ­ consolidated (1/3)
+
+Balance sheet and business metrics
+1. AUM crossed a milestone of  5 lakh crore.
+2. AUM was up 22% to  509,975 crore as against  416,661 crore as of 31 March 2025. It grew by  25,498 crore in Q4 FY26.
+3. New loans booked grew by 20% to 12.89 MM in Q4 FY26 as against 10.70 MM in Q4 FY25.
+Customer franchise and geographic footprint
+4. In Q4, the Company added 3.93 MM customers to its franchise. In FY26, the Company has added 17.51 MM customers.
+5. Customer franchise stood at 119.33 MM as of 31 March 2026. Cross sell franchise stood at 75.51 MM.
+6. In Q4, the Company added 46 new locations and 1.6K distribution points. Geographic presence stood at 4,098 locations and
+
+     active distribution points were over 242K as of 31 March 2026.
+7. In Q4, the Company added 138 Gold Loan and 2 MFI branches. BFL now has 1,507 Gold loan and 447 MFI branches.
+Liquidity and cost of funds
+8. Liquidity buffer stood at  15,020 crore as of 31 March 2026.
+9. In Q4, cost of funds was 7.41%, improving 4 bps over Q3 FY26.
+10. Deposits book stood at  68,533 crore as of 31 March 2026. It contributed to 16% of consolidated borrowings.
+
+                                                                                                                                                                                                                                            6
+Lead financial indicators for Q4 FY26 ­ consolidated (2/3)
+
+Operating efficiencies
+
+11. Net interest income grew by 20% to  11,781 crore as against  9,808 crore in Q4 FY25. NIM remained steady in Q4.
+
+12. Net total income grew by 21% to  14,209 crore as against  11,755 crore in Q4 FY25.
+
+13. Opex to Net total income was 33.8% as against 33.6% in Q4 FY25. Before presentation change, it was 33.2% as against
+     33.1% in Q4 FY25. It increased sequentially due to the cascading impact of the New Labour Codes and accelerated Gold
+     Loan branch expansion. AI implementation has accelerated, enabling growth and improvement in operating efficiencies.
+
+14. Full-time employee count stood at 71,613 as of 31 March 2026. The Company added 1,789 employees in Q4 FY26. Overall
+     employee addition was 7,521 in FY26. Employee attrition was 18.5% in FY26.
+
+15. The Fixed Term Contract (FTC) resource count stood at 83,756 as of 31 March 2026.
+
+Credit cost
+
+16. Loan losses and provisions in Q4 FY26 was  2,008 crore as against  2,167 crore in Q4 FY25. Before additional ECL
+     provision and presentation change, it increased by 8% to  2,125 crore from  1,970 crore in Q4 FY25.
+
+17. Loan loss to average AUF was 1.65% in Q4 FY26 as against 2.17% in Q4 FY25. Before additional ECL provision and
+     presentation change, it was 1.75% as against 1.97% in Q4 FY25.
+
+18. In Q4, net decrease in stage 2 & 3 assets was  430 crore. Stage 2 assets increased by  331 crore and stage 3 assets
+     decreased by  761 crore reflecting continued improvement in portfolio quality and outlook on credit cost.
+
+19. Vintage credit performance across 3MOB, 6MOB and 9MOB continues to reflect significant improvement. We are optimistic
+     about credit cost outlook for FY27.
+
+                                                                                                                                                                                                                                             7
+Lead financial indicators for Q4 FY26 ­ consolidated (3/3)
+
+20. GNPA & NNPA stood at 1.01% & 0.41%, respectively, as of 31 March 2026 as against 0.96% & 0.44% as of 31 March 2025. The
+     provisioning coverage ratio on stage 3 assets was 60% as against 54% in previous year.
+
+Profitability and capital
+21. Pre-provisioning operating profit grew by 21% to  9,408 crore in Q4 FY26.
+22. Profit before tax (PBT) was  7,410 crore in Q4 FY26. Before one-time actions, PBT grew by 26% to  7,552 crore from
+
+      6,006 crore in Q4 FY25.
+23. Profit after tax (PAT) was  5,553 crore in Q4 FY26. Before one-time actions, PAT grew by 27% to  5,660 crore from
+
+      4,466 crore in Q4 FY25.
+24. Annualised ROA, before one-time actions, was 4.7% in Q4 FY26 as against 4.5% in Q4 FY25.
+25. Annualised ROE, before one-time actions, was 20.0% in Q4 FY26 as against 18.7% in Q4 FY25.
+26. Capital adequacy remained strong at 21.55% as of 31 March 2026. Tier-1 capital was 20.67%.
+
+                                                                                                                                                                                                                                            8
+FINAI transformation update (1/5)
+
+FINAI remains central to our long-term vision. The phase wise implementation across businesses and functions has begun to
+ show early signs of costs and productivity benefits. We are on track to become a future-ready financial services company.
+
+#  Stage           Metric                                        UoM Q3 FY26 Q4 FY26 FY26  FY27*
+
+1 People           Dedicated employees working in AI unit        # as of  145  203  203    363
+
+                   Voice to Data conversion for all customer     # MM     21   31   52     200
+                   interactions
+
+2 Data for AI      Text to Data conversion for all customer      # MM     0.5  0.5  2.3    2.6
+                   interactions
+
+                   New loan offers generated from all voice and  # MM     0.1  0.1  0.4    0.4
+                   text AI initiatives
+
+    Product and    Videos generated                              # MM     0.2  0.1  1.5    10
+3 service          Banners generated
+                   Podcasts generated                            # MM     0.1  0.2  0.5    1
+    discovery
+                                                                 #        551  297  852    3,000
+
+                   Outbound & Inbound AI Voice BOTs live         # as of  9    10   10     24
+
+   Customer        AI Text BOTs live                             # as of  11    17  17     32
+   Engagement      Promotional SMS with AI BOT penetration          %     -    11%
+4                                                                                   -      100%
+
+                   Click-through-rate of AI BOT in Promotional   x times  -    -    -      1.5
+                   SMS
+
+   Branch and      Face recognition cameras in store             # as of  -    60   60     1,000
+   point-of-sale
+5                  Face recognition cameras in service branch    # as of  10   -    10     1,200
+
+                   Existing customer face match                  # MM     4.6  6.3  12.2   27.0
+
+* FY27 Assessment                                                                                                           9
+FINAI transformation update (2/5)
+
+#  Stage                                     Metric                   UoM     Q3 FY26 Q4 FY26  FY26   FY27*
+                                                                      # MM                      69.1   120
+6  Customer        Documents processed for application                        21.5   24.8              30%
+   Onboarding                                                           %                         -    90%
+                   Underwriter efficiency via AI summarization          %                         -
+   Operations      of PD notes                                                -      -         5,520  12,103
+   processing      Auto quality check (QC) of documents                                         697   2,750
+7                                                                                               65%    73%
+                                                                                                  -   100%
+                                                                              41%    44%               1.5X
+
+                           Disbursal from leads generated by Voice &   in Cr  1,568  1,895                         10
+                           Text AI BOTs                                in Cr   325    372
+8 Disbursement
+                           Disbursal from leads generated through        %    69%    72%
+                           voice log processing                          %
+
+                           DIY Customers servicing through AI Voice
+                           and Text BOTs
+
+9 Servicing        Service SMS with AI Text BOT penetration                   -      -
+
+                   Click-through-rate of AI BOT in Service SMS X times        -      -         -
+
+* FY27 Assessment
+FINAI transformation update (3/5)
+
+#   Stage                           Metric               UoM     Q3 FY26 Q4 FY26  FY26   FY27*
+                                                            #                     6,632  650K
+                   Receipts through AI Text BOTs                 0    6,632                4.3
+                                                         # MM                      0.3   100%
+     Debt          Receipts through AI Voice BOTs           %    0.1  0.1            -    1.5X
+10 Management      SMS with AI Text BOT penetration                                  -
+                                                        X times  -    -                  100%
+     Service                                                                       71%   100%
+                                                                                     -    65%
+                   Click-through-rate of AI BOT in SMS           -    -                   45%
+                                                                                   39%     118
+                   Business Requirement Document (BRD)     %     98%  99%          24%   600+
+                   generated by AI                         %       -    -
+                   Vibe coding in BRDs                     %                         -     32
+                                                           %     39%  40%           27
+11  Technology     Test cases generated by AI           # as of  26%  28%            -                 11
+    development    Software developer Efficiency        # as of
+                   Agentic AI use cases                 # as of    -    -
+                                                                   -   27
+                   AI Agents                                       -    -
+
+                   Employee AI BOT
+
+* FY27 Assessment
+FINAI transformation update (4/5)
+
+#                    Details                                                                   Timelines    Status
+                                                                                                Q4 FY26   Completed
+1 Data Intelligence
+                                                                                                  FY27      On track
+1.1 Define enterprise-wide data architecture to support AI adoption at scale
+                                                                                                Q1 FY27     On track
+1.2  Build and scale "Data for AI" capabilities, including feature marts, embeddings and data     FY27      On track
+     annotation across voice, text, video, images, unstructured data and knowledge graphs         FY27      On track
+                                                                                                  FY27      On track
+2 Consumer AI
+                                                                                                Q4 FY26   Completed
+2.1  Re-architect 22 business and 2 service journeys; inject AI features like AI-summaries,       FY27    (27 Agents)
+     AI in-page search, AI vision for document scans on existing digital platforms
+                                                                                                            On track
+2.2  Deploy AI-enabled experiences across App and Website covering all business and
+     service journeys                                                                                                             12
+
+2.3 Enable customer discovery across leading AI platforms such as ChatGPT and Gemini
+
+2.4  Build a new consumer AI platform with "Explore" as a core capability for business and
+     service journeys
+
+3 Agentic AI
+
+3.1  Build multi-agent platform and deploy first 25 autonomous agents to support priority
+     enterprise functions
+
+3.2  Scale Agentic AI capabilities by implementing 800+ autonomous agents across Sales,
+     Operations, DMS, HR, IT and Risk
+FINAI transformation update (5/5)
+
+#                             Details                                                       Timelines    Status
+4 Custom AI model                                                                              FY27     Initiated
+                                                                                               FY27     Initiated
+4.1  Use AI to expand data variables for NTB and NTC customers for improved approval           FY27     Initiated
+     rates and enable incremental volume of ~5 lakh accounts for Sales Finance business
+                                                                                             Q4 FY26   Completed
+5 AI Fraud model                                                                               FY27     Initiated
+5.1 Define fraud detection framework with AI-driven capabilities
+
+5.2  Deploy inline, proactive fraud detection model using Vision AI, Voice AI, network and
+     anomaly detection
+
+6 AI Governance and Security
+
+6.1  Define a comprehensive AI governance framework aligned with RBI's FREE-AI policy,
+     covering governance, oversight and responsible use of AI systems.
+
+6.2 Progressively deploy the AI governance policy across all 08 AI domains
+
+                                                                                                                   13
+Q4 FY26 Executive summary ­ BHFL
+
+(before one-time gain in Q4 FY25)
+
+  Good quarter on disbursement, AUM, operating efficiency, asset
+     quality and profit. Disbursement and AUM growth remained
+    strong at 23% each. Loan approvals were up 37%. Opex to NTI
+
+  improved to 19.2% as against 21.8% in Q4FY25. PBT grew by 20%
+                                and PAT grew by 20%.
+
+    AUM   Opex to Net    PBT                                                   PAT1      ROE        Net NPA
+          total income
+ 140,706                 866                                                    669     Annualised   0.11%
+    Cr        19.2%       Cr                                                     Cr
+                                                                                       12.2%         Q4 FY25
+  Growth      Q4 FY25   Growth                                                 Growth                  0.11%
+     23%        21.8%     20%                                                    20%   Q4 FY25
+                                                                                         12.1%                                   14
+
+1 In Q4 FY25, PAT had a one-time gain on account of tax reversal of  34 crore
+Lead financial indicators for Q4 FY26 ­ BHFL (1/2)
+
+ BHFL - Balance sheet and geography
+ 1. AUM was up 23% at  140,706 crore as against  1,14,684 crore as of 31 March 2025.
+ 2. Home loans AUM grew by 18%, Loan against property grew by 24%, Lease rental discounting grew by 44%, Developer
+
+      finance grew by 13%.
+ 3. Portfolio composition for HL : LAP : LRD : DF : Others stood at 54% : 11% : 22% : 12% : 1% as of 31 March 2026.
+ 4. In Q4, overall loan approvals were up by 37% to  28,851 crore as against  21,102 crore in Q4 FY25.
+ 5. In Q4, disbursements were up by 23% to  17,506 crore as against  14,254 crore in Q4 FY25.
+ 6. Geographic presence stood at 182 locations.
+ BHFL - Liquidity and cost of fund
+ 7. Liquidity buffer stood at  2,662 crore as of 31 March 2026.
+ 8. In Q4, Cost of funds was 7.28%, reduced 4 bps over Q3 FY26.
+ 9. Borrowing mix ­ Banks : Money market : NHB stood at 41% : 49% : 10% as of 31 March 2026.
+
+                                                                                                                                                                                                                                           15
+Lead financial indicators for Q4 FY26 ­ BHFL (2/2)
+
+BHFL - Operating efficiencies
+10. Net interest income grew by 15% to  945 crore as against  823 crore in Q4 FY25.
+11. Net total income grew by 20% to  1,141 crore as against  954 crore in Q4 FY25.
+12. Opex to Net total income improved to 19.2% as against 21.8% in Q4 FY25.
+13. Total full time employee headcount stood at 2,052 as of 31 March 2026.
+BHFL - Credit costs
+14. Loan losses and provisions were  55 crore as against  26 crore in Q4 FY25.
+15. Annualised loan loss to average AUF was 0.19% in Q4 FY26 vs 0.11% in Q4 FY25.
+16. GNPA & NNPA stood at 0.27% and 0.11% as of 31 March 2026 as against 0.29% and 0.11% as of 31 March 2025.
+BHFL - Profitability and capital
+17. Profit before tax (PBT) grew by 20% to  866 crore in Q4 FY26.
+18. Profit after tax (PAT) was  669 crore in Q4 FY26. PAT grew by 20% excluding one-time tax reversal in Q4 FY25.
+19. Annualised ROA was 2.3% in Q4 FY26 as against 2.4% in Q4 FY25.
+20. Annualised ROE was 12.2% in Q4 FY26 as against 12.1% in Q4 FY25.
+21. Capital adequacy ratio stood at 22.46% as of 31 March 2026. Tier-1 capital was 22.01%.
+
+                                                                                                                                                                                                                                                                16
+Q4 FY26 Executive summary - BFSL
+
+     Good quarter on new customer addition, AUM and profit.
+Added 124K customers to its franchise in Q4 FY26. AUM grew by
+
+    77% to  7,984 crore and PAT by 50% to  54 crore. Overall
+    customer franchise stood at 1.38 MM as of 31 March 2026.
+
+  AUM   Net total   PBT            PAT    Customer
+        income                            franchise
+ 7,984               74             54
+   Cr      157       Cr             Cr       1.38
+            Cr                                MM
+Growth             Growth         Growth
+   77%    Growth     61%            50%      Growth
+            47%                                41 %
+
+                                                               17
+Lead financial indicators for Q4 FY26 ­ BFSL
+
+BFSL ­ Customer franchise, geography and balance sheet
+
+1. Added 124K customers to its franchise in Q4 FY26 against 71K in Q4 FY25.
+2. Customer franchise stood at 1.38 MM as of 31 March 2026 as against O.98 MM as of 31 March 2025.
+3. AUM was up 77% at  7,984 crore as against  4,505 crore as of 31 March 2025.
+4. Geographic presence stood at 43 locations.
+BFSL ­ Operating efficiencies
+5. Net total income grew by 47% to  157 crore in Q4 FY26 as against  107 crore in Q4 FY25.
+6. Opex to net total income improved to 52.9% in Q4 FY26 as against 57.9% in Q4 FY25.
+7. Total employee headcount stood at 819 as of 31 March 2026.
+BFSL ­ Profitability and capital
+8. Profit before tax grew by 61% to  74 crore in Q4 FY26.
+9. Profit after tax grew by 50% to  54 crore in Q4 FY26.
+10. Annualised ROE was 10.45% in Q4 FY26 as against 11.30% in Q4 FY25.
+11. Net worth stood at  2,086 crore as on 31 March 2026.
+
+                                                                                                                                                                                                                                           18
+Consolidated financial performance - FY26
+
+                                                                                                                                                                                                                     19
+FY26 Executive summary
+
+(before one-time actions and presentation change)
+
+      A strong year across all key metrics, viz. volume, AUM, new
+  customer addition, operating efficiencies, credit cost, profit, ROA
+ and ROE. Delivered PBT growth of 23% to  27,630 crore. Crossed
+ milestones of  5 lakh crore AUM and 50 MM new loans. Delivered
+   AUM growth of  93,314 crore, booked 52.45 MM new loans and
+added 17.51 MM new customers. AI implementation has accelerated,
+
+     enabling growth and improvement in operating efficiencies.
+
+    AUM    Opex to Net      PBT         PAT                ROE    Net NPA
+           total income
+ 509,975                  27,630   Pre-minority interest  19.2%    0.41%
+     Cr        32.8%         Cr
+                                     20,689                FY25      FY25
+   Growth        FY25      Growth        Cr                19.1%    0.44%
+     22%         33.2%       23%
+                                       Growth                                                  20
+                                          24%
+Impact of one-time actions and presentation change
+
+Impact of one-time actions in FY25 and FY26:
+
+ · FY25: In Q4 FY25, the Company recorded an additional ECL provision of  359 crore, along with a tax benefit
+   of  348 crore arising from favourable court rulings.
+
+· FY26: In Q3 FY26, the Company recognized an accelerated ECL provision of  1,406 crore to enhance balance
+  sheet resilience and took a charge of  265 crore towards the New Labour Codes. Further, in Q4 FY26,the
+  Company took an additional ECL provision of  142 crore towards management and macro-economic overlay.
+
+Presentation change:
+
+ · The Company changed presentation of recoveries against written off loans from `Other Operating Income' to
+   `Loan Losses and Provisions' across all periods. This presentation change led to a reduction in net total
+   income (NTI), loan losses and provisions, and related ratios, with no impact on profit before and after tax.
+
+Before one-time actions & presentation change  After one-time actions & presentation change
+
+Particulars          FY26   FY25    Growth     Particulars         FY26     FY25   Growth
+                    27,630  22,439    23%                          25,817  22,080     17%
+Profit before tax   20,689  16,700    24%      Profit before tax   19,332  16,779    15%
+                    32.8%   33.2%                                  33.3%   33.9%
+Profit after tax                               Profit after tax                                       21
+                    1.93%   2.07%                                  2.09%    1.93%
+Opex to NTI                                    Opex to NTI
+Loan losses & prov   4.6%    4.5%              Loan losses & prov   4.3%    4.6%
+to Average AUF       19.2%   19.1%             to Average AUF      18.1%    19.2%
+Annualised ROA                                 Annualised ROA
+
+Annualised ROE                                 Annualised ROE
+Executive summary FY26 ­ Consolidated (1/2)
+
+ Balance sheet and business metrics
+ 1. Delivered AUM growth of  93,314 crore in FY26.
+ 2. AUM crossed a milestone of  5 lakh crore. It grew 22% to  509,975 crore from  416,661 crore as of 31 March 2025.
+ 3. New loans booked crossed a milestone of 50 MM loans. It was up 21% to 52.45 MM in FY26 as against 43.42 MM in FY25.
+ Customer franchise and geographic footprint
+ 4. Customer franchise grew by 17.51 MM in FY26 and stood at 119.33 as of 31 March 2026.
+ 5. Geographic presence stood at 4,098 as on 31 March 2026.
+ Liquidity and cost of fund
+ 6. Cost of funds improved by 43 bps in FY26 to 7.54% as against 7.97% in FY25.
+ 7. Consolidated deposit book stood at  68,533 crore as of 31 March 2026.
+ Operating efficiencies
+ 8. Net interest income for FY26 grew 21% to  44,110 crore as against  36,394 crore in FY25.
+ 9. Net total income for FY26 grew 21% to  53,324 crore as against  44,077 crore in FY25.
+ 10. Opex to Net total income for FY26 was 33.3% as against 33.9% in FY25. Before the presentation change, it was 32.8% in
+
+      FY26 as against 33.2% in FY25.
+
+                                                                                                                                                                                                                                           22
+Executive summary FY26 ­ Consolidated (2/2)
+
+ Credit cost
+ 11. Loan losses and provisions for FY26 was  9,482 crore as against  7,088 crore in FY25. Before additional ECL provision
+
+      and the presentation change, it increased by 15% to  8,734 crore in FY26 from  7,607 crore in FY25.
+ 12. Loan loss to average AUF was 2.09% in FY26 as against 1.93% in FY25. Before additional ECL provision and the
+
+      presentation change, it was 1.93% in FY26 as against 2.07% in FY25.
+ Profitability and capital
+ 14. Pre-provisioning operating profit grew by 22% to  35,548 crore in FY26.
+ 15. Profit before tax (PBT) was  25,817 crore in FY26. PBT, before one-time actions, grew by 23% to  27,630 crore in FY26
+
+      from  22,439 crore in FY25.
+ 16. Profit after tax (PAT) was  19,332 crore in FY26. PAT, before one-time actions, grew by 24% to  20,689 crore in FY26
+
+      from  16,700 crore in FY25.
+ 17. ROA (before one-time actions) was 4.6% in FY26 as against 4.5% in FY25.
+ 18. ROE (before one-time actions) was 19.2% in FY26 as against 19.1% in FY25.
+ 19. The Board of Directors has recommended a final dividend of  6.00 per equity share of face value of  1 each for FY26.
+
+      This includes a special payout of  0.60 per equity share out of the exceptional gain on sale of BHFL shares. Previous
+      year overall dividend was  5.60 per equity share of face value of  1 each, adjusted for split and bonus.
+
+                                                                                                                                                                                                                                           23
+Executive summary FY26 ­ Subsidiaries
+
+Bajaj Housing Finance Limited (BHFL):
+20. AUM was up 23% at  140,706 crore as against  1,14,684 crore as of 31 March 2025.
+21. Net interest income for FY26 grew by 25% to  3,752 crore as against  3,007 crore in FY25.
+22. Net total income for FY26 grew by 23% to  4,391 crore as against  3,575 crore in FY25.
+23. Opex to Net total income for FY26 improved to 19.7% as against 20.9% in FY25.
+24. Profit before tax grew 20% to  3,320 crore in FY26.
+25. Profit after tax (PAT) was  2,560 crore in FY26. PAT (before one-time tax reversal in FY25) grew by 20%.
+26. In FY26, BHFL delivered ROA of 2.3% as against 2.4% in FY25.
+27. In FY26, BHFL delivered ROE of 12.1% as against 13.4% in FY25.
+Bajaj Financial Securities Limited:
+28. Acquired 399K customers. The customer franchise stood at 1.38 MM as of 31 March 2026.
+29. AUM was up 77% at  7,984 crore as against  4,505 crore as of 31 March 2025.
+30. Net total income grew by 31% to  578 crore in FY26 as against  441 crore in FY25.
+31. Profit before tax grew by 49% to  273 crore in FY26 as against  183 crore in FY25.
+32. Profit after tax grew by 46% to  203 crore in FY26 as against  139 crore in FY25.
+33. Company delivered ROE of 12.01% in FY26 as against 12.33% in FY25
+
+                                                                                                                                                                                                                                           24
+Management assessment
+
+                                                                                                                                                                             25
+Management assessment - FY26 update
+
+ The Company delivered a strong performance in FY26 across
+ key metrics, leading to robust profit growth and return ratios.
+AUM growth was marginally below our assessment on account
+
+     of `risk-first' actions in MSME businesses. Proactive risk
+        actions undertaken by the Company contributed to
+                  improvement in credit costs for FY26.
+
+                       Overall, FY26 was a good year!
+
+                                                                                                                                                                                                                                           26
+Management assessment - FY26 update
+
+(before one-time actions and presentation change)
+
+# Particulars                           What we said         What we did       Status
+                                                             17.51 MM
+1 Customer franchise addition           14 - 16 MM           22%                              27
+2 AUM growth                            24% - 25%            Marginally lower
+3 Net Interest Margin (NIM)             Stable NIM           17%
+4 Fee and other income                  13%-15%              36 bps
+5 Opex to Net total income improvement  40 - 50 bps          1.93%
+6 Credit cost                           1.85% - 1.95%        24%
+7 Profitability (PAT Growth)            Optimistic           4.6%
+8 ROA                                   4.4% - 4.6%          19.2%
+9 ROE                                   19% - 20%            1.01%
+10 GNPA                                 < 1.4%               0.41%
+11 NNPA                                 < 0.5%               On track
+12 FINAI Transformation                 AI across processes
+Management assessment for FY27
+
+The FY27 assessment is based on expectations of easing geo-political tensions and macro stability.
+· FINAI transformation ­ The Company will significantly accelerate deployment of AI use cases across
+
+   revenue, cost, customer engagement, underwriting, productivity and controllership.
+· Customer franchise ­ The Company remains confident of adding 15-17 MM customers.
+· AUM ­ The Company estimates AUM growth of 22-24%, aided by new businesses launched in last few years.
+· Net Interest Margin (NIM) - The Company expects marginal moderation in NIM.
+· Non-interest income ­ The Company estimates non-interest income to grow by 16-18%.
+· Opex to Net total income (NTI) ­ Opex to NTI is estimated to improve by 25-40 bps from current levels.
+· Credit cost - The Company estimates net loan loss to average AUF in the corridor of 1.45%-1.60%.
+· Profitability ­ The Company is optimistic about profit growth.
+· Return on assets ­ Return on assets is estimated to be in the range of 4.4%-4.6%.
+· Return on equity ­ Given excess capital, ROE metric is estimated to be between 19%-20%.
+· GNPA and NNPA ­ GNPA and NNPA is estimated to remain lower than long-term guidance.
+
+                                                                                                                                                                                                                                           28
+   Section 02          2.1 Bajaj group structure
+                       2.2 What do we stand for
+Bajaj Finance Limited  2.3 Key strategic differentiators
+         overview      2.4 Our shareholder profile
+
+                             BFL Consolidated 19-years financial
+                       2.5 snapshot
+                       2.6 BHFL 9-years financial snapshot
+                       2.7 Product suite
+                       2.8 Executive summary
+
+                                                                                                                     29
+Bajaj Group Structure
+
+                                                                              Bajaj Finserv Ltd.
+                                                                                     (Listed)
+
+                    51.32%1 4                                                                   77.33%2                                  77.33%2                                      100%
+
+Bajaj Finance Ltd.                                                       Bajaj Life                               Bajaj General                           Bajaj Finserv
+       (Listed)                                                       Insurance Ltd.                             Insurance Ltd.                            Health Ltd.
+
+                                                              86.70%                                                                               100%4                           100%
+
+                    Bajaj Housing Finance                                                                      Bajaj Finserv Asset                        Vidal Healthcare
+                           Ltd. (Listed)                                                                        Management Ltd.                           Services Pvt. Ltd.
+
+                                     100%
+
+                    Bajaj Financial
+                    Securities Ltd.
+
+                                                                      19.9%3                            80.1%                                                               100%5
+
+                                                                              Bajaj Finserv                                                                Bajaj Alternate
+                                                                               Direct Ltd.                                                                    Investment
+
+                                                                                                                                                          Management Ltd.
+
+1. 54.70% holding via promoter holding & promoter group
+2. 100% holding via promoter & promoter group companies
+3. 19.9% holding via Bajaj Finance Ltd. In Bajaj Finserv Direct Ltd.
+4. Bajaj Finserv Mutual Fund Trustee Ltd is a wholly owned subsidiary of Bajaj Finserv Limited, acts as Trustee to the Asset Management Company
+5. Newly formed Company, business yet to commence. Regulatory approvals in process
+
+                                                                                                                                                                                            30
+What do we stand for
+
+                     "A diversified non-bank with a deposit taking license"
+
+   "Focused on mass and affluent segments, leveraging cross-sell to drive lifetime
+                                                      value"
+
+    "Diversified financial services strategy with an optimal mix of risk and profit to
+                                   deliver a resilient business model"
+
+  "Business construct is to deliver a sustainable ROA of 4.3%-4.7% and ROE of 19%-
+                                            21% in the long term"
+
+ "Focused on continuous innovation to transform customer experience and create
+                                           growth opportunities"
+
+                                                                                                                                                                                                                                          31
+Long-term guidance on financial metrics - Consolidated
+
+AUM growth      Profit growth         GNPA
+in corridor of  in corridor of    in corridor of
+
+  23%-25%         23%-24%              <1.4%
+
+    NNPA        Return on assets  Return on equity
+in corridor of    in corridor of    in corridor of
+                    4.3%-4.7%          19%-21%
+    <0.5%
+                                                                                                   32
+Key strategic differentiators                          A trusted brand with strong brand equity
+
+ Part of the Bajaj group ­ one of the oldest & most    Total customer franchise of 119.33 MM
+ respected business houses
+ Focus on mass and affluent segments                   Highly data oriented. Deep data talent bench and technology
+ Strong focus on cross selling assets, payments,       architecture to enable cross sell
+ insurance and deposit products to existing customers
+                                                       Consolidated lending AUM mix for Urban : Rural : MSME :
+ A well-diversified balance sheet                      Commercial : Mortgages stood at 30% : 11% : 14% : 13% : 32%.
+                                                       Consolidated borrowing mix for Money Markets: Banks:
+ Agile and innovative                                  Deposits: ECB stood at 48% : 31% : 16% : 5%
+ Committed to technology and analytics to transform
+ customer experience                                   Continuous transformation in product features and digital
+                                                       technologies to maintain competitive edge
+ BFL 3.0 ­ A FINAI Company
+                                                       Has helped achieve multi product cross sell and manage risk &
+                                                       controllership effectively. Focused on delivering frictionless
+                                                       experience to customer
+
+                                                       Be an pre-eminent choice which meets all financial services
+                                                       needs of its 200 MM customers. Its AI enabled technology
+                                                       architecture that integrates AI across all its processes to
+                                                       deliver significant operating leverage and create a virtuous
+                                                       growth cycle
+
+                                                                                                                                                                          33
+Our shareholder profile                                                          Top 20 investors and their holdings
+
+                                                           #                     Name of Shareholder                   As on 31 As on 31 As on 31
+                                                                                                                        Mar 25 Dec 25 Mar 26
+
+FII & FPI                                                  1 BAJAJ FINSERV LTD                                         51.14%  51.32%  51.32%
+                                                                                                                       3.05%   3.05%   3.06%
+21.32%                                                     2 MAHARASHTRA SCOOTERS LIMITED                              2.53%   2.15%    2.11%
+                                                                                                                       1.35%   1.33%   1.47%
+                                                           3 GOVERNMENT OF SINGAPORE                                   0.74%   0.78%   0.81%
+                                                                                                                       0.64%   0.66%   0.66%
+                                                           4 LIFE INSURANCE CORPORATION OF INDIA                       0.70%   0.61%   0.66%
+
+                                                           5 SBI NIFTY 50 ETF                                          0.58%   0.61%   0.63%
+
+  Corporates                                               6 VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND             0.51%   0.56%   0.59%
+                                                                                                                       0.50%   0.53%   0.56%
+    7.32%                                                  7 ICICI PRUDENTIAL LIFE INSURANCE COMPANY LIMITED           0.41%   0.46%   0.50%
+                                                                                                                       0.77%   0.40%   0.46%
+ Resident &        Shareholding                            8   VANGUARD EMERGING MARKETS STOCK INDEX FUND, A           0.62%   0.52%   0.46%
+non resident            profile                                SERI                                                    0.16%   0.14%   0.45%
+ individuals                                 Promoters &                                                               0.27%   0.29%   0.39%
+                   0.43%                   Promoter Group  9 SBI LIFE INSURANCE CO. LTD                                0.40%   0.34%   0.34%
+   7.46%                                                                                                               0.24%   0.26%   0.33%
+                   Others                      54.71%      10 SBI BSE SENSEX ETF
+               MF                                                                                                      0.33%   0.34%   0.33%
+                                                           11 ISHARES CORE MSCI EMERGING MARKETS ETF
+           8.76%                                                                                                       0.11%   0.22%   0.28%
+                                                           12 LIFE INSURANCE CORPORATION OF INDIA - P & GS FUND
+                                                                                                                       0.23%   0.25%   0.27%
+                                                           13 GOVERNMENT PENSION FUND GLOBAL                                                  34
+
+                                                           14 NEW WORLD FUND INC
+
+                                                           15 SBI FOCUSED FUND
+
+                                                           16 SBI EQUITY HYBRID FUND
+
+                                                           17 LICI ASM NON PAR
+
+                                                           18  VANGUARD  FIDUCIARY    TRUST    COMPANY  INSTITUTIONAL
+                                                               TOT
+
+                                                           19  NPS  TRUST-  A/C  LIC  PENSION  FUND  SCHEME  -  STATE
+                                                               GOV
+
+Above shareholding is as of 31 March 2026                  20 UTI NIFTY 50 ETF
+19-years financial snapshot - Consolidated                                                                                                                                 in crore
+
+(before presentation changes)                                                           FY21                                                      FY22  FY23  FY24  FY25  FY26                CAGR
+                                                                                                                                                                                              (19Y)
+Financials snapshot @ FY08 FY09 FY10 FY11 FY12 FY13 FY14 FY15 FY16 FY17 FY18 FY19 FY20
+
+Loans booked (MM)   1.0 0.6 0.9 1.6 2.2 2.8 3.4 4.9 6.8 10.1 15.3 23.5 27.4 16.9 24.7 29.6 36.2 43.4 52.5 25%
+
+Cust. franchise (MM) 0.8 1.2 1.9 3.0 4.7 6.7 9.3 12.9 16.1 20.1 26.2 34.5 42.6 48.6 57.6 69.1 83.6 101.8 119.3 32%
+
+AUM ( `000 Cr)      2.5 2.5 4.0 7.6 13.1 17.5 24.1 32.4 44.2 60.2 82.4 115.9 147.2 152.9 197.5 247.4 330.6 416.7 510.0 34%
+
+Total income        503 599 916 1,406 2,172 3,110 4,073 5,418 7,333 9,989 12,757 18,500 26,386 26,683 31,648 41,418 54,983 69,725 82,789 33%
+
+Interest expenses   170 164 201 371 746 1,206 1,573 2,248 2,927 3,803 4,614 6,623 9,473 9,414 9,754 12,560 18,725 24,771 28,666 33%
+
+Net total income (NTI) 332 435 715 1,035 1,426 1,904 2,500 3,170 4,406 6,186 8,143 11,877 16,913 17,269 21,894 28,858 36,258 44,954 54,123 33%
+
+Operating expenses 193 220 320 460 670 850 1,151 1,428 1,898 2,564 3,270 4,197 5,662 5,308 7,587 10,142 12,325 14,926 17,776 29%
+
+Loan losses & prov  109 164 261 205 154 182 258 385 543 804 1,030 1,501 3,929 5,969 4,803 3,190 4,631 7,966 10,282 29%
+
+Profit before tax   30 51 134 370 602 872 1,091 1,357 1,965 2,818 3,843 6,179 7,322 5,992 9,504 15,528 19,310 22,080 25,817 46%
+
+Profit after tax    21 34 89 247 406 591 719 898 1,279 1,837 2,496 3,995 5,264 4,420 7,028 11,508 14,451 16,779 19,332 46%
+
+Ratios
+
+Opex to NTI         58.1% 50.6% 44.8% 44.4% 47.0% 44.6% 46.0% 45.0% 43.1% 41.4% 40.2% 35.3% 33.5% 30.7% 34.7% 35.1% 34.0% 33.2% 32.8%
+
+Loan loss to avg. AUF 3.58% 4.89% 7.05% 3.63% 1.58% 1.25% 1.30% 1.42% 1.47% 1.61% 1.50% 1.55% 3.10% 4.14% 2.84% 1.47% 1.63% 2.17% 2.27%
+
+Return on assets    0.7% 1.4% 2.8% 4.4% 4.2% 4.1% 3.6% 3.3% 3.5% 3.7% 3.7% 4.2% 4.1% 3.1% 4.2% 5.3% 5.1% 4.6% 4.3%
+
+Return on equity    2.0% 3.2% 8% 19.7% ^24.0% 21.9% 19.5% 20.4% 20.9% 21.6% 20.1% 22.5% 20.2% 12.8% 17.4% 23.5% 22.1% 19.2% 18.1%
+Net NPA*             7% 5.50% 2.20% 0.80%*0.12% 0.19% 0.28% 0.45% 0.28% 0.44% 0.43% 0.63% 0.65% 0.75% 0.68% 0.34% 0.37% 0.44% 0.41%
+
+Provisioning coverage 30% 32% 55% 79% 89% 83% 76% 71% 77% 74% 70% 60% 60% 58% 58% 64% 57% 54% 60%
+
+CRAR (standalone) 40.7% 38.4% 25.9% 20.0% 17.5% 21.9% 19.1% 18.0% 19.5% 20.3% 24.7% 20.7% 25.0% 28.3% 27.2% 25.0% 22.5% 21.9% 21.6%
+
+Leverage ratio      2.6 2.5 3.8 5.9 6.4 5.3 6.2 6.8 6.3 6.6 5.4 6.3 5.1 4.7 4.9 5.1 4.9 4.7 4.8
+
+@ All figures till FY17 are as per previous GAAP on standalone basis. All figures from FY18 onwards are as per Ind AS and on consolidated basis.
+
+* As per the RBI regulations, NNPA numbers up to FY15 are at 6 months overdue, FY16 are at 5 months overdue, FY17 are at 4 months overdue, FY18 to Nov'21 are at 3 months overdue and Dec'21  35
+onwards are at 91 days past due. Hence NPA across periods are not comparable.
+9-years financial snapshot ­ BHFL
+
+Financials Snapshot                FY18      FY19    FY20     FY21    FY22    FY23   FY24     FY25                                                                   FY26      in crore
+                                                                                                                                                                             CAGR
+AUM ( Cr)                          3,570     17,562  32,705  38,871  53,322  69,228  91,370  114,684                                                                140,706  (9 yrs.)
+Total income                        106       1,156  2,646   3,155   3,766   5,655   7,601    9,554                                                                  11,151   58%
+Interest expenses                    47       685     1,616  1,966    2,155   3,211  4,692    5,979                                                                  6,760     79%
+Net Total Income (NTI)               59        471   1,030    1,189   1,611  2,444   2,909    3,575                                                                  4,391    86%
+Operating Expenses                   44       297      339    329              630    703                                                                             867
+Pre-provisioning operating profit    15        174            860      471    1,814  2,206     747                                                                   3,524     71%
+Loan Losses & Provision                                691     247    1,140                   2,828                                                                    191    45%
+PBT before exceptional item           4        25      124     613     180     114     45                                                                            3,333    98%
+Exceptional Item                     11       149      567             960    1,700   2,161     58                                                                      13    62%
+Profit before tax                                              613                            2,770                                                                  3,320    104%
+Profit after tax                     11       149      567    453      960    1,700   2,161                                                                          2,560    104%
+                                     10        110     421             710    1,258   1,731   2,770                                                                           100%
+                                                                                              2,163                                                                  FY26
+                                                                                                                                                                     19.7%              36
+Key Ratios:                        FY18      FY19    FY20     FY21   FY22     FY23    FY24    FY25                                                                   0.17%
+Opex to NTI                                          32.9%   27.7%   29.2%   25.8%   24.2%   20.9%                                                                    2.3%
+Loan loss to avg. loan assets      74.6%     63.1%   0.55%   0.80%   0.45%   0.21%   0.06%   0.07%                                                                   12.1%
+Return on average assets                              1.9%    1.5%    1.8%    2.3%    2.4%    2.4%                                                                   0.27%
+Return on average equity           0.22% 0.24%        9.1%    7.8%    11.1%  14.6%   15.2%    13.4%                                                                  0.11%
+Gross NPA                                            0.08%   0.35%   0.31%   0.22%   0.27%   0.29%                                                                    60%
+Net NPA                            0.6%      1.1%    0.05%   0.22%   0.14%   0.08%   0.10%    0.11%                                                                 22.46%
+Provision coverage ratio                              38%     38%     54%     64%     64%      60%                                                                    5.65
+CRAR                               1.1%   ^  4.2%    25.15%  21.33%  19.71%  22.97%  21.28%  28.24%
+Leverage ratio                            *           5.62    6.28    7.20     6.16   6.69     5.15                                                                     -
+Capital infusion*                  0.00%     0.05%   1,500                   2,500            5,560
+                                   0.00%     0.04%               -      -                -
+
+                                   -         35%
+
+                                   45.12% 25.81%
+
+                                   3.03      5.26
+
+                                   1,200     2,000
+
+* Capital infusion of  328 crore prior to FY18 ,  2,000 crore on 3rd April 2024 via rights issue and  3,560 crore on 16th September 2024 through Fresh issue (IPO)
+Product suite                                          BAJAJ FINANCE LIMITED
+
+Consumer                    MSME                       Commercial               Rural                      Deposits         Payments       Partnership &
+                                                                                                                                                Services
+1. Consumer Durable         1. Unsecured Working       1. Loan against          1. Consumer Durable        1. Retail Term  Issuance
+   Loans                       Capital Loans              securities               Loans                      Deposits     1. PPI          1. Life Insurance
+                                                                                                                           2. UPI             Distribution
+2. Digital Product Loans    2. Loans to Self employed  2. IPO financing         2. Digital Product Loans   2. Corporate    3. BBPS
+3. Lifestyle Product Loans     & Professionals                                                                Term         4. FASTag       2. General
+4. Lifecare financing                                  3. Large corporate       3. Lifestyle Product          Deposits     5. Bajaj Prime     Insurance
+5. EMI Card                 3. Business Loans             lending                  Loans                                                      Distribution
+6. Retail spend financing      Secured                                                                                     Acquiring
+7. 2W and 3W financing                                 4. Mid-corporate         4. Personal Loans Cross                    1. Merchant     3. Health
+8. Personal Loan Cross-     4. Used-car financing         lending                  Sell Salaried                                              Insurance
+                                                                                                                              QR              Distribution
+   Sell                     5. Medical equipment       5. Emerging corporate    5. Personal Loans                          2. EDC
+9. Salaried Personal Loans                                lending                                                                          4. Pocket
+10.E-Commerce financing     6. Loan against property                            6. Gold Loans                                 machine         Insurance
+11.Retailer finance
+12.Solar Financing          7. New car financing                                7. Loans to Professionals                                  5. Financial Pulse
+                                                                                                                                              Report
+1. Salaried Home Loans      8. Commercial vehicle                               8. Microfinance
+2. Salaried LAP                                                                                                                                                 37
+3. Near Prime & Affordable  9. Auto leasing                                     9. Tractor finance
+
+   housing finance          10.Industrial Equipment                             10.Affordable mortgage
+                               financing
+1. Trading Account
+2. Depository Services                                 BAJAJ HOUSING FINANCE LIMITED
+3. Margin Trading
+                            4. Loan Against Property   7. Developer Finance
+   Financing                                           8. Construction Finance
+                            5. Self Employed HL        9. Corporate LRD
+
+                            6. Lease Rental
+                               Discounting (LRD)
+
+                                                      BAJAJ FINANCIAL SECURITIES LIMITED
+
+                            4. HNI Broking             7. Distribution of MF    10. ESOP financing
+                            5. Retail Broking          8. Distribution of PMS
+                            6. IPOs and OFS            9. Proprietary Trading
+Executive summary ­ Bajaj Finance
+
+Overview        · Focused on Urban, Rural, SME, Commercial and Payments businesses
+                · Strategic business unit organisation design supported by horizontal common utility functions to drive domain expertise,
+Consumer
+business           scalability and operating leverage
+                · Leveraging AI, digital transformation, cloud computing, and other modern technology stack to increase revenue, reduce
+
+                   costs, enhance scalability, and improve productivity and controllership
+                · Focused on cross sell, customer experience and product & process innovations to create a differentiated & profitable
+
+                   business model
+                · AUM of  372,986 crore as of 31 March 2026
+                · AUM mix as of 31 March 2026 ­ Urban : Rural : SME : Commercial : Mortgage stood at 41% : 15% : 19% : 16% : 9%
+                · Profit after tax of  4,840 crore in Q4 FY26
+                · Capital adequacy ratio (including Tier II capital) of 21.55% as of 31 March 2026. Tier I capital stood at 20.67%
+
+                · Present in 1,527 locations with 164K+ points of sale as of 31 March 2026
+                · Largest consumer electronics, digital products & lifestyle products lender in India
+                · 2-wheeler financing business disbursed 135K accounts in Q4 FY26
+                · 3-wheeler financing business disbursed 10K accounts in Q4 FY26
+                · Amongst the largest personal loan lenders in India
+
+Payments        · EMI Card franchise stood at 94.43 MM cards in force (CIF) as of 31 March 2026
+                · Digital app platform has 86.63 MM net users as of 31 March 2026
+
+                · Rural B2C AUM grew by 25% YOY in Q4 FY26.
+
+Rural business  · Highly diversified lender in rural markets offering 10 loan products across consumer and MSME business categories
+                · Operates with a unique hub and spoke business model
+
+                · Present in 2,571 towns and villages with 68K+ points of sale as of 31 March 2026                                         38
+Executive summary ­ Bajaj Finance
+
+MSME Business   · Offers unsecured working capital loans to MSME and self-employed professionals
+                · Secured offerings include enterprise loans against property
+                · Focused on accelerating used car financing business
+                · Focused on affluent MSMEs with established financials & demonstrated borrowing track record
+                · Offers medical equipment financing from  3 Lakh to  30 crore for medical professionals
+
+Commercial      · Offers short, medium and long-term financing to mid market corporates
+  business
+                · Focused on auto ancillaries, pharma, specialty chemicals, financial institution groups, lease rental discounting and top mid
+                   corporate clients in India
+
+Treasury        · Strategy is to create a balanced mix of wholesale and retail borrowings with a focus on long term borrowings
+
+                · In Q4, standalone cost of funds was 7.47%
+
+                · Borrowings stood at  322,818 crore with a mix of 47% : 25% : 7% : 21% between money markets, banks, ECB and deposits as
+                   of 31 March 2026
+
+Credit Quality  · GNPA and NNPA as of 31 Mar 2026 stood at 1.27% and 0.52% respectively
+                · Provisioning coverage ratio as of 31 March 2026 was 60%
+                · Provisioning coverage on stage 1 & 2 stood at 180 bps as of 31 March 2026
+
+Credit Rating   · Credit rating for long term borrowing is AAA/Stable by CRISIL, ICRA, CARE & India Ratings
+                · Credit rating for short term borrowing is A1+ by CRISIL, ICRA, CARE & India Ratings
+                · Credit rating for FD program is AAA (Stable) by CRISIL & ICRA
+                · Long term & short term issuer credit rating of BBB/Stable & A-2 respectively by S&P Global ratings
+                · Baa3 corporate family ratings (CFR) with stable outlook by Moody's Ratings
+
+                        · Reserve Bank of India
+
+Regulated by · Securities and Exchange Board of India
+                        · Insurance Regulatory Development Authority of India (IRDAI)
+
+                                                                                                                                                                                                                                         39
+Executive summary ­ Bajaj Housing Finance
+
+Overview      · Subsidiary of Bajaj Finance Limited
+
+              · Independent organization design having all dedicated functions and units to drive domain expertise, scalability and
+                 operating leverage
+
+              · Offers full range of mortgage products such as home loans, loan against property and lease rental discounting to salaried
+                 & self-employed customers. It also offers construction finance and inventory finance to credit worthy developers
+
+              · Focused on mass affluent and above customers (salaried and self employed)
+
+              · AUM of  140,706 crore as of 31 March 2026. Profit after tax of  669 crore in Q4 FY26
+
+              · Capital adequacy ratio (including Tier II capital) was 22.46% as of 31 March 2026
+
+Home Loans    · Offers home loans to all customer segments: Salaried, self-employed, and professionals and all customer classes: Prime,
+                 Near Prime and Affordable for an average ticket size of 48.4 lakhs
+
+              · Leveraging Developer Finance relationships: Key sourcing funnel for retail home loans
+              · Focused on home loans ­ Purchase and Balance transfer directly as well as through channel partners
+              · Micro market strategy to bifurcate locations into dedicated operational areas
+              · Present in 182 locations as of 31 March 2026
+              · Home loan mix as of 31 March 2026 ­ Salaried : Self Employed : Professionals stood at 84% : 13% : 3%
+
+Loan Against  · Offers LAP to all customer segments: Self-employed, salaried and professionals for an average ticket size of 88.0 lakhs
+   Property   · Focused on sourcing from both intermediaries as well as direct-to-customer channels
+              · Present in 74 locations as of 31 March 2026
+
+                                                                                                                                         40
+Executive summary ­ Bajaj Housing Finance
+
+Lease Rental   · Offers LRD to high net-worth individuals and developers against commercial property leased to corporate lessees
+Discounting    · Customer base spans across commercial real estate developers, listed REITs, Private Equity and Sovereign funds
+               · LRD transactions are backed by rentals through escrow mechanism
+               · Present in 17 locations as of 31 March 2026
+
+Developer      · Offers construction finance and inventory finance mainly to category A and A+ developers in India
+Financing      · Act as sourcing funnel for retail home loans
+               · Present in 15 locations as of 31 March 2026
+
+Credit Quality · GNPA and NNPA as of 31 March 2026 stood at 0.27% and 0.11% respectively
+
+Treasury       · Strategy is to create a balanced and sustained mix of borrowings
+
+               · Borrowings stood at  1,03,704 crore with a mix of 41% : 49% : 10% between banks, money markets and NHB as of 31 March
+                  2026
+
+Credit Rating  · Credit rating for long term borrowing is AAA/Stable by CRISIL & IND AAA/Stable by India Ratings
+               · Credit rating for short term borrowing is A1+ by CRISIL & IND A1+ by India Ratings
+
+Regulated by   · Reserve Bank of India and supervised by National Housing Bank
+               · Securities and Exchange Board of India
+               · Insurance Regulatory Development Authority of India (IRDAI)
+
+                                                                                                                                  41
+Executive summary ­ Bajaj Financial Securities
+
+    Overview     · A 100% subsidiary of Bajaj Finance Limited
+                 · Offers a wide range of capital market products - Broking, Depositary services, Margin Trade Financing, ESOP Financing,
+Branch Broking
+ Retail Broking     IPOs and Distribution of Mutual Funds, PMS, and AIF.
+ Credit Rating   · Broking business caters to two different business segments ­ Branch and Retail
+ Regulated by    · AUM as of 31 March 2026 stood at  7,984 crore (Margin Trade Financing : 6,783 crore and ESOP financing: 1,201 crore)
+                 · Net total income was  157 crore in Q4 FY26
+                 · Profit after tax was  54 crore in Q4 FY26
+
+                 · Business oriented towards delivering relationship-based broking solutions focused on UHNI & HNI client segment
+                 · Focused on building MTF relationship. MTF book stood at  5,695 crore as of 31 March 2026
+                 · Present in 43 locations as of 31 March 2026
+                 · Added 5K UHNI/HNI clients in Q4 FY26. Total client base stood at 90K as of 31 March 2026
+
+                 · Added 119K trading and demat accounts in Q4 FY26 with focus to add accounts with higher propensity to trade.
+                 · Total retail client base stood at 1.29MM as of 31 March 2026
+                 · Crossed 1,650+ network of partners and affiliates
+                 · Working with 410+ Independent Business Advisor (IBAs)
+                 · MTF book stood at  1,088 crore as of 31 March 2026
+
+                 · Credit rating for long term borrowing is AAA/Stable by CRISIL Ratings
+                 · Credit rating for short term borrowing is A1+ by CRISIL & IND A1+ by India Ratings
+
+                 · Securities and Exchange Board of India
+
+                                                                                                                                                                                                                          42
+                               Financial statement summary ­
+                         3.1 Consolidated
+
+    Section 03           3.2  Financial statement summary ­
+                              Bajaj Finance Limited
+Financial performance--
+           Q4 FY26       3.3 Financial statement summary ­
+                               Bajaj Housing Finance Limited
+
+                         3.4  Financial statement summary ­
+                              Bajaj Financial Securities Limited
+
+                                                                  43
+Financial summary ­ Consolidated                                                                      in Crore
+
+(before one-time actions and presentation change)                                                    Y-o-Y
+                                                                                                      22%
+Financials snapshot                                      Q4 FY26   Q4 FY25  Y-o-Y    FY26    FY25     22%
+Assets under management                                  509,975   416,661   22%   509,975  416,661   19%
+Assets under finance                                     498,944   407,844   22%   498,944  407,844   16%
+Interest income                                                     16,359   17%             61,164   21%
+Interest expenses                                          19,179            13%    72,776   24,770   17%
+Net interest income                                        7,398     6,551   20%    28,666  36,394    20%
+Non-interest income                                       11,781    9,808    27%    44,110            19%
+Net total income (NTI)                                     2,687     2,109   21%    10,013    8,561   21%
+Operating expenses                                        14,468    11,917   22%    54,123  44,955    15%
+Pre-provisioning operating profit                          4,801     3,950   21%    17,776   14,927   (8%)
+Loan losses and provisions                                 9,667     7,967    8%   36,347   30,028    23%
+Share of profit of associates                              2,125     1,970   16%     8,733            24%
+Profit before tax                                                            26%              7,607
+Profit after tax                                             10         9    27%       16       18                  44
+Ratios                                                     7,552    6,006          27,630
+Operating expenses to NTI                                 5,660     4,466          20,689   22,439
+Annualised Loan Loss to Average AUF                                                         16,700
+Annualised Return on Average AUF                           33.2%     33.1%          32.8%
+Annualised Return on Average Equity                        1.75%     1.97%           1.93%   33.2%
+                                                           4.65%    4.48%           4.56%    2.07%
+                                                          20.03%    18.74%          19.22%   4.55%
+                                                                                             19.11%
+
+*Others include other operating income and other income
+Financial summary ­ Consolidated                                                                                            in Crore
+
+(after one-time actions and presentation change)                                                                           Y-o-Y
+                                                                                                                            22%
+Financials snapshot                                                            Q4 FY26   Q4 FY25  Y-o-Y    FY26    FY25     22%
+Assets under management                                                        509,975   416,661   22%   509,975  416,661   19%
+Assets under finance                                                           498,944   407,844   22%   498,944  407,844   16%
+Interest income                                                                           16,359   17%             61,164   21%
+Interest expenses                                                                19,179            13%    72,776   24,770   20%
+Net interest income                                                              7,398     6,551   20%    28,666  36,394    21%
+Non-interest income                                                             11,781    9,808    25%    44,110            19%
+Net total income (NTI)                                                           2,428     1,947   21%     9,214   7,683    22%
+Operating expenses                                                              14,209    11,755   22%   53,324   44,077    34%
+Pre-provisioning operating profit                                                4,801     3,950   21%    17,776   14,927   (8%)
+Loan losses and provisions                                                      9,408      7,805   (7%)  35,548   29,150    18%
+Share of profit of associates                                                    2,008     2,167   16%     9,482   7,088
+Profit before exception items and tax                                                              31%                        -
+Exceptional items                                                                  10         9              16       18    17%
+Profit before tax                                                                7,410     5,647   31%   26,082   22,080    15%
+Profit after tax                                                                                   22%
+Profit after tax attributable to                                                    -         -             265        -                  45
+                                                                                 7,410     5,647          25,817  22,080
+    Owners of the Company                                                       5,553     4,546           19,332   16,779
+    Non-controlling interest
+Earning per share - Basic () for the period #                                    5,464     4,480          19,017   16,637
+                                                                                   89        66             315      142
+                                                                                  8.79      7.24
+                                                                                                           30.60   26.89
+
+# EPS is adjusted for bonus and spilt for both current year and previous year
+Financial summary ­ Bajaj Finance                                                    in Crore
+
+(before one-time actions and presentation change)                                   Y-o-Y
+                                                                                     21%
+Financials snapshot                  Q4 FY26   Q4 FY25   Y-o-Y    FY26      FY25     21%
+Assets under management              3,72,986  3,08,832   21%   3,72,986  3,08,832   19%
+Assets under finance                 3,67,226  3,04,359   21%   3,67,226  3,04,359   16%
+Interest income                                           17%                        21%
+Interest expenses                     16,203     13,824   12%     61,357    51,549   18%
+Net interest income                    5,487      4,913   20%     21,417    18,436   20%
+Non-interest income                   10,716     8,911    25%    39,940    33,113    19%
+Net total income (NTI)                 2,486      1,984   21%     9,283      7,871   21%
+Operating expenses                    13,202    10,895    22%    49,223    40,984    13%
+Pre-provisioning operating profit      4,507     3,690    21%     16,641    13,969   23%
+Loan losses and provisions             8,695     7,205     6%    32,582    27,015    24%
+Profit before tax                      2,064      1,941   26%     8,523     7,524
+Profit after tax                       6,631     5,264    27%    24,059    19,491                  46
+                                       4,950     3,896           17,939    14,436
+
+Ratios                               34.1%     33.9%            33.8%     34.1%
+Operating expenses to NTI            2.31%     2.61%            2.54%     2.75%
+Annualised Loan Loss to Average AUF  5.54%                      5.34%
+Annualised Return on Average AUF     19.67%    5.25%            18.76%    5.27%
+Annualised Return on Average Equity            18.22%                     18.30%
+Financial summary ­ Bajaj Finance                                                                                              in Crore
+
+(after one-time actions and presentation change)                                                                              Y-o-Y
+                                                                                                                               21%
+Financials snapshot                                                            Q4 FY26   Q4 FY25   Y-o-Y    FY26      FY25     21%
+Assets under management                                                        3,72,986  3,08,832   21%   3,72,986  3,08,832   19%
+Assets under finance                                                           3,67,226  3,04,359   21%   3,67,226  3,04,359   16%
+Interest income                                                                                     17%                        21%
+Interest expenses                                                               16,203     13,824   12%     61,357    51,549   21%
+Net interest income                                                              5,487      4,913   20%     21,417    18,436   21%
+Non-interest income                                                             10,716     8,911    22%    39,940    33,113    19%
+Net total income (NTI)                                                           2,228      1,826   21%     8,497      7,015   22%
+Operating expenses                                                              12,944    10,737    22%    48,437    40,128    32%
+Pre-provisioning operating profit                                                4,507     3,690    20%     16,641    13,969   18%
+Loan losses and provisions                                                       8,437     7,047    (9%)   31,796    26,159
+Profit before exceptional items and tax                                          1,953      2,142   32%     9,290      7,027    9%
+Exceptional items                                                                6,484     4,905           22,506     19,132    7%
+Profit before tax                                                                                   32%      1,166    2,544
+Profit after tax                                                                    -          -    23%    23,672    21,676                  47
+                                                                                 6,484     4,905           17,804    16,662
+                                                                                 4,840     3,940
+
+Earning per share - Basic () for the period #                                  7.78      6.36             28.65     26.93
+
+# EPS is adjusted for bonus and spilt for both current year and previous year
+Financial summary ­ Bajaj Housing Finance
+
+Financials snapshot                     Q4 FY26  Q4 FY25  Y-o-Y    FY26     FY25      in Crore
+Assets under management                 140,706  114,684   23%   140,706  114,684
+Assets under Finance                    123,745   99,513   24%   123,745  99,513   Y-o-Y
+Interest income                                            14%                      23%
+Interest expenses                         2,707    2,374   14%    10,512   8,986    24%
+Net interest income                       1,762    1,551   15%     6,760    5,979   17%
+Non-interest income                        945      823    50%    3,752    3,007    13%
+Net total income (NTI)                     196       131   20%      639      568    25%
+Operating Expenses                        1,141     954     6%    4,391    3,575    13%
+Pre-provisioning operating profit          220      208    23%      867      747    23%
+Loan losses and provisions                 921      746    112%   3,524    2,828    16%
+Profit before exceptional item and tax                     20%                      25%
+Exceptional charge of New Labour Codes      55       26             191       58   229%
+Profit before tax                          866      720    20%    3,333    2,770    20%
+Profit after tax                                           14%
+                                             -        -              13        -    20%
+Ratios                                                                              18%
+Operating expenses to NTI**                866      720           3,320    2,770
+Annualised Loan Loss to Average AUF                                                               48
+Annualised Return on Average AUF           669      587           2,560    2,163
+Annualised Return on Average Equity
+Earning per share ­ Basic ()            19.2%    21.8%           19.7%    20.9%
+
+                                        0.19%    0.11%           0.17%    0.07%
+                                        2.3%     2.4%            2.3%     2.4%
+                                        12.2%    12.1%           12.1%    13.4%
+                                        0.80     0.70            3.07      2.67
+
+**Annualised
+Financial summary ­ Bajaj Financial Securities
+
+Financials snapshot                                                       Q4 FY26  Q4 FY25  Y-o-Y  FY26    FY25     in Crore
+Assets under finance                                                        7,984   4,505    77%   7,984   4,505
+Interest income                                                              257      156    65%                   Y-o-Y
+Interest expenses                                                            150       88    70%     871     609    77%
+Net interest income                                                          107       68    57%     491     360    43%
+Fees and commission income                                                    36       26    38%    380     249     36%
+Net gain on fair value changes                                                13       12     8%     147     148    53%
+Others*                                                                        1        1            47       31    (1%)
+Net total income                                                             157      107      -              13    52%
+Operating Expenses                                                            83       62    47%      4      441   (69%)
+Pre-provisioning operating profit                                             74       45    34%    578      258    31%
+Loan losses and provisions                                                     -       (1)   64%    302      183    17%
+Profit before tax                                                             74       46           276     0.25    51%
+Profit after tax                                                              54       36    61%             183
+                                                                                             50%      3      139    49%
+Ratios                                                                                              273             46%
+Operating expenses to Net total income                                    52.9%    57.9%            203    58.5%
+Annualised Return on Average Equity                                       10.45%   11.30%                  12.33%                 49
+Earning per share ­ Basic ()                                                                       52.2%
+                                                                           0.38     0.37           12.01%    1.49
+
+                                                                                                    1.68
+
+*Others include dividend income, other operating income and other income
+       Section 04                Conservative leverage standards ­
+                            4.1 Consolidated
+Asset liability management
+                                  Resilient business model ­
+                            4.2 Consolidated
+
+                                  Behaviouralized ALM ­ Bajaj Finance
+                            4.3 Limited
+
+                                  Behaviouralized ALM ­ Bajaj Housing
+                            4.4 Finance Limited
+
+                                  Disciplined ALM Management ­
+                            4.5 Bajaj Finance Limited
+                            4.6 Consolidated liability mix
+
+                                                                                                                           50
+Conservative leverage standards
+
+7.0    7.0             7.0    7.0           7.0          7.0                                       7.0    7.0    6.0             6.0            6.0       6.0
+
+ 6.8    6.3     6.6    24.7%   6.3          25.0%  28.3%      27.2%                                25.0%  22.5%    21.9%  22.0%       21.2%     21.5%  21.6%
+              20.3%     5.4   20.7%         21.3%  25.1%      24.8%                                23.2%  21.5%  21.1%     21.2%         20.5%
+18.0%  19.5%  14.6%    19.7%  16.3%                                                                                         4.7          4.8    20.6%  20.7%
+14.2%  16.1%                                  5.1  4.7        4.9                                  5.1    4.9      4.7                          4.8
+                                                                                                                                                       4.8 *
+
+              5.7%     5.0%   4.4%
+
+3.8%   3.4%                                 3.7%   3.2%       2.5%
+
+                                                                                                   1.8%   1.0%   0.8%     0.8%        0.7%      0.9%      0.9%
+
+Mar'15 Mar'16 Mar'17 Mar'18 Mar'19 Mar'20 Mar'21 Mar'22 Mar'23 Mar'24 Mar'25 Jun'25 Sep'25 Dec'25 Mar'26
+
+       Tier 1 Capital       Tier 2 Capital  Total Capital Adequacy Ratio (CRAR)                                  Leverage Ratio       Leverage Threshold
+
+*Standalone leverage is approximately 4.2X as of 31 March 2026                                            Denotes point at which the Company initiated its capital raising plan
+                                                                                                                                                                                                       51
+Capital Adequacy Ratios (CRAR) are on standalone basis
+@All figures till FY18 are as per Previous GAAP and from Mar'19 onwards numbers are as per Ind AS
+Resilient business model ­ Consolidated
+
+45.0%  43.1%  41.4%  41.8%                46.5%  42.5%       37.8%
+29.9%  33.3%  36.0%  38.4%                30.7%  34.6%       35.1%
+
+                            35.3%  35.4%                            34.0%  33.2%  32.7%      32.6%                                                        32.8%   33.2%#
+                            27.2%  33.5%                            27.3%  27.1%  28.0%      26.9%                                                        27.6%   29.5%
+
+9.87%  9.47%  9.00% 8.24%   8.27%  8.39%  7.84%                            7.97%  7.79%
+
+                                                 6.81%       7.04%  7.74%                    7.52%                                                        7.45%   7.42%
+
+3.3%   3.5%   3.7%   3.9%   4.1%   4.1%          4.2%        5.3%   5.1%   4.6%   4.5%       4.5%                                                          4.6%    4.6%
+                                                                                                                                                          Dec'25
+                                          3.1%                                                                                                                    Mar'26*
+
+Mar'15 Mar'16 Mar'17 Mar'18 Mar '19 Mar'20 Mar'21 Mar'22 Mar'23 Mar'24 Mar'25 Jun'25 Sep'25                                                                                 52
+
+                            COF    ROA    Fee Income to PBT        Opex to Net Total Income
+
+@All figures till FY18 are as per previous GAAP and from Mar'19 onwards numbers are as per Ind AS. Jun'25, Sep'25 and Dec'25 figures are for the quarter
+*Excluding accelerated ECL provision and one-time charge of New Labour Codes, as applicable # before presentation change
+Behaviouralized ALM as of 31 Mar 2026 ­ BFL
+
+                                                                                                                                    in Crore
+
+Particulars                      1-7 D 8-14 D   15-30 D  >1-2 M              >2-3 M  >3-6 M >6 M-1 Y >1-3 Y >3-5 Y >5 Y            Total
+Cash & Investments              11,082 40       12,605      18                   3
+Advances                        12,252 2,806     8,708                               2,668 8,162 1,572         493      14,531 51,174
+Other inflows                    7,210 109               20,344              17,902
+Total Inflows (A)               30,545 2,955      895      810                 449   43,533 77,542 1,37,198 37,734 25,965 3,83,983
+Cumulative Total Inflows (B)    30,545 33,500   22,208
+                                                55,708    21,172             18,354  282     2,038 3,256       268      5,663 20,979
+                                                         76,880              95,234
+                                                                                     46,483 87,742 1,42,026 38,494 46,159 4,56,137
+
+                                                                                     1,41,717 2,29,459 3,71,484 4,09,978 4,56,137
+
+Borrowings                      20,198 4,704    7,488    13,522              16,894  21,532 55,714 1,12,118 39,536 38,201 3,29,908
+Capital Reserves and Surplus                       0         0                   0
+Other Outflows                  0      0                                             0       0       0         0        1,03,122 1,03,122
+Total Outflows (C)                              2,695     2,028                649
+Cumulative Total Outflows (D)   4,434 1,552     10,183   15,550              17,543  948     1,864 2,756 3,773 2,406 23,106
+                                                41,071   56,621              74,165
+                                24,632 6,256                                         22,481 57,578 1,14,874 43,309 1,43,729 4,56,137
+
+                                24,632 30,889                                        96,646 1,54,223 2,69,098 3,12,407 4,56,137
+
+Mismatch (E = A - C)            5,912  (3,301)  12,025   5,622                 811   24,002  30,164   27,151   (4,816)  (97,571)
+Cumulative mismatch (F = B-D)   5,912   2,611   14,636   20,258              21,069  45,071  75,235  1,02,386   97,571       0
+Cumulative mismatch as % (F/D)   24%      8%                                                                               0%
+                                                  36%     36%                 28%      47%     49%      38%      31%
+
+Permissible cumulative gap %    (10%)  (10%)    (20%)
+Additional borrowings possible                  28,563
+
+In Q4, daily average LCR was 228% as against regulatory requirement of 100%                                                        53
+Behaviouralized ALM as of 31 Mar 2026 ­ BHFL
+
+                                                                                                                                   in Crore
+
+Particulars                     1-7 D  8-14 D  15-30 D           >1-2 M      >2-3 M  >3-6 M  >6 M-1 Y  >1-3 Y  >3-5 Y >5 Y        Total
+ Cash & Investments               8       -       192               4            7      69    2,388        0
+ Advances                                       1,448                                         13,433           0   0              2,668
+ Other inflows                  1,403   554     1,002             2,730       2,637   7,561    4,111   37,949
+ Total Inflows (A)                 2     150                     4,006       3,482    2,435   19,932   10,724  21,885 34,145 1,23,745
+ Cumulative Total Inflows (B)           704     2,642            6,740        6,126  10,065  47,622    48,673
+                                1,413  2,117    4,759            11,499      17,625  27,690            96,295  6,767 9,118 41,797
+                                1,413
+                                                                                                               28,652 43,263 1,68,210
+
+                                                                                                               1,24,947 1,68,210
+
+Borrowings                      -      110     247 4,619 4,203 4,878 11,354 39,749 20,703 17,841 1,03,704
+Total Equity
+Other Outflows                  -      -       -                 -           -       -       -         -       -   22,523 22,523
+Total Outflows (C)
+Cumulative Total Outflows (D)   956 568 2,356 2,074 1,903 4,376 8,438 8,986 5,883 6,443 41,983
+
+                                956    678 2,603 6,693 6,106 9,254 19,792 48,735 26,586 46,807 1,68,210
+
+                                956 1,634 4,237 10,930 17,036 26,290 46,082 94,817 1,21,403 1,68,210
+
+Gap (E = A - C)                 457    26      39                47          20      811     140       (62) 2,066 (3,544)
+
+Cumulative mismatch (F = B-D)   457    483     522               570         590     1,400 1,540 1,478 3,544       0
+
+Cumulative mismatch as % (F/D)  48% 30%        12%               5%          3%      5%      3%        2%      3%  0%
+
+Permissible cumulative gap %    (10%) (10%) (20%)
+Additional borrowings possible                            1,706
+
+In Q4, daily average LCR was 146% as against regulatory requirement of 100%                                                       54
+Disciplined ALM Management - BFL
+
+                             Cumulative gap upto 1 month  Cumulative gap upto 12 month
+
+                             220%  216%
+
+119%              120%
+
+                                                          93%                           87%
+
+                  96%
+
+61%                                80%                         59%       69%                 66%
+71%
+                        51%                                         56%  65%                      49%
+             50%                                                                                  36%
+                        57%                                         57%                 62%  64%
+
+                             54%         31%
+
+                                                               43%
+
+                                         32%              31%
+
+Mar'16 Mar'17 Mar'18 Mar'19 Mar'20 Mar'21 Mar'22 Mar'23 Mar'24 Mar'25 Jun'25 Sep'25 Dec'25 Mar'26
+
+                                                                                                                                                                                                                                      55
+Consolidated liability mix
+
+5%                  3%      4%   3%                                                          1%   2%           4%   4%   4%   4%                      5%
+3%                  5%      7%   8%
+     10%  12%  13%          3%   2%                                                          9%
+
+                    3%                                                                       2%   14%          12%  10%  11%  12%                     11%
+
+     7%   6%   4%                                                                                 1%           1%   1%   1%   1%                      1%
+
+38%                 36%                                                                      34%
+
+               36%          35%  40%                                                              32%          35%  40%
+
+     40%                                                                                                                 40%  38%                     37%
+
+          45%
+
+                    36%     31%                                                              33%  30%          28%
+
+48%            34%               28%                                                                                26%  26%  28%                     30%
+
+     35%  25%
+
+                    17%     20%  19%                                                         21%  21%          20%  19%  18%  17%                       16%
+
+6%   8%   12%  13%                                                                                                                                    Mar'26
+                                                                                                                                                      ECB
+Mar'16 Mar'17 Mar'18 Mar'19 Mar'20 Mar'21 Mar'22 Mar'23 Mar'24 Mar'25 Jun'25 Sep'25 Dec'25
+                                                                                                                                                            56
+          Deposits Bank Loans (incl. CC/OD/WCDL/PTC) NCD                                     Subordinate Debt  Short term borrowings (CP, STL, CBLO)
+
+All figures till FY18 are as per Previous GAAP and Mar'19 onwards numbers are as per Ind AS
+     Section 05         5.1 Customer franchise
+                        5.2 Product per customer
+Customer franchise and  5.3 Geographic presence
+    distribution reach  5.4 Strong distribution reach
+
+                                                       57
+Customer franchise                                          Total Franchise                                Q4 FY26  Q3 FY26
+                                                                                                      119.33 MM     115.40 MM
+      Q4 FY25
+          101.82 MM                                                                           101.53 MM             98.18 MM
+
+83.77 MM                                                    Credit segment filter                                   94.07 MM
+
+         80.86 MM    Overall Cross sell franchise                                    97.22 MM                       83.84 MM
+
+          72.60 MM                                          Non delinquent         86.66 MM                         73.84 MM
+                                                               customers                                               (64%)*
+
+                                          64.45 MM          Cross sell                                                   Q4 FY26
+                                             (63.3%)*                                                                     3.93 MM
+                                                            franchise 75.51 MM
+Customer franchise addition                                                (63.3%)*                                                               58
+
+Q3 FY25   Q4 FY25                                           Q1 FY26                  Q2 FY26   Q3 FY26
+5.03 MM   4.70 MM                                           4.69 MM                  4.13 MM   4.76 MM
+
+*Represents cross sell franchise as a % of total franchise
+Product Per Customer (PPC)
+
+Product Per Customer (PPC) is a business metric used to determine average number of products or services (active or closed) a
+customer has availed over the lifetime with BFL. Product offerings are classified into 4 product segments:
+
+1. Lending: All lending products of the company
+2. Distribution of products and services: All value-added products and services of BFL and partners
+3. Deposits: Fixed Deposits
+4. Payments: UPI, PPI, BBPS, Merchant QR, FASTag
+
+            Product Per Customer                                                       Product Per Customer - MOB View
+
+5.81        6.07                             6.05                  6.07
+
+  00..3041   0.49                            0.57                  0.62
+             0.02                            0.02                  0.02
+
+2.93        3.04                             2.97                  2.90                4.29                                             4.73
+
+                                                                               3.34     0.70                                            0.88
+                                                                                       0.006                                            0.010
+                                                                               0.52
+                                                                               0.005    2.18                                            2.03
+
+2.53        2.52                             2.48                  2.52         1.59
+
+                                                                               1.22    1.41                                             1.80
+
+As of FY23  As of FY24                       As of FY25            As of FY26  MOB-12  MOB-18                                           MOB-24
+
+Lending     Distribution of products and services        Deposits  Payment     Lending Distribution of Products and Services Deposits Payment
+
+Base product is included in PPC calculation                                    12 MOB ­ Q4 FY25, 18 MOB ­ Q3 FY24 and 24 MOB ­ Q4 FY23          59
+Geographic presence
+
+                     Geographic Presence           31 Mar 31 Mar 31 Mar 30 Jun 30 Sep 31 Dec 31 Mar
+                                                   2023 2024 2025 2025 2025 2025 2026
+
+                         Urban lending locations   1,392  1,569  1,582  1,544  1,539  1,535  1,527
+                         Rural lending locations   2,341  2,576  2,681  2,648  2,500  2,517  2,571
+                     Total Bajaj Finance presence  3,733  4,145  4,263  4,192  4,039  4,052  4,098
+                     Net additions in the period    229    412                 (153)
+                     Gold loan branches                    905    118    (71)  1,272    13     46
+                     MFI branches                   911    100   1,194  1,254         1,369  1,507
+                                                      -           433    416    416    445    447
+
+Map not to scale                                                                             60
+Strong distribution reach
+
+Active distribution                  31 Mar 2023 31 Mar 2024 31 Mar 2025 30 Jun 2025 30 Sep 2025 31 Dec 2025 31 Mar 2026
+Consumer durable stores ­ Urban
+Consumer durable stores ­ Rural      33,950+  42,000+  49,400+  51,650+  52,650+  52,650+  53,050+
+Digital product stores
+Lifestyle retail stores              37,000+  49,050+  62,700+  64,950+  66,250+  66,800+  68,400+
+EMI card ­ retail spends stores
+2W and 3W, sub-dealers & ASSC        33,000+  40,250+  46,250+  47,550+  48,250+  48,950+  49,500+
+New Auto dealers
+Commercial Vehicle                   13,200+  16,900+  21,250+  21,700+  22,400+  23,250+  23,650+
+Tractor Finance dealers
+DSA/Independent Financial Agents     22,200+  28,250+  30,700+  31,100+  30,800+  29,150+  27,900+
+Overall active distribution network
+Net addition in the period           7,800+   8,800+   9,450+   9,400+   9,950+   10,050+  10,050+
+
+                                     0        1,750+   2,300+   2,100+   2,000+   2,150+   2,250+
+
+                                     0        0        100+     100+     100+     100+     100+
+
+                                     0        1,150+   850+     1,050+   1,100+   1,150+   1,200+
+
+                                     7,500+   10,100+  9,200+   9,200+   8,050+   6,450+   6,200+
+
+                                     1,54,650+ 1,98,250+ 2,32,200+ 2,38,800+ 2,41,550+ 2,40,700+ 2,42,300
+
+                                     21,450   43,600   33,950   6,600    2,750    (850)    1,600
+
+                                                                                                           61
+     Section 06        6.1  Business segment wise AUM -
+                            Consolidated
+Business segment wise
+              AUM            Business segment wise AUM ­
+                       6.2 Consolidated Mortgages and BHFL
+
+                                                            62
+Business segment wise AUM - Consolidated
+
+                                                                                                                                in Crore
+
+                             Consolidated  BFL                           BHFL Consolidated   Growth  Composition  Composition  % Change
+                                                                                               YoY        as of        as of       YoY
+Particulars                  as of         as of                         as of     as of
+                                                                                                     31 Mar 2025  31 Mar 2026
+                             31 Mar 2025 31 Mar 2026 31 Mar 2026 31 Mar 2026
+                                                                                                          2.5%
+Captive 2W & 3W Finance       10,691         4,288                            0      4,288   (60%)         1.6%    0.8%        (1.7%)
+Open Market 2W & 3W Finance    6,628         8,325                            0      8,325    26%         7.0%     1.6%        0.0%
+Urban Sales Finance           29,109        37,430                            0     37,430    29%         21.0%    7.3%         0.3%
+Urban B2C Loans               87,696       1,02,566                        1,606   1,04,485   19%          1.9%   20.5%        (0.5%)
+Rural Sales Finance            7,944        10,559                            0     10,559    33%         4.9%     2.1%         0.2%
+Rural B2C Loans               20,209        25,234                            0     25,234    25%         0.3%     5.0%         0.1%
+MFI Lending                    1,258         2,198                            0      2,198    75%         2.0%     0.4%         0.1%
+Gold Loans                     8,307         17,831                           0      17,831  115%         11.7%    3.5%         1.5%
+MSME Lending                  48,698         51,473                          97      51,570   6%          0.4%     10.1%       (1.6%)
+CV & Tractor Finance           1,647         3,881                            0      3,881   136%         2.8%     0.9%         0.5%
+Car Loans                      11,876        15,011                           0      15,011   26%         6.7%     2.9%         0.1%
+Commercial Lending            27,760        33,839                            0     33,839    22%          6.1%    6.6%        (0.1%)
+Loan Against Securities       25,377        25,576                            0     33,247    31%         31.1%    6.5%        0.4%
+Mortgages                    1,29,461       34,775                       1,39,003  1,62,077   25%        100.0%    31.8%        0.7%
+Total                        4,16,661      3,72,986                      1,40,706  5,09,975  22%                  100.0%
+CIF                            58.90                                                 94.43    60%
+
+*Loan against securities book includes Margin Trade Facility (MTF) book                                                                63
+Business segment wise AUM - Mortgages
+
+                          Consolidated mortgages                                           in Crore
+
+Particulars               AUM as of  AUM as of  Growth    Composition      Composition
+                          31 Mar 25  31 Mar 26    YoY    as of 31 Mar 25  as of 31 Mar 26
+Home Loans
+Loan Against Property      65,536     77,202    18%            50.6%            47.6%
+Lease Rental Discounting   26,884     36,442    36%            20.8%            22.5%
+Developer Finance          22,695     32,207    42%            17.5%            19.9%
+Total                      14,346     16,226    13%             11.1%           10.0%
+                          1,29,461   1,62,077   25%           100.0%          100.0%
+
+                          Bajaj Housing Finance Limited
+
+Particulars               AUM as of  AUM as of  Growth    Composition      Composition
+                          31 Mar 25  31 Mar 26    YoY    as of 31 Mar 25  as of 31 Mar 26
+Home Loans
+Loan Against Property      64,447     76,055    18%            56.2%            54.1%
+Lease Rental Discounting   12,262      15,191   24%            10.7%            10.8%
+Developer Finance           21,913     31,531   44%            19.1%            22.4%
+Other Loans                14,346     16,226    13%            12.5%            11.5%
+Total                        1,716     1,703    (1%)            1.5%             1.2%
+                          1,14,684   1,40,706   23%          100.0%           100.0%
+
+                                                                                                      64
+     Section 07           7.1 Provisioning Coverage - Consolidated
+                          7.2 Stagewise ECL provisioning ­ Consolidated
+Update on credit quality  7.3 Provisioning Coverage - BHFL
+                          7.4 Stagewise ECL provisioning - BHFL
+                          7.5 Portfolio credit quality - Consolidated
+
+                                                                                                                          65
+Provisioning Coverage - Consolidated
+
+                                                                                                                           in Crore
+
+Particulars                     AUM     GNPA NNPA                              PCR          GNPA %                NNPA %
+                             31 Mar 26                                          (%)
+Captive 2W & 3W Finance                                                        47%   31-Mar-25 31-Dec-25 31-Mar-26 31-Mar-25 31-Dec-25 31-Mar-26
+Open Market 2W & 3W Finance    4,288                                           45%
+Urban Sales Finance            8,325     678                             356   86%   7.25%  13.78% 14.35%  4.11%  7.55%   8.09%
+Urban B2C Loans               37,430     138                              76   69%
+Rural Sales Finance          1,04,485    161                              22   86%   1.34%  2.15%   1.62%  0.64%  0.92%   0.90%
+Rural B2C Loans                10,559   1,309                            402   87%
+MFI Lending                   25,234      42                               6   83%   0.59%  0.67%   0.42%  0.12%  0.13%   0.06%
+Gold Loans                     2,198     250                              32    5%
+MSME Lending                   17,831     12                               2   63%   1.17%  1.60%   1.23%  0.49%  0.44%   0.38%
+CV & Tractor Finance           51,570     58                              55   48%
+Car Loans                      3,881    1,358                            505   36%   0.58%  0.81%   0.39%  0.11%  0.16%   0.05%
+Commercial Lending             15,011     31                              16   51%
+Loan Against Securities       33,839     203                             130   40%   1.11%  1.58%   0.94%  0.31%  0.27%   0.12%
+Mortgages                     33,247      25                              12   48%
+Total                        1,62,077                                      4   60%   0.74%  0.76%   0.55%  0.20%  0.13%   0.10%
+Long term guidance           5,09,975      7                             443
+                                         846                            2,062        0.30%  0.46%   0.33%  0.29%  0.40%   0.31%
+                                        5,119
+                                                                                     1.52%  2.71%   2.65%  0.72%  1.10%   1.00%
+
+                                                                                     0.12%  0.95%   0.78%  0.07%  0.58%   0.41%
+
+                                                                                     1.17%  1.49%   1.34%  0.71%  0.87%   0.86%
+
+                                                                                     0.12%  0.03%   0.08%  0.03%  0.01%   0.04%
+
+                                                                                     0.01%  0.02%   0.02%  0.00%  0.01%   0.01%
+
+                                                                                     0.50%  0.55%   0.54%  0.27%  0.30%   0.28%
+
+                                                                                     0.96%  1.21%   1.01%  0.44%  0.47%   0.41%
+
+                                                                                            <1.4%                 <0.5%
+
+*Loan against securities book includes Margin Trade Finance (MTF) book                                                           66
+Stagewise ECL provisioning - Consolidated
+
+Particulars                  Gross Assets Receivable         ECL Provision                  PCR %        in Crore
+
+Captive 2W & 3W Finance      Stage 1 Stage 2 Stage 3  Stage 1 Stage 2 Stage 3      Stage 1   Stage 2  Stage 3
+Open Market 2W & 3W Finance
+Urban Sales Finance            3,557    491    678      63     53            322    1.77%    10.75%   47.47%
+Urban B2C Loans                8,299     69    138     104     15             62   1.26%     22.29%   44.70%
+Rural Sales Finance           37,589    340    161      319   202            139   0.85%     59.26%   86.21%
+Rural B2C Loans              1,03,455  1,715  1,309   2,074   932            906   2.00%     54.35%   69.26%
+MFI Lending                    10,624    59     42      89     41             36   0.84%     68.98%   86.03%
+Gold Loans                     25,821   530    250     809    340            218   3.13%     64.20%   87.32%
+MSME Lending                    2,218    18     12      30     10             10   1.34%     58.95%   82.85%
+CV & Tractor Finance           17,690    89     58              0              3   0.02%      0.42%   5.00%
+Car Loans                     49,249    609   1,358      3    358            853   1.98%     58.76%   62.84%
+Commercial Lending             3,854     38     31     974      6             15   0.54%     16.91%   48.30%
+Loan Against Securities        14,862   107    203      21     19             74   0.47%     17.40%   36.30%
+Mortgages                     33,823     41     25      69      2             13    0.11%     6.01%   51.17%
+Total as of 31 Mar 2026       33,550     17             36      1              3   0.02%      6.72%   40.23%
+Total as of 31 Dec 2025      1,54,769   643      7            175            402   0.32%     27.22%   47.56%
+Total as of 31 Mar 2025      4,99,359  4,766   846       9   2,155          3,057  1.02%    45.22%    59.71%
+                             4,73,799  4,435  5,119    488   1,624          3,607  0.98%     36.61%   61.34%
+                             4,05,458  5,404  5,880   5,088  1,749          2,130  0.77%     32.36%   53.73%
+                                              3,965   4,661
+                                                      3,104                                                         67
+Provisioning Coverage - BHFL
+
+Particulars               AUM     GNPA NNPA  PCR   31 Mar 25   GNPA %    31 Mar 26  31 Mar 25   NNPA %          in Crore
+                       31 Mar 26             (%)      0.34%   31 Dec 25     0.35%      0.13%   31 Dec 25
+                                             58%                                                          31 Mar 26
+Home Loans             76,055     251 104    56%                 0.34%                            0.15%      0.14%
+
+Loan Against Property  15,191     55  25        -  0.65%      0.52%      0.46%      0.31%      0.24%      0.21%
+                                             88%
+Lease Rental Discounting 31,531   -   -      83%   -          -          -          -          -          -
+                                             60%
+Developer Finance      16,226     5   1            0.05%      0.03%      0.03%      0.00%      0.00%      0.00%
+
+Other loans            1,703      19  3            0.95%      1.10%      1.11%      0.21%      0.21%      0.19%
+
+Total                  1,40,706 330 133            0.29%      0.27%      0.27%      0.11%      0.11%      0.11%
+
+                                                                                                                 68
+Stagewise ECL provisioning - BHFL
+
+Particulars               Gross Assets Receivable           ECL Provision                PCR %        in Crore
+                                                                                          Stage 2
+Home Loans                Stage 1 Stage 2 Stage 3      Stage 1 Stage 2 Stage 3  Stage 1   26.25%   Stage 3
+Loan Against Property                                                            0.16%    40.29%   58.37%
+Lease Rental Discounting  72,189    342  251           117  89             147  0.53%              55.60%
+Developer Finance                                                               0.56%         -
+Other loans               11,638    81             55  62   33             30   0.58%     31.23%       -
+Total as of 31 Mar 2026                                                         0.29%     31.46%   88.24%
+Total as of 31 Dec 2025   21,861    -              -   122  -              -    0.32%     29.11%   82.69%
+Total as of 31 Mar 2025                                                         0.33%    23.24%    59.78%
+                          16,310    15             5   95   5              4    0.34%     22.25%   58.76%
+                                                                                                   60.25%
+                          1,694     15             19  5    5              16
+
+                          1,23,692  453  330           401  132            197
+
+                          1,17,227  437  319           389  102            187
+
+                          99,483    321  287           333  71             173
+
+                                                                                                   69
+Portfolio credit quality ­ Consolidated
+
+Consumer Durable & Lifestyle                                                                                 Digital Product
+
+Stage      1st Bucket 2nd Bucket 3rd Bucket 4th Bucket 5th Bucket 5+ Bucket                                  Stage  1st Bucket 2nd Bucket 3rd Bucket 4th Bucket 5th Bucket
+        98.65% 99.59% 99.38% 99.36% 99.40% 99.46% 99.48% 99.55% 99.67%
+   1     0.89% 0.32% 0.51% 0.50% 0.49% 0.43% 0.37% 0.32% 0.27%                                               1 98.49% 99.54% 99.25% 99.31% 99.16% 99.21% 99.36% 99.45% 99.59%
+                                                                                                             2 0.97% 0.38% 0.65% 0.49% 0.70% 0.63% 0.45% 0.41% 0.35%
+   2
+  1.4%                                                                                                       2.0%
+
+1.2%
+
+1.0%                                                                                                         1.5%
+
+0.8%
+
+0.6%                                                                                                         1.0%
+
+0.4%                                                                                                         0.5%
+
+0.2%
+
+0.0%                                                                                                         0.0%
+           Feb'20 Mar'23 Mar'24 Dec'24 Mar'25 Jun'25 Sep'25 Dec'25 Mar'26                                               Feb'20 Mar'23 Mar'24 Dec'24 Mar'25 Jun'25 Sep'25 Dec'25 Mar'26
+
+Rural B2B                                                                                                    Urban B2C
+
+Stage   1st Bucket  2nd Bucket  3rd Bucket      4th Bucket   5th Bucket                                      Stage  1st Bucket 2nd Bucket    3rd Bucket 4th Bucket  5th Bucket 5+ Bucket
+                                            99.51% 99.50%   99.59% 99.77%
+   1    99.33% 99.64% 99.62% 99.48% 99.48%  0.36% 0.33%      0.24% 0.17%                                     1      98.00% 98.79% 98.45%    98.31% 98.25% 98.22%    98.26% 98.76% 98.85%
+                                                                                                                                             1.08% 1.25% 1.25%       1.04% 0.79% 0.76%
+   2    0.32% 0.28% 0.30% 0.35% 0.42%        Jun'25 Sep'25   Dec'25 Mar'26                                   2      1.43% 0.96% 1.09%
+0.8%
+0.7%                                                                                                         2.5%
+0.6%
+0.5%                                                                                                         2.0%
+0.4%
+0.3%                                                                                                         1.5%
+0.2%
+ 0.1%                                                                                                        1.0%
+0.0%
+                                                                                                             0.5%
+
+        Feb'20 Mar'23 Mar'24 Dec'24 Mar'25                                                                   0.0%
+
+                                                                                                                    Feb'20  Mar'23  Mar'24  Dec'24 Mar'25  Jun'25   Sep'25  Dec'25  Mar'26
+
+Portfolio credit quality after adjusting ECL provisions | Feb'20 has been retained as a pre covid benchmark                                                                              70
+Portfolio credit quality ­ Consolidated
+
+Rural B2C                                                                         Business & Professional loans
+
+Stage  1st Bucket  2nd Bucket             3rd Bucket  4th Bucket  5th Bucket      Stage  1st Bucket 2nd Bucket 3rd Bucket 4th Bucket 5th Bucket 5+ Bucket
+
+1 98.80% 98.49% 98.03% 97.94% 98.00% 97.94% 98.13% 98.74% 99.12%                     1 99.01% 99.25% 98.77% 98.70% 98.55% 98.24% 98.03% 98.33% 98.39%
+                                                                                     2 0.60% 0.42% 0.62% 0.57% 0.70% 0.80% 0.66% 0.53% 0.53%
+2 0.66% 1.23% 1.65% 1.51% 1.68% 1.67% 1.33% 0.98% 0.76%                           3%
+
+2.5%
+
+2.0%                                                                              2%
+
+1.5%                                                                              2%
+
+1.0%                                                                              1%
+
+0.5%                                                                              1%
+
+ 0.0%                             Dec-24  Mar-25  Jun-25  Sep'25  Dec'25  Mar'26  0%
+            Feb'20 Mar'23 Mar-24                                                           Feb'20 Mar'23 Mar'24 Dec'24 Mar'25 Jun'25 Sep'25 Dec'25 Mar'26
+
+Loan against property                                                             Home loans
+
+Stage  1st Bucket 2nd Bucket 3rd Bucket 4th Bucket 5th Bucket 5+ Bucket           Stage  1st Bucket 2nd Bucket 3rd Bucket 4th Bucket 5th Bucket 5+ Bucket
+
+1 97.06% 98.84% 99.10% 98.69% 98.88% 98.92% 98.89% 98.90% 98.35%                  1 99.60% 99.56% 99.53% 99.33% 99.42% 99.30% 99.27% 99.25% 99.36%
+2 0.30% 0.73% 0.57% 0.58% 0.51% 0.44% 0.39% 0.39% 0.66%
+                                                                                  2      0.11% 0.27% 0.33% 0.40% 0.39% 0.49% 0.52% 0.55% 0.45%
+
+3.5%                                                                              0.8%
+3.0%                                                                              0.7%
+2.5%                                                                              0.6%
+2.0%                                                                              0.5%
+1.5%                                                                              0.4%
+1.0%                                                                              0.3%
+                                                                                  0.2%
+
+0.5%                                                                              0.1%
+
+0.0%                                                                              0.0%                                                                                                                 Dec'25  Mar'26
+           Feb'20 Mar'23 Mar'24 Dec'24 Mar'25 Jun'25 Sep'25 Dec'25 Mar'26                     Feb'20 Mar'23 Mar'24 Dec'24 Mar'25 Jun'25 Sep'25
+                                                                                                                                                                                                                      71
+MFI business (business sourced in MFI branches) has been separated from Rural B2C Loans | Portfolio credit quality after adjusting ECL provisions | Feb'20 has been retained as a pre covid benchmark
+Portfolio credit quality ­ Consolidated
+
+Gold loans                                                                            MFI lending
+
+Stage         1st Bucket 2nd Bucket 3rd Bucket      4th Bucket 5th Bucket  5+ Bucket  Stage  1st Bucket                                         2nd Bucket  3rd Bucket       4th Bucket  5th Bucket
+                                                  98.32% 98.79% 99.01%     99.19%
+1 97.93% 96.01% 96.14% 98.89% 98.97%               1.40% 0.65% 0.60%       0.50%      1      0.00% 0.00%                                        100.0% 98.93% 98.81% 99.07% 99.22% 99.42% 99.57%
+                                                                                                                                                0.00% 0.94% 0.98% 0.63% 0.54% 0.45% 0.33%
+2      1.09%  3.66%        3.25%  0.70%  0.75%      Jun'25 Sep'25 Dec'25    Mar'26    2      0.00% 0.00%
+
+4.5%
+
+4.0%                                                                                  1.4%
+                                                                                      1.2%
+3.5%                                                                                  1.0%
+                                                                                      0.8%
+3.0%                                                                                  0.6%
+                                                                                      0.4%
+2.5%                                                                                  0.2%
+                                                                                      0.0%
+2.0%
+
+1.5%
+
+1.0%
+
+0.5%
+
+0.0%                                                                                         Feb'20  Mar'23 Mar-24 Dec-24 Mar-25 Jun-25 Sep'25                                           Dec'25  Mar'26
+           Feb'20 Mar'23 Mar'24 Dec'24 Mar'25
+
+Commercial Lending                                                                    Loan Against Securities
+
+Stage          1st Bucket  2nd Bucket 3rd Bucket  4th Bucket 5th Bucket 5+ Bucket     Stage  1st Bucket                                         2nd Bucket 3rd Bucket 4th Bucket 5th Bucket 5+ Bucket
+   1   99.79% 99.79%       99.88% 99.95% 99.95%   99.91% 99.97% 99.98% 99.85%                                                                   100.00% 99.94% 99.95% 99.95% 99.95% 99.96% 99.92%
+   2    0.21% 0.10%         0.08% 0.02% 0.02%     0.06% 0.01% 0.01% 0.12%             1 100.00% 99.99%
+                                                                                                                                                 0.00% 0.06% 0.04% 0.04% 0.03% 0.03% 0.06%
+ 0.3%                                                                                 2 0.00% 0.00%
+
+                                                                                      0.1%
+
+0.2%
+
+0.1%
+
+0.0%                                                                                  0.0%                                                      Mar-24 Dec-24 Mar-25 Jun-25  Sep'25      Dec'25  Mar'26
+           Feb'20 Mar'23 Mar-24 Dec-24 Mar-25 Jun-25 Sep'25 Dec'25 Mar'26                         Feb'20 Mar'23
+                                                                                                                                                                                                        72
+MFI business started from Sep'23 | Portfolio credit quality after adjusting ECL provisions | Feb'20 has been retained as a pre covid benchmark
+Portfolio credit quality ­ Consolidated
+
+Car loans                                                                  CV and Tractor Finance
+
+Stage   1st Bucket 2nd Bucket 3rd Bucket 4th Bucket 5th Bucket 5+ Bucket   Stage     1st Bucket 2nd Bucket                                             3rd Bucket 4th Bucket    5th Bucket 5+ Bucket
+         98.09% 99.40% 99.03% 98.65% 98.62% 98.51% 98.26% 98.32% 98.55%       1     0.00% 0.00% 0.00%                                                99.10% 99.29% 98.78%     98.31% 98.18% 98.77%
+   1      0.82% 0.31% 0.56% 0.63% 0.67% 0.85% 0.80% 0.81% 0.59%               2     0.00% 0.00% 0.00%                                                0.82% 0.64% 1.05%        1.43% 1.24% 0.82%
+
+   2     Feb'20 Mar'23 Mar'24 Dec'24 Mar'25 Jun'25 Sep'25 Dec'25 Mar'26    2.0%
+ 2.0%
+ 1.8%                                                                      1.5%
+ 1.6%
+ 1.4%                                                                      1.0%
+  1.2%
+ 1.0%                                                                      0.5%
+ 0.8%
+ 0.6%                                                                      0.0%
+ 0.4%                                                                                 Feb'20 Mar'23 Mar'24 Dec'24 Mar'25 Jun'25 Sep'25 Dec'25 Mar'26
+ 0.2%
+ 0.0%
+
+Open Market 2W & 3W Finance                                                Captive 2W & 3W Finance
+
+Stage 1st Bucket 2nd Bucket 3rd Bucket 4th Bucket 5th Bucket 5+ Bucket     Stage    1st Bucket 2nd Bucket 3rd Bucket 4th Bucket 5th Bucket 5+ Bucket
+
+1 100% 99.86% 98.74% 97.87% 97.41% 97.56% 97.65% 98.31% 98.44%             1 86.00% 91.53% 93.25% 89.20% 86.50% 83.76% 82.42% 82.09% 81.49%
+
+   2    0.0%  0.03%  0.97%  1.37%  1.94%  1.51%  1.16%  0.76% 0.64%              2  11.27% 5.12%                                              4.71%    7.61%    9.87%  10.37% 10.31%  10.18%  10.21%
+3.0%                                                                       20.0%                                                            Mar'24   Dec'24   Mar'25   Jun'25 Sep'25  Dec'25
+                                                                                                                                                                                              Mar'2673
+2.5%                                                                       18.0%
+                                                                           16.0%
+
+2.0%                                                                       14.0%
+1.5%                                                                       12.0%
+                                                                           10.0%
+
+1.0%                                                                       8.0%
+                                                                           6.0%
+
+0.5%                                                                       4.0%
+                                                                           2.0%
+
+0.0%                                                                       0.0%
+           Feb'20 Mar'23 Mar'24 Dec'24 Mar'25 Jun'25 Sep'25 Dec'25 Mar'26              Feb'20 Mar'23
+
+TW & 3W portfolio in rundown | Portfolio credit quality after adjusting ECL provisions | Feb'20 has been retained as a pre covid benchmark
+     Section 08       8.1 Omnipresence metrics
+
+Omnipresence summary  8.2 Customer franchise -
+           overview         Key financial metrics
+
+                                                   74
+Omnipresence metrics - Strong growth
+momentum across Geography and Digital metrics
+
+                       Particulars  Unit     Q4 FY25 Q3 FY26     Q4 FY26   YoY   FY25   FY26
+
+New locations added                       Geography                  46   1050%   118   (165)
+Locations - Cumulative                                            4,098    (4%)  4,263  4,098
+                                    #        04           13
+App downloads                                                       21.3   13%    75.9   87.5
+App Net installs ­ Cumulative       #        4,263        4,052    86.6    23%    70.6  86.6
+Total traffic on Web                                                144    (3%)   603    611
+Web domain authority                App + Web Metrics                69     11%    62     69
+
+UPI handles - Cumulative            # in MM  18.8         22.8     56.4    41%    40.1   56.4
+Bill pay transactions                                                7.1     -    32.7   28.9
+QRs at merchant PoS ­ Cumulative    # in MM  70.6         82.5      3.97    7%    3.72   3.97
+Rewards issued                                                      18.2         106.4  95.64
+                                    # in MM  149          162             (37%)
+
+                                    #        62           68
+
+                                    App Payments metrics
+
+                                    # in MM  40.1         52.2
+
+                                    # in MM  7.1          7.2
+
+                                    # in MM  3.72         3.91
+
+                                    # in MM  28.8         18.2
+
+                                                                                               75
+Omnipresence metrics - Strong growth
+momentum across Geography and Digital metrics
+
+                       Particulars  Unit     Q4 FY25 Q3 FY26    Q4 FY26                                                                             YoY    FY25   FY26
+
+EMI cards acquired                  App + Web business metrics     0.13                                                                             (47%)   0.91  0.64
+Easy EMI Loans*                                                    0.27                                                                                -     NA   0.64
+Personal loan disbursed             # in MM  0.25  0.15           5,531                                                                                    20.0K  21.2K
+Gold loan origination                                             1,486                                                                              15%   2,230  3,900
+Flexi loan transactions             # in MM  -     0.25            3.10                                                                             149%   11.62  12.10
+DMS receipts                                                      2.43                                                                                      7.69  10.28
+                                    In  Cr   4,798 5,204                                                                                             9%
+EMI cards acquired digitally                                       0.72                                                                             (4%)   3.63    3.51
+EMI cards acquired digitally ­ CIF  In  Cr   597   908             12.0                                                                                      7.6   12.0
+B2B loans from digital EMI cards                                  0.64                                                                              (31%)   1.30  2.45
+                                    # in MM  2.84  3.10                                                                                              57%
+                                                                                                                                                    58%
+                                    # in MM  2.54  2.75
+
+                                    Digital EMI card metrics
+
+                                    # in MM  1.05  0.87
+
+                                    # in MM  7.6   10.8
+
+                                    # in MM  0.41  0.68
+
+*Easy EMI Loans for B2B went LIVE in Aug'25. It is a digital loan application process for New-to-Bajaj customers to avail pre-approved loan limit.                       76
+Customer franchise - Key financial metrics
+
+Particulars @             Unit FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25 FY26 YoY
+New loans booked
+New customer addition     In MM 15.3 23.5 27.4 16.9 24.7 29.6 36.2 43.4 52.5                                                    21%
+Existing customer mix                                                                                                           (4%)
+                          In MM 6.1  8.3  8.1                                                     6.0  9.0 11.6 14.5 18.2 17.5
+                                                                                                                                  -
+                          % 60.3% 64.8% 70.4% 64.6% 63.5% 60.9% 59.9% 58.0% 66.6%
+
+Total franchise           in MM 26.2 34.5 42.6 48.6 57.6 69.1 83.6 101.8 119.3 17%
+Cross sell franchise      in MM 15.4 20.7 24.1 26.9 32.8 40.6 50.8 64.4 75.5 17%
+
+AUM per cross sell franchise  53,417 56,066 60,983 56,879 58,617 60,991 65,146 64,649 67,537 4%
+PAT per cross sell franchise  1,618 1,933 2,182 1,644 2,145 2,837 2,847 2,591* 2,740* 5%
+
+*before one-time actions                                                                                                              77
+
+@ All figures till FY18 are as per previous GAAP and figures from FY19 onwards are as per Ind AS
+     Section 09          9.1 Focus areas
+
+Environment, Social and                                                                         Key ESG initiatives and highlights
+    Governance (ESG)
+                         9.2 Key ESG initiatives and highlights
+
+                                                                                                                                    78
+Focus Areas
+
+Our Responsible and Sustainable Business Conduct policy is aligned with NGRBCs and our business model. To drive ESG
+objectives and maximize impact, we are directing our efforts towards these priorities.
+
+Governance                              Financial Inclusion                    Preserving & Protecting             Empowering Society
+                                                                               Environment
+
+Conduct and govern business with        Provide access to relevant and         Strive to adopt environmental       Promote social welfare activities for
+integrity in a manner that is ethical,  affordable financial products and      practices and processes that        inclusive growth, equitable
+transparent and accountable             services that meet the needs of        minimize / eliminate the adverse    development, and well-being of society
+                                        larger society                         impact on environment due to
+                                                                               company operations
+
+          Customer                                   Human Capital                         Information and                       Stakeholder
+          Centricity                                 Management                            Cyber Security                        Engagement
+
+Innovate / invest in products,          Create a thriving, safe and inclusive  Adopt robust information            Engage with relevant stakeholders
+technologies and processes that         workplace for employees and            security, cyber security and fraud  for enhancing the sustainable and
+enhance customer experience and         provide merit-based opportunities      control practices                   responsible business practices
+promote professional, fair and          for professional development and
+transparent dealings                    growth
+
+                                                                                                                                                      79
+KEY ESG Initiatives and Highlights
+
+ENVIRONMENT                                SOCIAL                                     GOVERNANCE
+
+· ISO 14001 : 2015 (Environmental          · In last six years, we have added ~3      · Board approved `ESG committee'
+   Management System) and ISO 45001 :        crore new to credit customers
+   2018 (Occupational Health and Safety                                               · Board approved `Code of Ethics and
+   Management System) Certifications       · Distributed 14,400+ Improvised              Personal Conduct'
+   for across 20+ offices PAN-India          Cookstoves (ICS) in FY2026
+                                                                                      · Board approved `Responsible
+· Installation of solar panels with total  · More than 220,000 youth skilled for         Business Conduct and Sustainability
+   capacity of over 620 kilowatt             employment and enterprise*                  Policy'
+
+· Reduction in paper consumption by        · More than 990,000 children benefitted    · Voluntary constitution of a Customer
+   720+ crore sheets, saving 8.6+ lakh       from child development projects*            Service Committee of the Board
+   trees during last three years
+                                           · Over 50,000 students trained for         · Comprehensive risk management
+· Tree Plantation ~7.5 lakh saplings         flagship BFSI Skilling Skillserv            framework across the organisation
+   planted till date                         program in FY2026
+                                                                                      · Strong governance model for debt
+· Deployed 20 Environment friendly E-      · In the last 3 years, loan amounting Rs.     management services' practices
+   Vehicles for inter-office shuttle         150,000+ crore disbursed to over 23
+   services, thereby reducing emissions      million women borrowers enhancing        · Implemented Suppliers' Code of
+                                             women's economic empowerment and            Conduct at BFL Group level
+· Solar Equipment financing disbursed        self-reliance
+   over 150+ crore in FY2026
+
+Improvement in ESG Ratings - MSCI from 7.6 (AA) to 8.3 (AA), S&P Global from 45 to 52 and Sustainalytics (lower the better) from
+18.1 to 15.5
+
+                                                                                                                                                                                  *Numbers for entire MoU period 80
+Disclaimer
+
+   This presentation has been prepared by and is the sole responsibility of Bajaj Finance Limited (together with its subsidiaries, referred to as the "Company" or "Bajaj
+   Finance". By accessing this presentation, you are agreeing to be bound by the trailing restrictions.
+
+   This presentation does not constitute or does not intend to constitute or form part of any offer or invitation or inducement to sell, or any solicitation of any offer or
+   recommendation to purchase, any securities of the Company, nor shall it or any part of it or the fact of its distribution form the basis of, or be relied on in connection
+   with, any contract or commitment therefor. In particular, this presentation is not intended to be a prospectus or offer document under the applicable laws of any
+   jurisdiction, including India. No representation or warranty, express or implied, is made as to, and no reliance should be placed on, the fairness, accuracy,
+   completeness or correctness of the information or opinions contained in this presentation. Such information and opinions are in all events not current after the date
+   of this presentation. There is no obligation to update, modify or amend this communication or to otherwise notify the recipient if information, opinion, projection,
+   forecast or estimate set forth herein, changes or subsequently becomes inaccurate. However, the Company may alter, modify or otherwise change in any manner
+   the content of this presentation, without obligation to notify any person of such change or changes.
+
+   These materials are being given solely for your information and may not be copied, reproduced or redistributed to any other person in any manner. The distribution of
+   these materials in certain jurisdictions may be restricted by law and persons into whose possession these materials comes should inform themselves about and
+   observe any such restrictions. Certain statements contained in this presentation that are not statements of historical fact constitute "forward-looking statements."
+   You can generally identify forward-looking statements by terminology such as "aim", "anticipate", "believe", "continue", "could", "estimate", "expect", "intend", "may",
+   "objective", "goal", "plan", "potential", "project", "pursue", "shall", "should", "will", "would", or other words or phrases of similar import. These forward-looking
+   statements involve known and unknown risks, uncertainties, assumptions and other factors that may cause the Company's actual results, performance or
+   achievements to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements or other
+   projections. Important factors that could cause actual results, performance or achievements to differ materially include, among others: (a) material changes in the
+   regulations governing the Company's businesses; (b) the Company's ability to comply with the capital adequacy norms prescribed by the RBI; (c) decreases in the
+   value of the Company's collateral or delays in enforcing the Company's collateral upon default by borrowers on their obligations to the Company; (d) the Company's
+   ability to control the level of NPAs in the Company's portfolio effectively; (e) internal or external fraud, operational errors, systems malfunctions, or cyber security
+   incidents; (f) volatility in interest rates and other market conditions; and (g) any adverse changes to the Indian economy.
+
+   This presentation is for general information purposes only.
+
+                                                                                                                                                                                                                                           81
+Glossary                                              Expansion  Abbreviation                     Expansion
+
+              Abbreviation  Asset liability management           LRD           Lease rental discounting
+                   ALM      After market order
+                   AMO      Augmented reality                    MF            Mutual funds
+                    AR      Authorised sales & support centre
+                  ASSC      Assets under management              MFI           Microfinance
+                   AUM      Assets under finance
+                   AUF      Bharat bill payment system           MSME          Micro, Small & Medium Enterprises
+                  BBPS      Business loan
+                    BL      Cash credit                          MTF           Margin Trading Facility
+                    CC      Cards in force
+                    CIF     Cost of funds                        NII           Net interest income
+                   COF      Commercial vehicle
+                    CV      Customer experience                  NIM           Net interest margin
+                    CX      Developer finance
+                    DF      Debt management services             NNPA          Net non performing assets
+                   DMS      Direct sourcing agency
+                   DSA      External commercial borrowing        NPA           Non performing assets
+                   ECB      Expected credit loss
+                    ECL     Electronic data capture machine      OD            Overdraft
+                   EDC      Foreign institutional investor
+                     FII    Fair Practice Code                   ONDC          Open Network for Digital Commerce
+                   FPC      Foreign Portfolio Investor
+                    FPI     Gross merchandise value              OTR           One time restructuring
+                   GMV      Gross non performing assets
+                  GNPA      Home loan                            PAT           Profit after tax
+                    HL      High Networth Individual
+                    HNI     Inter corporate deposits             PBT           Profit before tax
+                    ICD     Initial Public Offer
+                    IPO     Loan against fixed deposit           PCR           Provision coverage ratio
+                   LAFD     Loan against property
+                   LAP      Loan against securities              PL            Personal loan
+                   LAS      Liquidity Coverage Ratio
+                   LCR                                           PMS           Portfolio Management Services
+
+                                                                 POA           Power of Attorney
+
+                                                                 PPI           Prepaid instruments
+
+                                                                 QR            Quick response
+
+                                                                 ROA           Return on assets
+
+                                                                 ROE           Return on equity
+
+                                                                 SME           Small & Medium Enterprise
+
+                                                                 STP           Straight through process
+
+                                                                 T1            Trade + 1 Day
+
+                                                                 T2            Trade + 2 Days
+
+                                                                 UHNI          Ultra High Networth Individual
+
+                                                                 UI            User Interface
+
+                                                                 UPI           Unified payment interface
+
+                                                                 UX            User Experience
+
+                                                                 WCDL          Working capital demand loan        82
+
+                                                                 XIRR          Extended Internal Rate of Return
+

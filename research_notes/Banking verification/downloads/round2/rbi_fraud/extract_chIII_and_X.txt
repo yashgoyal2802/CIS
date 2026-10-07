@@ -1,0 +1,28 @@
+Source: RBI/DoS/2026-27/412, DoS.CO.FMG.6/23.04.001/2026-27, July 31, 2026, "Reserve Bank of India (Commercial Banks - Fraud Risk Management) Directions, 2026"
+URL: https://rbidocs.rbi.org.in/rdocs/notification/PDFs/412MD5B6CA712E156413BACDEA9DD5CF5D1EF.PDF (26 pp; fetched via Chrome, pdf.js text extraction; curl got an HTML bot-challenge page)
+Landing page: https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13641&Mode=0
+Text-only excerpts (verbatim from extraction). Full doc was read in full; no occurrence of "artificial", "machine learning", "AI", "ML", "model", "algorithm". "analytics" occurs only in paras 19-20, 25.
+
+[PAGE 4] 2. These Directions shall come into effect immediately upon issuance.
+[PAGE 4] 3. ... 'Commercial Banks' is the term applied to banking companies (other than Small Finance Banks, Payments Banks, and Local Area Banks), corresponding new banks, and the State Bank of India ...
+[PAGE 9] Chapter III - Early Detection of Frauds - Framework for Early Warning Signals and Red Flagging of Accounts
+12. The bank shall have a framework for EWS and Red Flagging of Accounts (RFA) under the overall Fraud Risk Management Policy approved by the Board.
+13. The Risk Management Committee of the Board (RMCB) shall oversee the effectiveness of the Board-approved framework for EWS and RFA. ...
+14. The RMCB shall approve the EWS indicators ... shall prescribe appropriate Turnaround Time (TAT), preferably not more than 30 days, for examination of EWS alerts / triggers.
+15. RMCB shall review the status of red flagged accounts ...
+16. The EWS / RFA framework shall be subject to suitable validation in accordance with the directions of RMCB so as to ensure its integrity, robustness and consistency of the outcomes.
+17. The EWS / RFA Framework shall provide for, among others: (1) A system of robust EWS which is integrated with Core Banking Solution (CBS) or other operational systems; (2) Initiation of remedial action ...; (3) Periodic review of credit sanction and monitoring processes...; (4) Effective use of CRILC database and the CFR.
+[PAGE 10] 18. The bank shall put in place / suitably upgrade its existing EWS system on an ongoing basis.
+B. EWS / RFA Framework for Credit Facilities / Loan Accounts
+19. Development of EWS System: The EWS system shall be comprehensive and designed to include both the quantitative and qualitative indicators ... based on the transactional data of accounts, financial performance of borrowers, market intelligence and conduct of the borrowers.
+20. Data Analytics and Market Intelligence (MI) Unit: The bank shall set up a dedicated Data Analytics and MI Unit keeping in view its size, complexity, business mix and risk profile. ... to enable an early detection and prevention of potentially fraudulent activities.
+21. Generation of EWS alert(s) / trigger(s) shall necessitate examination whether the account needs to be red flagged ...
+22. The bank shall report an account, with an aggregate exposure of Rs 3 crore and above, once red flagged in 'Red Flagged Account Return' on the Reserve Bank's CRILC platform within seven days of being red flagged.
+C. EWS Framework for Other Banking / Non-Credit Related Transactions
+23. ... strengthen its EWS system ... other banking / non-credit related transactions ... [PAGE 11] effectiveness of EWS system shall be tested periodically.
+24. ... transaction monitoring ... on real-time basis or with a minimum time lag ... non-KYC compliant and money mule accounts ...
+25. The Data Analytics and MI Unit or other dedicated analytics set up in the bank shall extensively monitor and analyse other banking / non-credit related transactions, more specifically the transactions through digital platforms and applications ...
+[PAGE 12-13] 26-33 (Chapter IV.A): red-flagged loan accounts - external/internal audit (26); 29 red-flag decision at bank level, report on CRILC not later than seven days; 31 classification as fraud or removal of red flag "ordinarily be completed within 180 days from the date of first reporting of the account as red-flagged on CRILC platform"; >180 days to SCBMF.
+[PAGE 25] Chapter X - Repeal and Other Provisions
+67. With the issue of these Directions, the existing directions, instructions, and guidelines relating to Fraud Risk Management as applicable to Commercial Banks stand repealed, as communicated vide circular no. DoS.CO.PPG.66/11.01.005/2026-27 dated July 31, 2026. The directions, instructions, and guidelines already repealed vide any of the directions, instructions, and guidelines listed in the above circular shall continue to remain repealed.
+68. Notwithstanding such repeal, any action taken or purported to have been taken, or initiated under the repealed directions ... shall continue to be governed by the provisions thereof. ...

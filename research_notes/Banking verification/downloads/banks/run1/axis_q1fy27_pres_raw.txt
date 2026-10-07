@@ -1,0 +1,4282 @@
+AXIS/CO/CS/261/2026-27
+
+July 18, 2026
+
+National Stock Exchange of India Limited Exchange Plaza, Plot No. C/1, "G" Block Bandra-Kurla Complex Bandra (E), Mumbai ­ 400 051
+
+BSE Limited P. J. Towers, Dalal Street Fort, Mumbai ­ 400 001
+
+NSE Symbol: AXISBANK
+
+BSE Scrip Code: 532215
+
+Dear Sir/Madam,
+
+REF.: DISCLOSURE UNDER REGULATION 30 OF THE SEBI (LISTING OBLIGATIONS AND DISCLOSURE REQUIREMENTS) REGULATIONS, 2015 ("SEBI LISTING REGULATIONS")
+
+SUB.: INVESTOR PRESENTATION ON THE FINANCIAL RESULTS OF AXIS BANK LIMITED ("BANK') FOR THE QUARTER ENDED JUNE 30, 2026
+
+In reference to our letter no. AXIS/CO/CS/250/2026-27 dated July 18, 2026, a copy of the revised Investor Presentation on the unaudited standalone and consolidated financial results of the Bank for the quarter ended June 30, 2026, is attached herewith.
+
+This is for your information and records.
+
+Thanking You.
+
+With warm regards,
+
+For Axis Bank Limited
+SANDEEP Digitally signed by SANDEEP PODDAR
+PODDAR Date: 2026.07.18 13:20:10 +05'30'
+Sandeep Poddar Company Secretary
+
+Encl: as above
+
+CC: London Stock Exchange Singapore Stock Exchange
+
+Investor Presentation
+Quarterly Results Q1FY27
+
+NSE: AXISBANK
+
+BSE: 532215
+
+LSE (GDR): AXB
+
+Axis Bank at a glance
+
+Axis Bank Market Share Profitability
+
+3rd
+largest Private Bank in India
+
+~ 54 mn
+Customers
+
+Traditional Banking Segment
+
+5.4%
+Assets 2
+
+5.1%
+Deposits 2
+
+5.7%
+Advances 2
+
+14.52%
+Consolidated ROE 5
+
+3.46%
+Net Interest Margin 5
+
+1,00,700+
+Employees
+
+6,295
+Branches 1
+
+Digital Banking Segment
+
+~ 38%
+UPI 3
+
+~ 13.4%
+Credit Cards 4
+
+2.47%
+Operating Profit Margin 5
+
+2.20%
+Cost to Assets 5
+
+Balance Sheet Key Subsidiaries
+
+16.67% | 14.64%
+
+CAR 6
+
+CET 16
+
+`156 Bn | 1.24%
+Cumulative provisions (standard + additional non-NPA)
+
+29%
+YOY growth in Axis Finance PAT 5
+
+72%
+YOY growth in Axis Capital PAT 5
+
+8%
+YOY growth in Axis Securities PAT 5
+
+70% |0.39%
+
+PCR
+
+Net NPA
+
+3%
+YOY growth in Axis AMC PAT 5
+
+1Domestic network including extension counters; 2 Based on RBI data as of June 30, 2026 3 UPI payer PSP space market share by volume for Q1FY27 4 Credit Cards in force market share as of May'26 5 for Q1FY27 6 CAR ­ Capital Adequacy ratio; CET 1 ­ Common Equity Tier 1 ratio;
+
+Quarterly Results Q1FY27
+
+2
+
+Executive Summary
+Executive Summary
+Financial Highlights
+Financial Highlights Capital and Liquidity Position Business Segment Performance Asset Quality Sustainability Subsidiaries' Performance Other Important Information
+
+Quarterly Results Q1FY27
+
+3
+
+Major highlights for Q1FY27
+PAT up 23% YOY driven by positive operating jaws and stable asset quality; Market share gains across deposits and advances, deposits up 18% YOY, advances up 19% YOY
+
+Stable core operating performance
+
+· Operating profit at 11,659 crores, up 16% QOQ; Core operating profit at 11,122 crores, up 5% QOQ · Net Interest Income up 8% YOY, Net Interest Margin (NIM) at 3.46% · Fee income up 7% YOY; granular fee constituted 90% of overall fees; Retail fee up 2% YOY · Cost to assets at 2.20%, declined 21 bps YOY and 8 bps QOQ
+
+Robust deposit growth delivered across average and period end balances
+
+· YOY QAB1 | MEB1 basis, total deposits grew 18% | 18%; term deposits grew 21% | 23%, CA grew 13% | 6%, SA grew 14% | 14%, respectively · QOQ QAB1 | MEB1 basis total deposits grew 6% | 3%, term deposits grew 7% | 5%, CA grew 3% | -6%, SA grew 6% | 1%, respectively · QAB1 | MEB1 CASA grew 13% | 11% YOY and 5% | -1% QOQ, with CASA ratio at 37% | 38%, respectively · Cost of funds decreased by 35 bps YOY and 2 bps QOQ
+
+Strong loan growth delivered
+Well capitalized with adequate liquidity buffers
+Continue to maintain our strong position in Payments and Digital Banking
+Stable Asset Quality
+
+· Advances grew 19% YOY & 2% QOQ; Bank's focus segments2 grew by 18% YOY and 2% QOQ · SBB2+SME+MC at 3,061 bn | 24% of total loans, up ~911 bps in last 5 years · SME loans up 25% YOY and 3% QOQ, Corporate loans up 38% YOY and 5% QOQ of which Mid-Corporate (MC) up 27% YOY and 10% QOQ · Retail loans grew 8% YOY of which SBB book grew 18% YOY and 2% QOQ. Retail disbursements grew 18% YOY · Overall capital adequacy ratio (CAR) stood at 16.67%, CET 1 ratio at 14.64% · Additional cushion of ~52 bps over the reported CAR, attributable to other provisions and one-time standard asset provision aggregating 8,244 crores · Excess SLR of 1,41,700 crores · Avg. LCR during Q1FY27 was ~119% · Maintaining our market leading position in UPI Payer PSP space with a market share of ~ 38%3, with lowest technical declines4 · Continues to be amongst the largest players in Merchant Acquiring business in India with a terminal market share of 22.1%5 · Acquired 0.9mn cards in Q1FY27, having a market share of ~13.4%5 on the Cards in force · Axis Mobile app continue to be among the top-rated mobile banking app on Google Play store and iOS store with a rating of 4.8 on both, with ~16 mn MAU6 · GNPA at 1.28% down 29 bps YOY, NNPA at 0.39% down 6 bps YOY · PCR healthy at 70%, Coverage 7 ratio at 161% up 2,318 bps YOY · Gross slippage ratio 8 at 1.79% down 134 bps YOY, Net slippage ratio 8 at 1.12% down 121 bps YOY · Net credit cost 8 at 0.63%, down 75 bps YOY
+
+Key subsidiaries delivered healthy performance
+
+· Total Q1FY27 PAT of domestic subsidiaries at 546 crores up 21% YOY; Return on investments of ~ 41% in domestic subsidiaries · Axis Finance Q1FY27 PAT at 244 crores up 29% YOY, Stable asset quality metrics with net NPA at 0.39% · Axis AMC's Q1FY27 PAT at 134 crores up 3% YOY, Axis Securities Q1FY27 PAT at 96 crores up 8% YOY · Axis Capital Q1FY27 PAT at 65 crores up 72% YOY; executed 8 ECM and 3 non-ECM deals in Q1FY27
+
+Q1FY27 Consolidated ROE (annualized) at 14.52%, up 95 bps YOY, with subsidiaries contributing 36 bps
+
+1QAB: Quarterly Average Balance; MEB: Month End Balance; 2Bank's focus segments include Small Business Banking (SBB), Small & Medium Enterprises (SME), Mid Corporate, Rural, Personal Loans (PL) and Credit Card Advances 3 Market share by volume for Q1Y27; 4 NPCI data for top 50 UPI Remitter Members, last 12 months average as of June'26; 5 Based on RBI data as of May'26; 6 MAU: Monthly Active Users
+engaging in financial & non-financial transactions; 7 Coverage Ratio = Aggregate provisions (specific + standard + additional + other contingencies) / IRAC GNPA; 8 Annualised
+
+Quarterly Results Q1FY27
+
+4
+
+Profit & Loss
+
+Balance Sheet
+
+Key metrics for Q1FY27
+Snapshot (As on 30th June 2026)
+
+Net Interest Income Fee Income Operating Expenses Operating Profit Core Operating Profit Profit after Tax
+Total Assets Net Advances Total Deposits Shareholders' Funds
+
+Absolute ( Cr) Q1FY27 Q1FY26 Q4FY26 14,646 13,560 14,457
+6,156 5,746 6,561 9,722 9,303 10,466 11,659 11,515 10,013 11,122 10,095 10,619 7,114 5,806 7,071
+
+YOY 8% 7% 5% 1% 10% 23%
+
+QOQ 1% (6%) (7%) 16% 5% 1%
+
+Q1FY27 19,21,966 12,61,557 13,72,936 2,11,693
+
+YOY Growth 20% 19% 18% 15%
+
+Diluted EPS1 (in `) Book Value per share (in `) Standalone ROA1 Standalone ROE1 Cons ROA1 Cons ROE1 Gross NPA Ratio Net NPA Ratio Basel III Tier I CAR2 Basel III Total CAR2
+
+Q1FY27 91.24 681 1.51% 14.16% 1.56% 14.52% 1.28% 0.39% 15.35% 16.67%
+
+Q1FY26 74.75 596 1.47% 13.14% 1.51% 13.57% 1.57% 0.45% 15.10% 16.85%
+
+Key Ratios
+
+1 Annualized 2 including profit after tax for the periods 3 Month end balances 4 Quarterly average balance
+
+Deposits
+18% YOY 3 18% YOY 4
+
+62%
+
+38%
+
+CASA 11% YOY 3 13% YOY 4
+Core Operating Profit (in  crores)
+10% YOY
+
+10,095 Q1FY26
+
+11,122 Q1FY27
+
+Advances
+19% YOY
+
+34% 12%
+
+54%
+
+Retail 8% YOY
+
+SME
+
+Corporate
+
+25% YOY
+
+38% YOY
+
+Profit After Tax (in  crores)
+
+23% YOY
+
+5,806
+
+7,114
+
+Q1FY26
+
+Q1FY27
+
+Quarterly Results Q1FY27
+
+5
+
+Executive Summary
+Executive Summary
+Financial Highlights
+Financial Highlights Capital and Liquidity Position Business Segment Performance Asset Quality Sustainability Subsidiaries' Performance Other Important Information
+
+Quarterly Results Q1FY27
+
+6
+
+Deposit and Loan growth performance
+
+Deposit mix (QAB)1
+
+11,048
+
+11,397
+
+11,974
+
+12,265
+
+13,048
+
+YOY QOQ 18% 6%
+
+10,597
+
+6,806
+
+7,057
+
+7,492
+
+7,682
+
+8,234
+(63%)
+
+21% 7%
+
+3,159 1,209
+
+1,324 2,918 Q1FY26
+57%
+
+1,345
+
+1,417
+
+1,458
+
+2,995
+
+3,065
+
+3,124
+
+Q2FY26
+SA
+
+Q3FY26
+CA
+
+Q4FY26
+TD
+
+56%
+
+55%
+
+55%
+
+Proportion of Retail deposits as per LCR2
+
+1,497
+(12%)
+3,317
+(25%)
+Q1FY27
+56% 53%57%
+
+13% 3% 14% 6%
+
+6,230 Jun-25
+97%
+
+5.07%
+
+4.83%
+
+4.77%
+
+4.73%
+
+4.75%
+
+Cost of Deposits
+1 Quarterly Average Balance 2 Average deposits from retail and small business customers as reported in Liquidity Coverage Ratio (LCR) disclosure for the period as proportion of total QAB deposits
+
+Segment loan mix
+
+11,167 3,497 1,315
+
+11,590 3,751 1,393
+
+12,336 4,129 1,472
+
+All figures in  billion
+
+12,616
+4,344
+(34%)
+1,516
+(12%)
+
+YOY QOQ 19% 2% 38% 5%
+25% 3%
+
+6,355
+
+6,446
+
+6,735
+
+6,756
+
+8%
+
+(54%)
+
+Sep-25
+
+Dec-25
+
+Mar-26
+
+Retail SME Corporate total
+
+Jun-26
+
+97%
+
+97%
+
+96%
+
+96%
+
+Share of Domestic Loans in overall loan book
+
+Quarterly Results Q1FY27
+
+7
+
+Operating Performance
+Operating revenue
+
+20,818 7,258
+
+20,369 6,625
+
+20,512 6,226
+
+20,480 6,023
+
+21,382 6,736
+
+YOY 3%
+
+QOQ 4%
+
+7%
+
+12%
+
+13,560
+
+13,745
+
+14,286
+
+14,457
+
+14,646
+
+8%
+
+1%
+
+Q1FY26
+
+Q2FY26
+
+Q3FY26
+
+Q4FY26
+
+Net Interest Income
+
+Non-Interest Income
+
+Q1FY27
+
+Operating profit & Core operating profit
+
+11,515 10,095
+
+10,413 9,915
+
+10,876 10,815
+
+10,619 10,013
+
+11,659 11,122 OP
+
+YOY 1%
+
+QOQ 16%
+
+Core
+
+OP
+
+10%
+
+5%
+
+Q1FY26
+
+Q2FY26
+
+Q3FY26
+
+Q4FY26
+
+Q1FY27
+
+Operating Profit (OP) Core Operating Profit
+
+2% 9,303 6,041 3,262 Q1FY26
+
+Operating expense
+
+7%
+
+6%
+
+5%
+
+9,957 6,839
+
+9,637 6,865
+
+10,466 7,352
+
+All figures in  Crores
+
+5%
+
+9,722
+
+YOY 5%
+
+QOQ 7%
+
+6,664
+
+10%
+
+9%
+
+3,118 Q2FY26
+Staff cost
+
+2,772 Q3FY26
+Non-staff cost
+
+3,115
+
+3,058
+
+Q4FY26
+
+Q1FY27
+
+Opex growth (YOY)
+
+6%
+
+2%
+
+5,806
+
+Profit after tax
+
+5,090
+
+6,490
+
+7,071
+
+7,114
+
+YOY 23%
+
+QOQ 1%
+
+Q1FY26
+
+Q2FY26
+
+Q3FY26
+
+Q4FY26
+
+Q1FY27
+
+Quarterly Results Q1FY27
+
+8
+
+Net interest margin trend
+
+~ 74% of loans floating
+
+26% 3%3%0.3%
+7%
+61%
+
+Advances mix by rate type
+MCLR Duration Split (June-26)
+
+12M, 4%
+
+1M, 0.3 %
+3M, 1%
+6M, 1%
+
+Repo linked Base Rate linked
+3.91% 3.80%
+
+MCLR linked Foreign currency- floating
+
+Other EBLR1 Fixed
+
+Net interest Margin (NIM)
+
+NIM - Overall
+
+NIM - Domestic
+
+3.82% 3.73%
+
+3.75% 3.64%
+
+3.73% 3.62%
+
+3.60% 3.46%
+
+Q1FY26
+
+Q2FY26
+
+Q3FY26
+
+Q4FY26
+
+Q1FY27
+
+1External benchmark linked rate
+
+Cost of Funds
+
+5.35% 5.43% 5.44% 5.45% 5.46% 5.50% 5.39%
+
+5.17% 5.03%
+
+5.15% 5.07% 5.06% 5.04%
+
+Q1FY24 Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q2FY25 Q3FY25 Q4FY25 Q1FY26 Q2FY26 Q3FY26 Q4FY26 Q1FY27
+NIM Movement - Q4 FY26 to Q1 FY27
+
+3.62%
+
+0.03%
+
+NIM Q4 FY26
+
+Interest reversal
+
+0.13%
+
+3.46%
+
+Spread
+
+NIM Q1 FY27
+
+Quarterly Results Q1FY27
+
+9
+
+NIM has seen structural improvement led by multiple drivers
+
+1 Improvement in balance sheet mix
+
+Loans and investments as % of total assets
+
+86%
+
+88%
+
+89%
+
+89%
+
+88%
+
+Mar-23
+68%
+
+Mar-24
+71%
+
+Mar-25
+71%
+
+Mar-26
+67%
+
+Jun-26
+66%
+
+Retail & CBG as % of loan book
+
+Non INR book as % of overall loan book
+
+5.1%
+
+3.8%
+
+3.9%
+
+4.4%
+
+5.2%
+
+2
+
+Reducing share of low yielding
+
+RIDF bonds
+
+3 Composition reflected through average1 CASA%
+
+2.3% 30,564
+
+1.5% 21,557
+
+0.9% 14,450
+
+0.5%
+
+0.4%
+
+8,690
+
+7,794
+
+Mar-23 Mar-24 Mar-25 Mar-26 Jun-26
+
+As a % to total assets
+
+43.6%
+
+42.5%
+
+39.3%
+
+37.8%
+
+36.9%
+
+FY23
+
+FY24
+
+FY25
+
+FY26
+
+Q1FY27
+2 38 bps
+
+Mar-23 Mar-24 Mar-25 Mar-26 Jun-26
+1 Daily average CASA ratio for the period 2 Decline in cost of CASA for Q1FY27 as compared to FY23
+
+Quarterly Results Q1FY27
+
+10
+
+Healthy growth in fees; granularity built across our business segments
+
+4,051
+
+Retail Banking fees
+
+4,269
+
+4,358
+
+4,833
+
+2% YOY
+4,152
+
+32%
+
+24%
+
+21%
+
+Retail fee mix
+
+45%
+
+44%
+
+38%
+
+15% 15% 17%
+
+All figures in  Crores
+16% 15% 18%
+
+Q1FY26 70%
+
+Q2FY26 71%
+
+Q3FY26 71%
+
+Q4FY26 74%
+
+Q1FY27 67%
+
+TPP
+
+Retail Cards & Payments Retail Assets excl cards & Retail Liabilities & others
+
+payments
+
+Q1FY26
+
+Q4FY26
+
+Q1FY27
+
+· 12% YOY growth in Retail Assets excl. Cards & Payments · 13% YOY growth in Retail Liability & others
+
+1,695
+
+Corporate & Commercial Banking fee
+
+1,768
+
+1,743
+
+1,727
+
+18% YOY 16% QOQ
+2,004
+
+Q1FY26 30%
+
+Q2FY26 29%
+
+Q3FY26 29%
+
+xx%
+
+Segment contribution to total fees
+
+Q4FY26 26%
+
+Q1FY27 33%
+
+Corporate & Commercial Banking fee mix
+Trade, Forex and Financial Institutional payments related fee form part of Transaction Banking 71% 71% 68%
+
+25% 24% 26%
+
+Transaction Banking
+
+Q1FY26
+
+Credit Q4FY26
+
+Q1FY27
+
+· 13% YOY growth in Transactional Banking fees, forex & trade · 21% YOY growth in Credit fees · 89% YOY growth in Treasury fees (ex forex)
+
+4% 5% 6% Treasury (ex forex)
+
+Quarterly Results Q1FY27
+
+11
+
+Operating expenses grew at 5% YOY
+
+Break-up of operating expenses
+3%
+
+5% -7%1
+
+9,303
+
+10,466
+
+-5%2
+
+9,722
+
+44%
+
+46%
+
+43%
+
+34%
+
+31%
+
+34%
+
+22%
+
+23%
+
+23%
+
+Q1FY26
+
+Q4FY26
+
+Q1FY27
+
+Volume linked Technology & Growth Business as Usual
+
+Technology expenses are ~11% of total opex for Q1FY27
+1. Reported % change 2. Normalized opex % change excluding one-time write-back items in
+current quarter versus charge for previous quarter
+
+All figures in  Crores
+Increase in volume linked and technology cost offset by lower statutory expenses
+
+8%
+
+6%
+
+2%
+
+YOY%
+
+38%
+
+44%
+
+17%
+
+% in growth
+
+9,303
+
+160
+Business volumes and
+change in rates
+
+186
+Investments in IT Infra and digital journeys
+
+73
+Includes impact of Increments rolled out in Q1
+& Statutory costs
+
+9,722
+
+Q1FY26 opex
+2.17% FY22
+
+Volume linked Technology & Growth Business as Usual
+
+Q1FY27 opex
+
+2.22%
+
+Cost to Assets %
+
+2.55%
+
+2.46%
+
+2.41%
+
+2.28%
+
+YOY 21 bps QOQ 8 bps
+2.20%
+
+FY23
+
+FY24
+
+FY25
+
+Q1FY26
+
+FY26
+
+Q1FY27
+
+Quarterly Results Q1FY27
+
+12
+
+AXIOM: Building an AI-led, customer-centric bank
+Our AI operating model is driven by a platform approach with reusable capabilities
+
+AXIOM Operating
+Model
+5 focus areas driving AI industrialization
+
+AXIOM Capability
+Platform
+Reusable, governed capabilities creating enterprise-wide impact
+
+FROM USE CASES TO PLATFORMS
+
+REUSABLE AI CAPABILITY PLATFORMS Enterprise assets built once, reused everywhere
+
+VisionXtract
+Document AI capability stack to drive Zero Ops
+LIVE
+
+Voice AI
+Voice intelligence stack to drive customer satisfaction
+LIVE
+
+Knowledge AI
+Enterprise knowledge search & content generation
+LIVE
+
+GOVERNANCE LAYER Responsible AI, safe & compliant at scale
+
+ Enterprise AI
+Governance Model
+
+ Evaluation Harness
+Quality evaluation
+
+ Model Lifecycle
+Management & Monitoring
+
+RM Copilot
+Intelligent insights and relationship augmentation
+LIVE
+ Responsible AI
+ISO 42001 Certified
+
+COMMON, REUSABLE, SCALABLE
+Designed once. Deployed many times. Creating a compounding value across Axis.
+
+Quarterly Results Q1FY27
+
+13
+
+AXIOM in Action: Q1FY27 - Progress at a glance
+
+A
+F OB C U SC
+A R ED A S
+E
+
+Zero Ops
+Conversational Interface for Customers
+Enterprise Knowledge Bot
+RM Copilot
+Assurance Strengthening
+
+~34 Mn AI- assisted doc reading
+
+~1.05 Mn
+
+AI-assisted Onboarding
+
+0.75 Mn+
+
+Sales & Service Bot based interactions
+
+18 Mn+ Collections: Bot-based
+calling
+
+2.8 Mn+
+
+Customer chat interactions
+
+~0.74 Mn No. of queries processed in ADI
+
+~0.64 Mn AI-Powered Customer Conversations
+
+8 Mn+ Voice-to-text transcription
+
+~ 2.1 Mn Mins
+
+RM Calls analysed
+
+2 Mn+
+
+Insight generation
+
+55+ Credit models
+
+~320% YoY improvement in fraud value prevention
+
+93K Copilot users
+Note: The numbers represents YTD unless otherwise stated
+
+~4 Mn Monthly prompts generated
+ISO 42001 First Certified BFSI Globally
+
+Quarterly Results Q1FY27
+
+14
+
+Executive Summary
+Executive Summary
+Financial Highlights
+Financial Highlights Capital and Liquidity Position Business Segment Performance Asset Quality Sustainability Subsidiaries' Performance Other Important Information
+
+Quarterly Results Q1FY27
+
+15
+
+Strong capital position with adequate liquidity
+
+14.38%
+
+0.72%*
+
+0.46%
+
+14.64%
+
+18.54%
+2.20% 1.10%
+
+Bank's Capital Adequacy Ratio
+
+17.64%
+3.07% 0.55%
+
+16.63%
+2.43% 0.46%
+
+17.07%
+2.00% 0.40%
+
+16.42%
+1.64% 0.40%
+
+16.67%
+1.32% 0.71%
+
+15.24%
+
+14.02%
+
+13.74%
+
+14.67%
+
+14.38%
+
+14.64%
+
+CET-1 Mar'26
+
+Accretion
+
+Consumption
+
+* Includes 22 bps increase due to discontinuation of IFR
+
+CET-1 Jun'26
+
+Liquidity Coverage Ratio (consolidated)
+
+123% 118% 118% 120% 120% 115% 119% 118% 119% 119% 116% 117% 119%
+
+Bank's LCR (consolidated)
+
+100% Regulatory minimum LCR
+
+Q1FY24 Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q2FY25 Q3FY25 Q4FY25 Q1FY26 Q2FY26 Q3FY26 Q4FY26 Q1FY27
+· The Bank holds excess SLR of `1,41,700 crores
+
+Mar-22
+
+Mar-23
+
+Mar-24
+
+CET 1 CAR AT1 CAR
+
+Mar-25 Tier 2 CAR
+
+Mar-26 Total CAR
+
+RWA to Total Assets
+
+Jun-26
+
+75%
+
+75%
+
+74%
+
+72%
+
+72%
+
+Jun-25
+
+Sep-25
+
+Dec-25
+
+Mar-26
+
+Jun-26
+
+Quarterly Results Q1FY27
+
+16
+
+Executive Summary
+Executive Summary
+Financial Highlights
+Financial Highlights Capital and Liquidity Position Business Segment Performance Asset Quality Sustainability Subsidiaries' Performance Other Important Information
+
+Quarterly Results Q1FY27
+
+17
+
+Retail Banking
+
+~51 Mn
+Individual customers
+
+4th
+Largest issuer of Credit Cards
+
+`7.54 Tn
+AUM in wealth management
+
+8%
+YOY growth in Retail advances
+
+16%
+YOY growth in Rural advances
+
+54%
+Share of Advances1
+
+14% | 14%
+YOY Growth in SA QAB2 | MEB3 deposits
+
+38%
+CASA ratio (MEB3)
+
+67%
+Share in total fee4
+
+1 Share in Bank's total advances, 2 QAB: Quarterly Average Balance, 3 MEB: Month End Balance, 4 share in Bank's total fee for Q1FY27
+
+Axis Bank Document Classification | Confidentiel
+
+The Deposit journey for Axis Bank should be looked at from three aspects...
+
+1
+
+We continue to work on improving the
+
+2
+...with controlled movement in cost of deposits
+
+3 ... growing faster than the industry aided by
+
+granularization in order to improve the
+
+over the last 2 years and...
+
+improved acquisition and customer deepening.
+
+quality of LCR deposits...
+
+26.2%
+
+27.3%
+
+28.6%
+
+28.8%
+
+27.9%
+
+5.19%
+
+5.13%
+
+5.06% 5.08% 5.08%
+
+5.07%
+
+4.94% 4.79%
+
+4.83% 4.77% 4.73% 4.75%
+
+4.62%
+
+18% 18% 13%
+
+13% 13% 12%
+
+14% 14% 12%
+
+Jun'25
+
+Sep'25
+
+Dec'25
+
+Mar'26
+
+LCR Outflow rates
+
+Jun'26
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+FY24 FY24 FY4 FY24 FY25 FY25 FY25 FY25 FY26 FY26 FY26 FY26 FY27
+
+Cost of deposits
+
+Last 1 yr
+
+Last 3 yrs CAGR
+
+Industry 1
+
+Axis (MEB) 2
+
+Last 5 yrs CAGR
+Axis (QAB)2
+
+Source:
+1 Industry data is based on the RBI disclosures as of June 30th, 2026. 2 QAB: Quarterly Average Balance; MEB: Month End Balance.
+
+Quarterly Results Q1FY27
+
+19
+
+...led by multiple initiatives across the Bank
+
+Focus on Productivity & Micro market strategy
+
+Premiumization
+
+SA New to Bank deposits1 up
+6% YOY and balances1 per account up 18% YOY
+76% of customer requests
+serviced digitally as part of Branch of the Future
+Calibrated branch expansion strategy
+
+30% CAGR in Burgundy
+wealth management AUM since Mar'20
+"Right fit" strategy to accelerate Premiumization
+`Burgundy Promise' & `Burgundy Circle of Trust' launched industry first servicing proposition
+
+Exclusively curated product propositions
+
+Bharat Banking
+
+Digital, transformation Partnerships
+
+17% YOY growth in Salary
+Uploads in the ETB Salary book2 by Jun'26
+Corporate Salary offerings remain amongst the best available in the market today
+
+~ 19K extensive distribution
+network of Common Service Centers (CSC) VLEs 3
+Launched fully digitized tractor journey in SFDC
+
+Project NEO aiding higher contribution from transactionoriented flow businesses
+48% YOY growth in
+individual RTD by value sourced digitally for Q1FY27
+
+New `Family Banking Program' and benefits including super premium Magnus Card for Burgundy customers
+
+Enabled CASA opening at a third-party network on the eKYC platform, building a TD proposition on the eKYC platform
+
+Siddhi empowering Axis Bank colleagues to engage with customers seamlessly
+
+13%
+YOY growth in Premium acquisitions in NTB Salary book by Jun'26
+1Based on Monthly daily average basis (MDAB) 2Sourcing with >25k salary inflows 3 Village Level Entrepreneurs 4 QAB
+
+21%
+YOY growth in Term Deposits4
+
+2.9 mn
+Retail Term Deposits acquired in Q1FY27
+
+Quarterly Results Q1FY27
+
+20
+
+Amongst the leading players in India's Wealth Management space
+
+2.13 1.47
+
+Overall Burgundy AUM has grown strongly
+6.78 5.92 5.37 3.57 2.61
+
+All figures In  trillion
+
+7.54
+
+30% CAGR1 20% YOY
+
+Mar-20 Mar-21 Mar-22 Mar-23 Mar-24 Mar-25 Mar-26 Jun-26
+
+Burgundy Private AUM Burgundy Private Families Burgundy Private Client Base Burgundy Private 3-in-1 Cards
+1 CAGR for period Mar-20 to Jun-26
+
+2.68 Tn 17,400+ 40,100+ 16,889
+
+16% YOY 25% YOY 28% YOY 23% YOY
+
+Quarterly Results Q1FY27
+
+21
+
+6.8 trillion Retail loan book remains well diversified
+
+6%
+
+6%
+
+YOY
+
+QOQ 0% 2%
+
+6,230
+
+6,355
+
+Retail book (in  billion)
+
+8%
+
+8%
+
+6%
+
+1% 6,446
+
+4% 6,735
+
+0% 6,755
+
+Jun-25
+
+Sep-25
+
+Dec-25
+
+Mar-26
+
+Jun-26
+
+~ 73% of our retail book is secured (1)
+
+in  Crores Home Loans Rural loans2 LAP Personal loans SBB3 Auto loans Credit Cards Comm Equipment Others4 Total Retail
+
+Jun-26 1,73,787 1,17,211 87,342 82,781 79,468 60,134 45,523 12,956 16,344 6,75,546
+
+QOQ -
+(1%) -
+1% 2% 1% 1% 1% (3%)
+-
+
+YOY 5% 16% 11% 7% 18% 4% 5% 10% (18%) 8%
+
+% Prop
+26% 17% 13% 12% 12% 9% 7% 2% 2% 100%
+
+MFI loans are ~3.7% of retail loans, of which ~1.2% is retail
+MFI and the balance is wholesale MFI
+
+ETB5 mix in retail portfolio
+
+79%
+
+77%
+
+67%
+
+55%6
+
+47%
+
+45%
+
+Personal Loan LAP
+
+HL
+
+Credit Card
+
+SBB
+
+Auto loan
+
+100% of PL and 75% of Credit Cards portfolio is to salaried segment
+Average LTVs:7
+63% in overall home loan portfolio 43% in LAP portfolio
+
+1 Basis Bank's classification of secured, 2 Includes gold loans, 3 Includes LAP in SBB segment of 2,918 crs as on 30.06.2026; 4 Others comprise of supply chain finance loans, education loans etc. 5 Existing to Bank (as of May-26) 6 15% of CC acquired in Q1FY27 were through Known to Bank (KTB) channel, 7 LTV on sourcing basis for Q1FY27
+
+Quarterly Results Q1FY27
+
+22
+
+Small Business Banking segment
+
+SBB Portfolio
+
+All figures in  Crores
+18% YOY 2% QOQ
+
+78,018 79,468
+
+66,757
+57,219
+16,993
+
+17,854
+
+42,982 14,724
+
+18,187
+
+10,316
+28,617
+
+17,859 6,576
+
+4,984 12,875
+
+22,041
+
+32,666
+
+42,495
+
+49,764
+
+60,164
+
+61,281
+
+FY21 FY22 FY23 FY24 FY25 FY26 Q1FY27
+
+Working Capital Business Loans
+
+· 79,468 crores overall book with Business Loan
+(unsecured) book of 18,187 crores
+· ~72% value contribution from Secured products
+(working capital, overdraft, term loans, etc.)
+· ~169 lakh average ticket size disbursed for Working
+Capital loans1 in Q1
+· ~85% of SBB working capital portfolio is PSL compliant
+· EWS portfolio monitoring indicates risks under control
+· ~79% Branch contribution to total business
+· 6.69 lakh+ customer base is on increasing trend
+24x7 Business loans : End to End digital lending contributes ~77%
+to overall unsecured BL disbursements
+
+1Average excluding ECLGS 5.0; average ticket size including ECLGS 5.0 was ~ 71 lakh 2Working capital loans diversification re-classified basis SEG Industry classification
+
+Well diversified customer base2
+
+23%
+
+11% 10%
+
+2% 2% 3% 3%
+4%
+
+8% 7%
+
+4%
+
+5%
+
+7%
+
+6% 6%
+
+Food and Beverages Metal Products & Manufacturing Trade Retail and Wholesale Industrial Petro-Chemical and Products Paper & Paper Products Transport & logistics Others
+
+Infra & Other Construction Textile Health Care & Products Self employed Non Professionals Gems & Jewellery Chemicals Hotels
+
+Quarterly Results Q1FY27
+
+23
+
+Trend in Credit Card issuances
+
+Axis Bank Magnus Credit Card Indian Oil Axis Bank Credit Card
+
+Card issuances continue to remain strong
+
+In million
+
+1.21
+
+1.26
+
+1.24
+
+1.11
+
+1.06
+
+0.96
+
+1.07
+
+1.10
+
+0.95
+
+0.92
+
+0.77
+
+0.79
+
+0.68
+
+Q1FY24 Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q2FY25 Q3FY25 Q4FY25 Q1FY26 Q2FY26 Q3FY26 Q4FY26 Q1FY27
+
+Flipkart Axis Bank Credit Card
+
+16.1 mn+
+Cards in force, 4.1 mn CIF for Flipkart
+Axis Bank Credit Card
+
+~15%
+share of KTB1sourcing to total card issuances in Q1FY27
+
+~13.4%
+period end market share for credit cards in force as
+of May'26
+
+~11.3%
+spends market share in 2M Q1FY27
+
+1 Known to Bank
+
+Quarterly Results Q1FY27
+
+24
+
+Trend in Card spends and POS terminals
+
+`GRAB DEALS', Axis Bank's exclusive shopping platform has scaled up significantly
+
+31 crores GMV (Q1FY27)
+
+~0.5 lakh transactions (Q1FY27)
+
+Ranked amongst the largest Merchant Acquiring Bank led by `One Axis' focus, improved product capabilities
+and partnerships
+
+Trend in Credit Card spends market share
+Overall Q1FY27 CC spends at `70,428 crores
+
+Trend in Debit Card spends
+All figures In  Cr
+
+11.8%
+
+11.7%
+
+11.2%
+
+11.3%
+
+11.3%1
+
+YOY 3%
+
+QOQ 1%
+
+7,914
+
+8,163
+
+8,357
+
+8,026
+
+8,280
+
+Market share in POS terminals3
+
+2nd 20.1%
+
+2nd 19.8%
+
+1st 21.4%
+
+2nd 22.1%
+
+2nd
+
+Rank
+
+22.1%
+
+87%
+
+86%
+
+85%
+
+87%
+
+87% 2
+
+4%
+
+1%
+
+13% Q1FY26
+
+14% Q2FY26
+
+15% Q3FY26
+
+13% Q4FY26
+
+13%2 Q1FY27
+
+Commerical Spends
+
+Retail Spends
+
+1 Market share for 2M Q1FY27 based on RBI reported data as of May'26 2 Based on spends as proportion of total RBI reported spends 3 RBI data, as of May'26
+
+1% Q1FY26 Q2FY26 Q3FY26 Q4FY26 Q1FY27
+
+Jun'25
+
+Sep'25
+
+Dec'25
+
+Mar'26
+
+May'26
+
+Quarterly Results Q1FY27
+
+25
+
+Driving the next phase of growth in Bharat through Scale, distinctiveness and sustainable value creation
+
+· Building integrated rural ecosystem to deepen customer engagement and unlock multi-product growth opportunities · Lending opportunities in RuSu markets is complementing the Bank's overall PSL strategy meaningfully
+
+Well diversified rural lending portfolio with presence across 685 districts across India
+
+Significant coverage in RuSu Markets...
+
+.....continue to scale high potential businesses through focused execution and digital led process
+
+Rural loans portfolio & composition
+
+21% CAGR1
+
+(in  Cr)
+
+16% YOY
+
+56,332 43,698
+
+118,586 117,211 103,512 91,866 70,918
+
+FY21 FY22 FY23 FY24 FY25 FY26 Q1FY27
+
+13% 4% 6% 14%
+28%
+
+35%
+
+Farmer Finance Bharat Enterprises Gold MFI-Retail MFI-Wholesale & Co-lending Farm Equipment
+
+2,937
+Bharat Banking branches
+18,926
+CSC VLEs network
+...with steady growth in business...
+16%
+YOY growth in Rural Advances
+15% | 4%
+YOY | QOQ growth in Deposits
+
+MFI- Retail · Market share gain with expansion through geographical footprint and new
+product variants · Profitability scale up through best-in-class collection efficiency and improving
+asset quality
+Farm Mechanization · Growth led through prime dealerships with faster TAT and digitized journeys · Scaling Used Tractor business and be a "One-Stop" solution for dealers
+Gold · Growth led by Agri, MSME along with branch expansion & digitized journeys · Aligning with Regulatory priorities for sustainable business growth
+Bharat Enterprises · Focus on diversification to create stable book of MSME and Agri Ancillary · Explore and extend our presence in micro market hotspots for liability and
+forex
+Farmer Funding · Increase mix of Agri allied (Dairy, Fishery, etc), KCC and FPO for higher PSL
+growth · Unlocking growth through ecosystem funding in farm to fork value chain
+Social Security schemes · All products digitized to improve customer experience and adoption · Sourcing through all banking channels depicting "One-Axis" approach
+
+1 Mar-21 to Jun-26
+
+Quarterly Results Q1FY27
+
+26
+
+We have a very well distributed branch network
+
+Domestic branch network1
+
+4,903
+
+5,377
+
+5,876
+
+6,275
+
+7% YOY
+6,295
+
+Mar-23 Mar-24 Mar-25 Mar-26 Jun-26
+
+Branch presence across categories
+
+19%
+
+31%
+
+28%
+
+22%
+
+Metro Semi-Urban
+
+Urban Rural
+
+· Calibrated approach towards new branch additions across focused regions · Aligned to our Bharat Banking strategy, specific RuSu branches follow an asset-led liability model · The Bank further has 315 BCBOs as of 30th June, 2026 · Dedicated Asset Desk Managers for fulfilment of all loan leads at select branches · Select Platinum branches to cater to SBB customer base
+
+1 Includes extension counters 2 monthly average for Q1FY27
+
+Axis Virtual Centre
+
+~4.2 mn
+Customer connect 2
+
+1,700
+Virtual RMs
+
+8
+Centers
+
+· Connected with ~4.2 mn customers through this channel on an average per month in Q1FY27
+· AVC manages relationship with our existing customers under affluent and other programs
+· AVC is present across West, South, North and East with 8 centres
+
+Quarterly Results Q1FY27
+
+27
+
+Corporate & Commercial Banking
+
+38%
+YOY growth in Corporate loans
+
+25%
+YOY growth in SME loans
+
+27%
+YOY growth in Mid Corporate loans
+
+13%
+YOY growth in Transactional Banking fees,
+forex & trade (for Q1FY27)
+
+91%
+Share of corporate advances to clients rated A-and above
+
+87%
+Incremental sanctions to A-and above1
+
+13% | 6%
+YOY growth in CA deposits on QAB2 | MEB2
+
+11%
+Foreign LC Market Share June'263
+
+38%
+NEFT Market Share June'263 (by volume)
+
+1 in corporate segment for Q1FY27 2 QAB: Quarterly average balance, MEB: Month End Balance 3 Market share based on last twelve month average of RBI's monthly reported data
+
+Axis Bank Document Classification | Confidentiel
+
+Strong relationship led franchise driving synergies across One Axis entities...
+We have re-oriented the organisation structure in Corporate & Commercial Banking for delivering execution excellence · Segregated the responsibilities of coverage and product groups to ensure sharper focus · Corporate & Commercial Bank coverage reorganized into 8 coverage groups, each with a stated objective
+
+Conglomerates & Large Corporate
+Mid Corporate Multi-national Real Economy Institutional Coverage Government Coverage Commercial Banking Structured Assets
+
+1
+Full Service Corporate & Commercial Bank
+4
+
+`One stop shop' for Banking needs of Indian Corporates
+
+Transaction Banking
+
+· Cash Management · Trade & Supply Chain
+· Letter of Credit/ Bank Guarantee · Bill/ Invoice Discounting · Current Accounts · Correspondent Banking · Custodial Services
+
+2
+
+Loan & Deposits
+
+· Working Capital / Term Loans
+
+· Wholesale Deposits
+
+Treasury, Capital Markets & Investment Banking
+
+· Debt Capital Markets (DCM)
+
+3
+
+· Equity Capital Markets (ECM) · M&A & Advisory
+
+· Forex & Derivative Solutions
+
+Linkage to Retail Bank
+
+· Wealth Management ­ Burgundy / Burgundy Private · Salary Accounts of employees
+
+Reliable Partner Throughout the Business Life Cycle
+
+Axis Trustee
+A.Treds
+Axis Capital Axis Finance
+Axis MF
+
+Quarterly Results Q1FY27
+
+29
+
+...with 91% of the book rated A- and above
+
+Corporate Loans
+
+In  Cr
+
+YOY
+
+QOQ
+
+434,392 412,943
+
+42,914
+
+54,202
+
+268,334 32,299
+
+278,149 26,819
+
+299,393 27,922
+
+370,028 380,190 236,035 251,330 271,471
+
+38% 110%
+
+5% 26%
+
+31% 3%
+
+91% of the corporate loan book is rated A- or better
+· 69% of book as on 30.06.2026 is rated AA- & above
+
+11%
+
+11%
+
+10%
+
+9%
+
+9%
+
+89%
+
+89%
+
+90%
+
+91%
+
+91%
+
+Overseas corporate loan book
+
+· 84% is India linked based on standard book · 98% is rated A- and above based on standard book · 64% of standard outstanding constituted by top 10 conglomerates
+
+42,914
+
+54,202
+
+In  Cr
+
+25,825
+
+Mar-23 Mar-24 Mar-25 Mar-26 Jun-26
+
+Overseas
+
+Domestic
+
+Mar-23 Mar-24 A- or better
+
+Mar-25 Mar-26 BBB and below
+
+Jun-26
+
+89%
+
+88%
+
+% 90%
+
+86%
+
+87%
+
+Incremental sanctions to corporates rated A- & above
+
+Jun-25
+
+Mar-26
+
+Jun-26
+
+Quarterly Results Q1FY27
+
+30
+
+We have a strong Transaction Banking proposition
+NEFT Volume Payment Market Share
+Market Share at 38% (Jun 261)
+Foreign LC Market Share2
+Market Share at 11% (Jun 261)
+RTGS Value Payment Market Share3
+Market Share at 9% (Jun 261)
+Current Account 3
+6%YOY growth in Current Account, Month End Balances (Q1FY27)
+1 Last twelve month average 2 Foreign LC ­ SWIFT Watch 3 RTGS/NEFT/IMPS Payment ­ RBI Report 4 GST Payment ­ Ministry of Finance
+
+IMPS Volume Market Share3
+Market share at 27% (Jun 261)
+
+BBPS Value Market Share3
+Market Share at 16% (Jun 261)
+
+GST Payment Market Share 4
+Market Share at 7% (Jun 261)
+
+Digital Adoption
+82% Current Account customers registered for internet/mobile banking
+
+Quarterly Results Q1FY27
+
+31
+
+We remain well placed to benefit from a vibrant Corporate Bond market
+
+Placement & Syndication of Debt Issues
+
+Amount mobilized / arranged1
+
+Market share and Rank2
+
+47,492
+
+30,703
+
+1st 21.0%
+
+1st 20.8%
+
+Movement in corporate bonds
+
+14%
+
+14%
+
+13%
+
+12%
+
+All figures in  Crores 12%
+
+Q1FY26
+
+Q1FY27
+
+Q1FY26
+
+Q1FY27
+
+44,352
+
+48,948
+
+48,355
+
+51,550
+
+51,938
+
+Ranked #1 arranger for rupee denominated
+bonds as per Bloomberg league table
+Top arranger - Investors' Choice for primary issues and Top Sell-side firm in the
+Secondary Market
+
+Q1FY26
+
+Q2FY26
+
+Q3FY26
+
+Q4FY26
+
+Q1FY27
+
+% to Corporate Loans
+
+1 Only includes the proportion of amount arranged by Axis Bank
+
+2 As per Bloomberg League Table for India Bonds
+
+Quarterly Results Q1FY27
+
+32
+
+neo by Axis Bank | Empowering Businesses with Cutting-Edge Digital Solutions
+from Account Opening to Seamless Web & Mobile Experiences
+
+Transformational Impact of Neo reflected in the strong product-market fit supported by ERP focused solutions and Partnerships
+
+Highly rated Mobile Banking App
+
+...with a fully digital application that sets new standards for seamless and efficient customer onboarding
+
+6.5K+
+Customers
+
+4.3K+
+Customers
+
+4.6 neo for Corporates
+Store Rating 4.6 4.6
+People's Choice
+
+Infiniti
+Eliminate paperwork and onboard customers
+faster, smarter, and more
+securely.
+
+5.7L+
+Customers
+Key Milestones - neo for corporates
+One platform. One experience.
+Enabled Complete suite of CA servicing
+Enhanced Liquidity management with Deposits and eLMS now available on neo for Corporates
+
+Widely recognized for product innovation and customer experience...
+
+· 1 Lac+ accounts opened using this platform · Digital CIB onboarding through co-origination journey reduced TAT by 3X · Integrated APIs digitise every step, reducing account opening time by 50% · Platform provides complete visibility of application movement · Future-ready omni-channel & omni-constitution platform.
+
+Quarterly Results Q1FY27
+
+33
+
+Industry-wise Distribution (Top 10)
+
+All figures in ` Crores
+
+Rank
+
+Outstanding1 as on 30th Jun'26 Sectors
+
+1.
+
+Financial Companies2
+
+2.
+
+Engineering & Electronics
+
+3.
+
+Power Generation & Distribution
+
+4.
+
+Real Estate3
+
+5.
+
+Trade
+
+6.
+
+Infrastructure Construction4
+
+7.
+
+Food Processing
+
+8.
+
+Iron & Steel
+
+9.
+
+Chemicals & Chemical Products
+
+10. Petroleum & Petroleum Products
+
+Advances
+1,10,338 30,003 44,521 58,409 46,817 26,953 42,339 29,215 20,119 22,244
+
+Investments
+
+Non-fund based
+
+35,569 -
+4,494 3,014
+5 3,603
+51 1,183
+
+57,688 44,458 17,114 1,610 12,085 21,282 5,330 15,258 15,473 8,335
+
+Total
+
+Value
+
+(in % terms)
+
+2,03,595
+
+13.01%
+
+74,461
+
+4.76%
+
+66,129
+
+4.23%
+
+63,033
+
+4.03%
+
+58,907
+
+3.76%
+
+51,838
+
+3.31%
+
+47,669
+
+3.05%
+
+44,473
+
+2.84%
+
+35,643
+
+2.28%
+
+31,762
+
+2.03%
+
+1 Figures stated represent only standard outstanding (advances, investments and non fund based) across all segments
+
+2 Includes Banks (32% in Q1FY27 vs 28% in Q4FY26), Non Banking Financial Companies (44% in Q1FY27 vs 42% in Q4FY26), Housing Finance Companies (6% in Q1FY27 vs 5% in Q4FY26), MFIs (3% in Q1FY27 vs 3% in Q4FY26) and others (15% in Q1FY27 vs
+
+22% in Q4FY26)
+
+3 Lease Rental Discounting (LRD) outstanding stood at `38,006 crores
+
+4 Financing of projects (roads, ports, airports, etc.)
+
+Quarterly Results Q1FY27
+
+34
+
+Business Performance
+Commercial Banking
+
+Strong growth in SBB+SME+MC book despite tightening our risk standards
+
+All figures in ` Crores
+
+15%
+
+19%
+
+20%
+
+93,166 18,414 56,527 18,225
+Jun'21
+
+130,355 28,021 70,689
+31,645
+Jun'22
+
+% of overall loan book
+
+171,242 38,465
+86,503
+46,274
+Jun'23 SBB
+
+21%
+
+23%
+
+209,985 47,579
+104,016
+
+247,172 58,956
+120,872
+
+58,390
+
+67,344
+
+Jun'24
+
+Jun'25
+
+SME
+
+Mid Corporate
+
+24% 306,086 74,999
+
+27%1 CAGR2 32% CAGR2
+
+151,619
+
+22% CAGR2
+
+79,468
+Jun'26
+
+34% CAGR2
+
+27%
+CAGR2 in combined MSME, MC and SBB segment
+9.2%
+Axis Bank's Incremental MSME4 market share in last 5 years
+
+SBB+SME+MC book has grown ~1.3x the overall book growth YOY, with ~911 bps improvement in contribution mix from 15.2% to 24.3% over last 5 years
+
+8.1%
+Axis Bank's market share as % of overall Industry MSME4 credit3
+
+1 Considering our SME+SBB+MC book as numerator 2 period for CAGR Jun'21 ­ Jun'26 3 Based on RBI data as of May26 4 MSME includes SBB+SME+MC
+SBB: Small Business Banking segment, SME ­ Small Enterprises Group segment + Medium Enterprises Group segment, MC ­ Mid Corporate segment
+
+Quarterly Results Q1FY27
+
+36
+
+Commercial Banking
+· One of the most profitable segments of the Bank with high PSL coverage · Data driven credit decisions, simplified products and digitized operations aiding higher business growth
+
+894
+83% 17% Mar'23
+
+SME1 Advances
+
+All figures in ` bn
+25% YOY 3% QOQ
+
+1,037
+80% 20% Mar'24
+
+1,185
+74% 26% Mar'25
+
+1,472
+68% 32% Mar'26
+
+1,516
+67% 33% Jun'26
+
+Rated on SME Model
+Rated on Large Corporate Model
+
+13%
+
+15%
+
+15%
+
+16%
+
+16%
+
+87%
+
+85%
+
+85%
+
+84%
+
+84%
+
+Mar-23 Mar-24 SME3 or better
+
+Mar-25 Mar-26 Others
+
+Jun-26
+
+5% 17%
+36%
+
+3% 24%
+45%
+
+3% 20%
+49%
+
+2% 15%
+48%
+
+1% 15%
+49%
+
+85% of loans were PSL compliant
+
+42%
+Mar'23
+
+28%
+Mar'24
+
+28%
+Mar'25
+
+35%
+Mar'26
+
+35%
+Jun'26
+
+1. CBG / SME advances represent advances of Small Enterprises Group (SEG) segment and Medium Enterprises Group (MEG) segment
+
+A- and better BBB+ and BBB BBB- Below BBB-
+
+Note: As per the internal policy, companies in CBG portfolio are being suitably rated under SME ratings model or large corporate ratings model depending on their turnover.
+
+Quarterly Results Q1FY27
+
+37
+
+SME lending
+Book by Loan size
+
+27%
+
+25%
+
+29%
+
+19%
+
+Less than 5 cr 10 cr to 25 cr
+
+5 cr to 10 cr More than 25 cr
+
+SME book mix (by tenure)
+
+30%
+
+32%
+
+34%
+
+70%
+
+68%
+
+66%
+
+Mar-25
+
+Mar'26
+
+Short term loan
+
+Jun-26 Long term loan
+
+Well diversified Geographical mix
+
+9% 2% 18% 10%
+
+13%
+
+17%
+
+15% 16%
+
+South 2 West 1 South 1
+
+West 2 North 1 South 3
+
+East & others North 2
+
+Incremental sanctions to SME rated SME3 & above
+
+87%
+FY25
+
+87%
+FY26
+
+89%
+Q1FY27
+
+Well diversified Sectoral mix
+
+29%
+
+15% 8%
+
+8%
+
+2%
+
+2%
+
+2%
+
+6%
+
+3%
+
+3%
+
+6%
+
+4% 4% 4% 4%
+
+Trade Retail and Wholesale CRE Engineering Services Trade Chemicals Infrastructure Construction Others
+
+Food and Beverages Textile Petrochemical and Petroleum Products Iron & Steel - Manufacturing Metal and Metal Products Drugs and Pharmaceuticals Industrials
+
+Quarterly Results Q1FY27
+
+38
+
+Digital Banking
+
+D2C products
+
+98%
+Digital transactions1
+
+Transformation
+
+250+
+Services on digital channels
+
+Capabilities
+
+2,500+
+People dedicated to technology agenda
+
+92%
+Credit cards issued2 (Q1FY27)
+
+46%
+New MF SIP volume (Q1FY27)
+
+66%
+New SA acquisition3
+
+300+
+Employee tool Journeys
+
+4.8
+Mobile App 4
+ratings
+
+16 Mn+
+Mobile Banking MAU5(Jun-26)
+
+750+
+In-house digital banking team6
+
+87%
+New hires6 from non-banking background
+
+Agile
+Enabled teams with CI/CD, micro-
+services architecture
+
+48%
+Individual RTDs value (Q1FY27)
+480
+Total APIs
+40%+
+Lift of bank credit model GINI scores over bureau
+
+74%
+PL disbursed
+(end-to-end digital) (in Q1FY27)
+4,400+
+Robotic automated processes
+240+
+Apps on cloud
+
+~12 Mn+
+Non Axis Bank customers using Axis Mobile app7 (as of June'26)
+
+~15%
+Contribution of KTB channels to overall sourcing of Cards (in Q1FY27)
+
+1Based on all financial transactions by individual customers in Q1FY27 2 through digital and phygital mode 3 Digital tablet based account opening process for Q1FY27
+
+4 on Google Play store
+
+5 Monthly active users 6 Including in-house Digital Banking team from Freecharge 7 Excludes Axis Pay app as it is decommissioned
+
+Our digital strategy: open by Axis Bank
+
+Open by Axis Bank ­ A Fully Digital Bank within the Bank
+- Distinctive In-house Digital Capability across People, Tech & Processes
+Acquire New Customers at Scale
+- 48% of retail individual TDs acquired digitally by value 1
+Become a Digital Consumer Lending Powerhouse
+- 74% of PL disbursed digitally 1
+Become a Benchmark Digital Bank Globally
+- `Axis Mobile' is top rated Mobile Banking App
+Become the Leader in New Platform Businesses
+- Early leadership in Account Aggregator, ONDC, CBDC, OCEN
+
+A
+
+Proprietary, distinctive digital native capabilities
+
+B
+
+Re-imagined & delightful customer experience
+
+C
+
+Full suite of products and services
+
+1 Data as of Q1FY27
+
+Quarterly Results Q1FY27
+
+40
+
+open by Axis Bank is a one stop solution for all the digital banking needs having:
+
+A
+
+Leadership in technology with several industry firsts
+
+1st
+Indian Bank to be ISO certified for its AWS and
+Azure Cloud security
+
+99.69%
+CIS Score - % rating for Center
+of Internet Security (CIS)
+Benchmark
+
+810
+Best-in-class BitSight 1 rating
+in BFSI
+
+0.01%
+UPI-Declines 2 - % decline as remitter (TD)
+
+B
+
+Distinctive customer experience
+
+C
+
+We continue to scale up Account Aggregator based use cases
+
+76%
+of Branch service request volumes covered
+12 mn+
+Non-Axis Bank customers using Axis Mobile & Axis Pay apps as of Jun'26
+~ 8.1 tn
+MB spends in Q1FY27, up 18% YOY
+16 mn+
+Monthly active users on Axis Mobile Banking
+67%
+MB customers banking only on mobile app
+
+5.6x
+YOY growth in AA3 based Personal loans disbursed
+
+~1.5 m
+Registrations since launch of `One View'
+
+Store Rating 4.8 4.8
+People's Choice
+
+Bank on-the-go with `open'
+Hyper personalized | Intuitive | Seamless
+Among the highest rating of 4.8 on Google Play Store with 3.5 mn+ reviews
+
+1 BitSight Security Ratings as of Jun'26 ­ higher the rating, the more effective the company is in implementing good security practices 2 As of Jun 26 3 Account Aggregator
+
+Quarterly Results Q1FY27
+
+41
+
+UPI has scaled up tremendously to become a key channel for customer transactions
+
+We have developed best-in-class UPI stack that enables us to offer cutting edge customized solutions across SDK, Intent, Collect and Pay offerings apart from new use cases like UPI AutoPay
+
+Dedicated IT cloud infrastructure to exclusively handle high volume UPI transactions has resulted in Axis Bank achieving one of the lowest decline rates as a remitter when compared to peer banks
+
+Strong customer base and partnerships
+2,789 mn
+Cumulative VPA base1
+~ 16.6 mn
+Merchants transacting per day on our stack
+Marque partnerships across the PSP and acquiring side
+
+UPI transaction value and volumes (as Payer PSP)
+
+48% YOY
+
+17,356
+
+21,739
+
+24,761
+
+23,400
+
+25,706 48% YOY
+
+2,279,818
+
+2,591,458
+
+3,137,556
+
+3,065,153
+
+3,373,257
+
+UPI P2M Throughput
+(in ` crores)
+
+34% YOY
+
+433,635
+
+473,452
+
+532,618
+
+526,508
+
+580,523
+
+and many othe.
+1 A user registering VPA once in Axis Pay and once in Google Pay is counted as two
+
+Q1FY26 Q2FY26 Q3FY26 Q4FY26 Quarterly transaction value (in `Cr) Quarterly transaction volume (in mn)
+
+Q1FY27
+
+Axis Bank continues to maintain leading Position in UPI Payer PSP space with a market share of ~38% by volume in Q1FY27
+
+Q1FY26 Q2FY26 Q3FY26 Q4FY26 Q1FY27
+
+Quarterly Results Q1FY27
+
+42
+
+Executive Summary
+Executive Summary
+Financial Highlights
+Financial Highlights Capital and Liquidity Position Business Segment Performance Asset Quality Sustainability Subsidiaries' Performance Other Important Information
+
+Quarterly Results Q1FY27
+
+43
+
+GNPA, NNPA, slippages and credit costs improved YOY
+
+GNPA at 1.28% & NNPA at 0.39%
+
+1.57% 0.45% Q1FY26
+
+1.46% 0.44%
+
+1.40% 0.42%
+
+1.23% 0.37%
+
+Q2FY26
+
+Q3FY26
+
+Q4FY26
+
+GNPA %
+
+NNPA %
+
+1.28% 0.39%
+Q1FY27
+
+Retail 66% 1
+
+Segmental composition
+
+CBG
+
+WBG
+
+64% 1
+
+90% 1
+
+Total 70% 1
+
+1.98%
+
+0.67%
+
+GNPA NNPA
+
+0.70% GNPA
+
+0.26% NNPA
+
+0.50% GNPA
+
+0.05% NNPA
+
+1.28% GNPA
+
+0.39% NNPA
+
+3.13% 2.33% Q1FY26
+
+Slippages (Annualised)
+
+2.11% 1.05%
+
+2.11% 1.11%
+
+1.63% 0.70%
+
+Q2FY26
+
+Q3FY26
+
+Gross Slippages
+
+Q4FY26 Net Slippages
+
+1.79% 1.12%
+Q1FY27
+
+1 Provision coverage ratio without technical write offs 2 credit cost net of recoveries in written off accounts
+
+Credit Cost (Annualised)
+
+1.70% 1.38% Q1FY26
+
+0.95%
+
+1.02%
+
+0.73% Q2FY26
+
+0.76% Q3FY26
+
+Credit Cost
+
+0.75%
+0.37% Q4FY26
+2
+Net credit cost
+
+0.92%
+0.63% Q1FY27
+
+Quarterly Results Q1FY27
+
+44
+
+Detailed walk of NPAs over recent quarters
+
+Gross NPAs - Opening balance Fresh slippages Upgradations & Recoveries Write offs Gross NPAs - closing balance Provisions incl. interest capitalisation Net NPA Provision Coverage Ratio (PCR) Accumulated Prudential write offs PCR (with technical write-off)
+
+A B C D E = A+B-C-D F G = E-F
+H (F+H)/(E+H)
+
+Q1FY26
+14,490 8,200 2,147 2,778 17,765 12,699 5,066 71% 44,073 92%
+
+Q2FY26
+17,765 5,696 2,887 3,266 17,308 12,194 5,114 70% 45,333 92%
+
+All figures in  Crores
+
+Q3FY26
+17,308 6,007 2,872 3,276 17,167 12,013 5,154 70% 46,217 92%
+
+Q4FY26
+17,167 4,675 2,662 3,096 16,084 11,294 4,790 70% 44,631 92%
+
+Q1FY27
+16,084 5,566 2,126 2,399 17,125 11,932 5,193 70% 44,647 92%
+
+Loan Loss Provisions
+
+Provisions & Contingencies charged to Profit & Loss Account
+
+Q1FY26
+
+Q2FY26
+
+Q3FY26
+
+3,900
+
+2,133
+
+2,307
+
+Other Provisions
+
+48
+
+1,414
+
+(61)
+
+For Standard assets1
+
+154
+
+1,5683
+
+(128)
+
+Others Total Provisions & Contingencies (other than tax)
+
+(106) 3,948
+
+(154) 3,547
+
+67 2,246
+
+1 including provision for unhedged foreign currency exposures 2 Includes an additional one-time provision of 2,001 crores under prudent provisioning framework for standard assets 3 includes additional one-time standard asset provision of `1,231 crores
+
+Q4FY26 1,146 2,376 455 1,9212 3,522
+
+Q1FY27 2,079 144 195 (51) 2,223
+
+Quarterly Results Q1FY27
+
+45
+
+Executive Summary
+Executive Summary
+Financial Highlights
+Financial Highlights Capital and Liquidity Position Business Segment Performance Asset Quality Sustainability Subsidiaries' Performance Other Important Information
+
+Quarterly Results Q1FY27
+
+46
+
+ESG focus continues to have Bank-wide sponsorship
+
+Our Purpose Statement: Banking that leads to a more inclusive and equitable economy, thriving community and a healthier planet
+
+Steady Performance on Global ESG Benchmarks
+
+Environmental
+61,348 Cr
+Achieved Under Wholesale Banking to sectors with positive social and environmental outcomes
+~4.16 Mn
+Saplings planted to create Carbon sink for environment
+7.2%
+EV penetration in fiscal 2026 (4-W)
+9.01%
+EV penetration in fiscal 2026 (2-W)
+
+Social
+~2.8 Mn
+Households reached under Sustainable Livelihoods
+~5.2 Mn
+women participants in microfinance rural lending
+30.1%
+Female representation in workforce
+1.62 Lakh +
+women empowered through financial literacy sessions
+PAN India
+
+Governance
+1st
+Indian Bank to constitute an ESG Committee of the Board
+69%
+Proportion of Independent, Non-Executive Directors on the Board
+23%
+Proportion of women directors on the Board
+98%+
+Eligible Employees trained in AML & related laws
+
+Latest S&P DJSI ESG Score 2025 - 58
+9th Consecutive year on FTSE4Good Index in 2025
+MSCI ESG Ratings at AAA in 2025 (June)
+Governance Score 81 Grade: Leadership (Top 7% companies in the S&P BSE)
+Score 69 (Strong category) on CRISIL ESG Ratings Jul 2025
+
+Among the top 10 Constituents of Nifty100 ESG Sector Leaders Index
+
+Among top 10 constituents of S&P BSE 100 ESG Index
+
+Among Top 10 Constituents of MSCI India
+ESG Leaders Index
+
+Among Top 10 Constituents of S&P BSE
+CARBONEX Index
+
+Rated 18.43 - Low Risk on Sustainalytics 2026 (Jan)
+
+Quarterly Results Q1FY27
+
+47
+
+Committed to Positive Climate Action and Achieving the SDGs
+
+In September 2021, the Bank announced commitments aimed at supporting India's low-carbon and equitable economic transition towards achieving the SDGs and India's commitments under the Paris Agreement
+
+Our Commitment
+
+Unit
+
+Achievement as on FY 2026
+
+Incremental disbursement of Rs. 10,000 crores by FY 2024 under Asha Home Loans for affordable housing; increasing share of women borrowers from 13.9% to 16.9%
+
+· Incremental disbursement · Share of women borrowers
+
+Target achieved in 2024
+
+Incremental financing of Rs. 60,000 Crores under Wholesale Banking to sectors with positive social and environmental outcomes, by FY 2030
+
+Cumulative Exposure
+
+~61,348 Cr1
+
+Making 8% of its retail Two-Wheeler loan portfolio as electric by FY 2027
+Making 7% of its Passenger Four-Wheeler loan portfolio as electric by FY 2027
+Scaling down exposure to carbon-intensive sectors, including Coal and Thermal Power
+
+EV % as share of 2W & 4W loan portfolio (Y)
+Progress on Glide Path
+
+9.01%2 7.2%2
+Exposure well within FY 2026 targeted cap
+
+Reaching 30% female representation in its workforce by FY 2027
+
+Overall diversity
+
+30.1%
+
+Planting 8 million saplings by FY 20303 across India towards contributing to creating a carbon sink
+
+Saplings planted
+
+Initial commitments were achieved before the timeline
+1. Bank had achieved its earlier target of incremental financing of Rs 30,000 Crores by March 2026 and updated the target till 2030 2. Bank had achieved its earlier 2-W and 4-W EV Lending portfolio target of 6% and 4% respectively by December 2025 3. Target of planting 2 million trees has been upgraded in March 2025 to planting 8 million trees by 2030
+
+~4.16 million saplings planted
+
+Quarterly Results Q1FY27
+
+48
+
+Sparsh: Building a Customer-Led Growth Engine
+A bank-wide operating discipline, measured by NPS, powered by AI, delivered at every touchpoint.
+
+NPS
+NPS momentum reflects improved quality and consistency of customer interactions at scale.
+NPS (Net Promoter Score) movement since inception in Q1'FY23
+
+Retail Bank Baseline¹: 100 Q1FY27 (June'26): 155 +55
+
+155 100
+
+150 100
+
+160 100
+
+Retail Liabilities
+¹ Baseline = AMJ'22 (Q1 FY23)
+
+Retail Assets
+
+Credit Cards
+
+Baseline (Q1 FY23) Q1FY27
+
+Digital Enablers
+Sparsh is scaling consistent customer interactions through AI & CX platforms
+
+ADI | Gen AI-powered frontline enablement
+A Generative AI conversational chatbot to instantly assist front-line staff with query resolution
+Impact | FY27 YTD · ~7.4 Lakh Employee Queries processed in ADI · ~6.4 Lakh AI-Powered Customer Conversations
+Enabling faster, more consistent frontline responses and reducing variability in customer interactions
+Platinum Winner | Infosys Finacle Innovation Awards 2026 Modern Technologies-Led Innovation for ADI (June 2026)
+
+|
+
+Real-time customer visibility
+
+A single chronological view of customer footprint, across various channels to improve first-contact resolution
+
+Impact | FY27 YTD
+· ~30.9 Lakh Interactions enabled seamless customer servicing through Kaleidoscope
+
+Enabling more informed customer conversations, faster issue resolution and greater consistency in customer servicing
+
+Customer Obsession in Action: Building Trust, Deepening Relationships
+
+Scaling Personalized Engagement (WOW Chronicles)
+Sparsh WOW Chronicles scaled the MSME model across Commercial Banking, deepening relationships
+and driving wallet share.
+MSME Week Impact: 2,000+ customer engagements | 200+ ecosystem interactions by 50+ senior leaders | 16,000+ colleagues engaged
+through Live Pulsate
+
+Salary Specials Roadshow Meeting Customers Where They Work Strengthening Workplace Banking through on-ground, contextual engagement at key customer touchpoints.
+1,800+ corporate worksites engaged | 300+ leadership-led interactions | ~200 key decision-
+maker meetings
+
+Lowering Customer Effort Reduction in Axis Phone Redirections Enhanced virtual­branch coordination, improving first-time-right resolution and reducing customer
+friction across service journeys.
+~65% Reduction in Axis Phone Redirections More customer needs resolved at the first point
+of contact over the past 12 months
+
+most loved brand Senior Citizens & NRI | FY27 YTD A focused cohort strategy to deepen trust-based relationships with Senior Citizens and NRIs.
+256 branches | ~4,100 Senior Citizens engaged | ~1,900 NRI engaged across exclusive expert-led
+sessions
+
+Quarterly Results Q1FY27
+
+49
+
+Executive Summary
+Executive Summary
+Financial Highlights
+Financial Highlights Capital and Liquidity Position Business Segment Performance Asset Quality Sustainability Subsidiaries' Performance Other Important Information
+
+Quarterly Results Q1FY27
+
+50
+
+Continue to create significant value in our key group entities
+
+Asset Management
+
+Investment Banking & Inst Equities
+
+Consumer focused NBFC
+
+One Axis Group
+
+Retail Brokerage
+
+Trustee
+
+Fintech platform
+
+TReDS platform
+
+Insurance
+
+Among the prominent MF players
+75%1 (JV Schroders Plc )
+
+Among the leaders in ECM deals segment
+100%
+
+AAA rated NBFC with diversified product offerings
+100%2
+
+Amongst the leading
+bank led brokerage
+firm
+100%
+
+Amongst the leading trustees in India
+100%
+
+One of the major fintech players in India
+100%
+
+Leading player on TReDs platform
+67%
+
+4th largest private insurance company 6
+3
+19.99% (Co-promoter),
+Accounting Associate
+
+47% 4
+Total investments7 made
+23% CAGR5
+5,311 3,812 3,812 2,622 2,923 2,216
+
+Combined networth7 of operating subs
+30% CAGR5
+
+4,768
+
+6,409
+
+8,202
+
+10,650
+
+12,517
+
+14,408
+
+All figures in ` Crores Combined PAT7 of operating subs
+15% CAGR5 21% YOY
+
+1,195
+
+1,304
+
+1,591
+
+1,768
+
+2,051
+
+2,189
+
+Mar-22 Mar-23 Mar-24 Mar-25 Mar-26 Jun-26
+
+Mar-22 Mar-23 Mar-24 Mar-25 Mar-26 Jun-26
+
+1 25% is held by Schroders Plc 2 Position as on Jun 30, 2026 3 Position as on Jun 30, 2026 and including stakes owned by Axis Capital and Axis Securities 4 47% effective stake held by Axis Group in step down subsidiary (51% stake held by Axis Mutual Fund & 9% stake held by Axis Bank) 5 CAGR for Mar-22 to Jun'26 period 6Based on New Business Premium 7 The figures represented above are for the Bank's domestic group entities as per Indian GAAP, as used for consolidated financial statements of the Group
+
+FY22
+
+FY23
+
+FY24
+
+FY25
+
+FY26 Q1FY27 (Annualized)
+
+Quarterly Results Q1FY27
+
+51
+
+Axis Finance : PAT up 29% YOY, Retail up 22% YOY
+
+Healthy growth in Assets Under Management
+
+Robust operating and asset quality metrics
+
+All figures in  Crores
+
+Book Highlights
+CAGR1 YOY
+
+AUM Retail
+
+30% 21% 45% 22%
+
+85% of the book is secured
+
+34,413
+
+16,624
+
+24,480
+
+40,142
+
+48,175
+
+42,735
+
+51,592
+
+27% CAGR1 22% CAGR1
+
+548 364
+FY22
+
+663 475
+FY23
+
+916 610
+
+1,211 676
+
+1,436 806
+
+FY24
+
+FY25
+
+FY26
+
+337 189
+Q1FY26
+
+432 244
+Q1FY27
+
+Pre-provision profit
+
+PAT
+
+Mar'22
+
+Mar'23
+
+Mar'24
+
+Mar'25
+
+Mar'26
+
+Jun'25
+
+Jun26
+
+Assets under Management Movement
+
+Metric
+
+Key Highlights Jun'25
+
+Jun'26
+
+RAM4:70% 22% Q4FY26
+8%  48,175 52%
+18%
+
+RAM4:71% 21%
+Q1FY27 8%  51,592 52%
+19%
+
+# of Locations / Ees GNPA | NNPA (%) CRAR | Tier 1 (%) RoA | RoE (%)2
+
+801 | 1,917 0.91% | 0.35% 19.83% | 13.95% 1.90% | 13.98%
+
+1,188 | 2,414 1.02% | 0.39% 21.56% | 16.20% 2.00% | 12.88%
+
+3 Retail MSME RE Funding Corporate Lending 1 CAGR Calculated from period of FY22 ­ 26, 2 Includes equity infusion impact, Q1 Annualized; 3 MSME includes RBG, BBG and SME segment as per AFL Annual Report 4 RAM: Retail and MSME
+
+Quarterly Results Q1FY27
+
+28% YOY 29% YOY
+52
+
+Axis AMC : PAT up 3% YOY
+
+9% CAGR1 259,818 241,415
+
+Overall QAAUM
+
+274,265
+
+321,506
+
+359,601
+
+10% YOY
+
+335,607
+
+369,030
+
+Mar-22
+
+Mar-23
+
+Mar-24
+
+Mar-25
+
+Mar-26
+
+Jun-25
+
+Jun-26
+
+All figures in  Crores
+
+7% CAGR1 143,546 137,074
+
+Equity QAAUM
+
+164,981
+
+180,048
+
+188,771
+
+188,112
+
+1% YOY 189,747
+
+Mar-22 Mar-23 Mar-24 Mar-25 Mar-26 Jun-25 Jun-26
+1 CAGR for period Mar-22 to Jun-26
+
+AAUM Asset by Class
+
+8% 5%
+
+20%
+
+51%
+
+16%
+
+Liquid/Money Market Equity Passives & Others
+
+Income/Debt Hybrid
+
+AUM by Geography (Cities)
+
+17% 8% 6%
+14%
+
+55%
+
+14% CAGR2
+
+Trend in PAT
+
+All figures in  Crores 3% YOY
+
+596
+
+501
+
+415
+
+414
+
+357
+
+130
+
+134
+
+FY22
+
+FY23
+
+2 CAGR (FY22 to FY26)
+
+FY24
+
+FY25
+
+FY26 Q1FY26 Q1FY27
+
+Major Highlights
+· 4.4% AUM market share as of Jun'26 · Q1FY27 revenue stood at `354 crores up by 3% · 56% of overall AUM consists of Equity & Hybrid funds · Among the highest rated customer app on AppStore &
+PlayStore in AMCs
+· ~13.5 mn client folios as at of Jun'26
+
+Top 5 Next 10 Next 20 Next 75 Others
+
+Quarterly Results Q1FY27
+
+53
+
+Axis Capital : PAT up 72% YOY, Amongst the leader in the Full-Service Investment Banking
+
+Investment Banking Highlights
+· Announced Investment Banking transactions across Capital Markets, Private Placement & Advisory in Q1FY27 including 8 ECM & 3 Non-ECM transactions
+· Marquee Transactions include ­ Craftsman Automation (QIP + Block), Emcure Pharmaceuticals (Block), Citius Transnet Investment Trust (InvIT IPO), Bagmane Prime Office (REIT IPO), Altius Telecom Infrastructure Trust (Block), Coal India (OFS)
+· Active Mandate Pipeline ­ Axis Capital is well-positioned with a pipeline of 80+ marquee mandates across ECM, M&A, PE/Pre IPO, and InvITs/REITs
+
+Institutional Equities Highlights
+· 309 stocks under coverage (14 new initiations in Q1FY27) · 74% of India's market cap under coverage
+
+10% CAGR1
+
+Revenue from Operations
+
+48% YOY
+
+766 705
+
+521
+
+532
+
+441
+
+191 129
+
+FY22
+
+FY23
+
+1 CAGR (FY22 to FY26)
+
+FY24
+
+FY25
+
+FY26 Q1FY26 Q1FY27
+
+7% CAGR1
+200 142
+
+Profit After Tax
+259
+
+150
+
+161
+
+All figures in  Crores 72% YOY
+65 38
+
+FY22
+
+FY23
+
+FY24
+
+FY25
+
+FY26 Q1FY26 Q1FY27
+
+Quarterly Results Q1FY27
+
+54
+
+Axis Securities : 10% YOY growth in customer base
+
+14% CAGR1
+
+Total customer base (in mn)
+
+10% YOY
+
+7.09
+
+7.19
+
+6.36
+
+6.52
+
+5.55
+
+4.86
+
+4.17
+
+Major Highlights
+· 47% of the volumes in Q1FY27 was from Mobile trading · 60% of clients traded through Axis Direct Mobile App in Q1FY27
+
+Mar'22
+
+Mar'23
+
+Mar'24
+
+Mar'25
+
+Mar'26
+
+Jun'25
+
+Jun'26
+
+23% CAGR2
+
+Revenue
+
+14% YOY
+
+662 FY22
+
+724 FY23
+
+1,143
+
+1,656
+
+FY24
+
+FY25
+
+1,513
+
+360
+
+410
+
+FY26
+
+Q1FY26 Q1FY27
+
+1 CAGR for period Mar-22 to Jun-26 2 CAGR for period FY22 to FY26
+
+12% CAGR2
+
+Profit After Tax
+
+All figures in  Crores 8% YOY
+
+232
+
+203
+
+301
+
+419
+
+366
+
+89
+
+96
+
+FY22 FY23 FY24 FY25 FY26 Q1FY26 Q1FY27
+
+Quarterly Results Q1FY27
+
+55
+
+Axis Trustee: PAT up 37% YOY
+Major Highlights
+· New Business contributed 45% of Total Operating Income, supported by 29% YoY Revenue Growth, driven by strong performance across Debenture Trustee, Security Trustee and Escrow Agent businesses
+· PRISM ­ Launch of industry first customer portal · Debenture Trustee ­ No. 2 by AUM and 23% Market Share for Q1 FY27 · Facility Agency - Achieved 36% YOY Revenue Growth, supported by higher GIFT City-linked business volumes · 107% YOY Revenue Growth in Estate and Succession Planning offerings
+
+13% CAGR2
+
+48
+
+54
+
+Revenue
+
+77
+
+58
+
+61
+
+14% YOY
+
+FY22
+
+FY23
+
+FY24
+
+FY25
+
+16
+
+18
+
+FY26
+
+Q1FY26 Q1FY27
+
+All figures in  Crores
+2 CAGR for period FY22 to FY26
+
+15% CAGR2
+
+Profit After Tax
+
+37% YOY
+
+41
+
+23
+
+25
+
+25
+
+22
+
+7
+
+9
+
+FY22 FY23 FY24 FY25 FY26 Q1FY26 Q1FY27
+
+Quarterly Results Q1FY27
+
+56
+
+Invoicemart setting a new benchmark in TReDS
+
+· A.TREDS Ltd digital invoice discounting platform `Invoicemart' has set a new benchmark by facilitating financing of MSME invoices of more than 3,05,000 crs+
+· Invoicemart has helped in price discovery for MSMEs across 1,100+ locations in India who are now able to get their bills discounted from 74 financiers (banks, NBFC factors and NBFCs)
+· Invoicemart surpasses 53% women diversity, marking a significant step towards fostering and inclusive work environment
+· Won "Best Fintech Company of the Year - TReDS Platform" at the 5th MSME & Startup Innovation Summit, New Delhi
+· Being ISO 27001:2022 and ISO 27017:2015 recertified demonstrates the strength and maturity of our Information Security and Cloud Security practices
+
+Progress so far (Jul'17 to Jun'26)
+Throughput ~ 3,05,000 Cr
+Invoices Discounted (in No's) ~ 60 Lakh
+Participants on-board ~ 70,500 All figures in  Crores
+
+67% CAGR1
+
+Revenue
+
+20% YOY
+
+85% CAGR2
+
+Profit After Tax
+
+18% YOY
+
+16 FY22
+
+32 FY23
+
+56 FY24
+
+92 FY25
+
+124
+
+29
+
+35
+
+FY26
+
+Q1FY26 Q1FY27
+
+44 38
+
+18
+
+-5
+
+7
+
+11
+
+12
+
+FY22 FY23 FY24 FY25 FY26 Q1FY26 Q1FY27
+
+1 CAGR for period FY22 to FY26 2 CAGR for period FY23 to FY26
+
+Quarterly Results Q1FY27
+
+57
+
+FreechargeBiz: Focus on Profitability and Scaling Lending & Financial Services Businesses
+
+BC - Merchant Business
+· Continue to scale Unsecured Business Loan business ­ grew by 60% in Q1 FY27 vs Q4 FY26.
+· Maintaining over 99% collection efficiency in Micro Loans ­ one of the best in the industry.
+· Controlled expansion of Secured Loan (Micro Loan Against Property) with focus on process stabilization and eventual scale up; Will continue to focus on scaling throughout the year.
+
+BC - Consumer Payments & Financial Services
+· Microfinance (MFI) business continues to scale ­ now stable across 220 locations PAN-India.
+· Over 19% growth in UPI GMV in Q1 FY27 vs Q4 FY26. · Launched ATM cash withdrawal via UPI ­ enabling FreechargeBiz UPI users to
+withdraw cash from an ATM via UPI.
+
+Quarterly Results Q1FY27
+
+58
+
+Executive Summary
+Executive Summary
+Financial Highlights
+Financial Highlights Capital and Liquidity Position Business Segment Performance Asset Quality Sustainability Subsidiaries' Performance Other Important Information
+
+Quarterly Results Q1FY27
+
+59
+
+Our winning mindset is reflected in multiple awards and recognitions...
+
+Won `Best GenAI use case in Retail Banking' Award
+Annual BFSI Service Quality Excellence Award 2026 for "Best
+Omni-Channel Experience Strategy" Award
+
+Won "Infosys Finacle Innovation Award 2026", for Business Model
+Innovation ­ Multibank Sweep Implementation, Corporate Banking
+Innovation - Neo for Corporates, Modern technologies led Innovation ­
+Adi (Sparsh)
+
+Won "Best Mobile Banking Application and Best Digital Customer Onboarding Experience" Award at the Asset Triple A Digital
+Finance Awards 2026
+
+Won "Data Impact Award 2025 (APAC) under the category-
+Operational Excellence for Open Lakehouse and Iceberg Innovation "
+
+Won `Innovative SME Policy/Product of the year' Award
+
+Burgundy Private Won `Best Private Bank for Digitally Empowering Relationship Managers and Best
+Private Bank for Client Acquisition in India' Award at the Private Banker
+Wealth Tech Awards 2026
+
+Won "Digital Innovation in Banking (MSME) for Merchant Cash Advance
+Loans and Financial Inclusion Organization of the Year for MSME "
+Award
+
+Won "IBA's 4th CISO Summit 2025 Award", for Cyber Security Incident
+Response Maturity, Compliance Champion and
+Cyber Security Transformation of the Year
+
+Won `BFSI Tech Summit Award for Operational Excellence Initiative of the Year'
+
+Won "Best Bank in India (Private Sector ­ Large)" for Best Performance on Profitability, Risk Management and
+Asset Quality
+
+Recognised in the highest Leadership category under Indian corporate
+Governance Scorecard Framework of the Institutional Advisory Services
+
+Won `ICAI's Gold Shield' for Excellence in Financial Reporting in the Private Sector Banks category'
+
+Won `Outstanding Innovation in Financial Technology and
+Leadership in Sustainable Finance for Rooftop Solar Loans' Award
+'
+
+Won "India's Top CX Star and Best in-class Banking & Financial Services Award"
+
+Won for Corporate and Commercial Banking in India for Share Leader for market penetration and Best Bank
+for Sustainability and KYC Processes.
+
+Won `Best Talent Development at Workplace' award at ATD
+International Conference 2025
+
+`Best Sustainability-linked Bond ­ Financial Institution' for its
+US$600m Sustainable AT1 Bond and `Renewable Energy Deal of the Year
+(Wind)'
+
+Won "Highest Improvement in Data Quality of Commercial Bureau" Award
+
+Won `India's Best Digital Bank' award at the Financial Express
+Awards
+
+Quarterly Results Q1FY27
+
+60
+
+Shareholding Pattern (as on Jun 30, 2026)
+
+Life Insurance Corporation 7.87%
+GDR's 3.09%
+
+Others 6.44%
+
+Foreign Institutional Investors 39.91%
+
+Indian Institutions 42.69%
+ Share Capital  Shareholders' Funds  Book Value Per Share  Diluted EPS (Q1FY27) (Annualised)  Market Capitalization
+
+`622 crores `2,11,693 crores `681 `91.24 `4,06,790 crores (as on July 16, 2026)
+
+Quarterly Results Q1FY27
+
+61
+
+Financial Performance
+
+Financial Performance ( crores) Interest Income Other Income
+- Fee Income - Trading Income - Miscellaneous Income Total Income Interest Expended Net Interest Income
+Operating Revenue Core Operating Revenue* Operating Expenses
+-Staff Expense -Non Staff Expense
+Operating Profit Core Operating Profit* Provisions other than taxes Profit Before Tax Tax Expenses Net Profit EPS Diluted (in `) (annualized) Return on Average Assets (annualized) Return on Equity (annualized) Capital Adequacy Ratio (Basel III) (incl. profit)
+Certain amounts in the tables above may not add-up due to rounding off
+* excluding trading income
+
+A B = C+D+E
+C D E F = A+B G H = A-G
+I = B+H J K L M
+N = I-K O P
+Q = N-P R
+S = Q-R
+
+Q1FY27 33,986 6,735 6,156
+537 42 40,721 19,340 14,646
+21,382 20,844 9,722 3,058 6,664 11,659
+11,122 2,223 9,437 2,323 7,114 91.24 1.51% 14.16% 16.67%
+
+Q1FY26 31,064 7,258 5,746 1,420
+92 38,322 17,504 13,560
+20,818 19,398 9,303 3,262 6,041 11,515
+10,095 3,948 7,567 1,761 5,806 74.75 1.47% 13.14% 16.85%
+
+% Growth 9% (7%) 7%
+(62%) (54%)
+6% 10% 8%
+3% 7% 5% (6%) 10% 1%
+10% (44%) 25% 32% 23%
+
+Quarterly Results Q1FY27
+
+62
+
+Financial Performance
+
+Financial Performance ($ mn) Interest Income Other Income
+- Fee Income - Trading Income - Miscellaneous Income Total Income Interest Expended Net Interest Income
+Operating Revenue Core Operating Revenue* Operating Expenses
+-Staff Expense -Non Staff Expense
+Operating Profit Core Operating Profit* Provisions other than taxes Profit Before Tax Tax Expenses Net Profit EPS Diluted (in `) (annualized) Return on Average Assets (annualized) Return on Equity (annualized)
+Capital Adequacy Ratio (Basel III) (incl. profit)
+$ figures converted using exchange rate of 1$ = `94.6626 Certain amounts in the tables above may not add-up due to rounding off
+* excluding trading income
+
+A B = C+D+E
+C D E F = A+B G H = A-G
+I = B+H J K L M
+N = I-K O P
+Q = N-P R
+S = Q-R
+
+Q1FY27 3,590 712 650 57 4 4,302 2,043 1,547
+2,259 2,202 1,027 323 704 1,232
+1,175 235 997 245 752 91.24 1.51% 14.16% 16.67%
+
+Q1FY26 3,281 767 607 150 10 4,048 1,849 1,432
+2,199 2,049 983 345 638 1,216
+1,066 417 799 186 613 74.75 1.47% 13.14% 16.85%
+
+% Growth 9% (7%) 7%
+(62%) (54%)
+6% 10% 8%
+3% 7% 5% (6%) 10% 1%
+10% (44%) 25% 32% 23%
+
+Quarterly Results Q1FY27
+
+63
+
+Balance Sheet
+
+Balance Sheet CAPITAL AND LIABILITIES Capital Reserves & Surplus ESOP Outstanding Deposits
+(i) CASA Deposits - Savings Bank Deposits - Current Account Deposits
+(ii) Term Deposits Borrowings Other Liabilities and Provisions Total ASSETS Cash and Balances with RBI / Banks and Call money Investments Advances
+(i) Corporate (ii) CBG (iii) Retail Fixed Assets Other Assets Total
+
+As on 30th Jun'26 In ` Crores 622 2,11,071 1,346 13,72,936 5,21,698 3,48,312 1,73,386 8,51,238 2,37,317 98,674 19,21,966
+1,30,816
+4,38,955 12,61,557
+4,34,392 1,51,619 6,75,546
+6,603 84,035 19,21,966
+
+$ figures converted using exchange rate of 1$ = ` 94.6626 Certain amounts in the tables above may not add-up due to rounding off
+
+As on 30th Jun'25 In ` Crores 620 1,84,175 1,124 11,61,615 4,68,166 3,05,133 1,63,033 6,93,449 1,80,971 74,803 16,03,308
+99,322
+3,60,641 10,59,724
+3,15,892 1,20,872 6,22,960
+6,373 77,248 16,03,308
+
+As on 30th Jun'26 in $ Mn 66 22,297 142
+1,45,035 55,111 36,795 18,316 89,923 25,070 10,424
+2,03,033
+
+As on 30th Jun'25 in $ Mn 66 19,456 119
+1,22,711 49,456 32,234 17,223 73,255 19,117 7,902
+1,69,371
+
+% Growth
+0.3% 15% 20% 18% 11% 14% 6% 23% 31% 32% 20%
+
+13,819
+46,370 1,33,269
+45,888 16,017 71,364
+698 8,877 2,03,033
+
+10,492
+38,098 1,11,947
+33,370 12,769 65,808
+673 8,160 1,69,371
+
+32%
+22% 19% 38% 25% 8% 4% 9% 20%
+
+Quarterly Results Q1FY27
+
+64
+
+Drivers of Credit Costs
+
+Legacy asset quality issues adequately addressed
+
+Overall Credit Costs: FY12 to Q1FY27
+3.57% 3.53%
+
+Credit Cost Net Credit Cost
+15 year rolling average (FY12-26)
+
+2.82% 2.78%
+
+1.11%
+
+0.54% 0.61% 0.62% 0.61%
+
+1.06%
+
+0.48% 0.54% 0.55% 0.37%
+
+2.15%
+
+1.91%
+
+1.87%
+
+1.56%
+
+1.89%
+
+1.68%
+
+1.04% 0.74%
+0.72% 0.40%
+
+0.65% 0.37%
+
+1.04% 0.69%
+
+1.07% 0.78%
+
+1.36% 0.92% 1.16%
+0.63%
+
+FY12
+
+FY13
+
+FY14
+
+FY15
+
+FY16
+
+FY17
+
+FY18
+
+FY19
+
+FY20
+
+FY21
+
+FY22
+
+FY23
+
+FY24
+
+FY25
+
+FY26
+
+Q1FY27
+
+· Reduced lumpiness of the wholesale business: Given quality and granularity of the wholesale book, the new credit costs should be lower for this cycle as compared to previous cycle
+· Provisioning rules tightened and rule based, PCR an outcome: We now operate at 15% to 20% higher than where we used to previously operate. This needs to be factored in the incremental provisioning in the short term
+
+7.29%
+
+Trend in BB corporate book (Fund based as % of GCA)
+
+Jun'16
+
+1.32% Mar'19
+
+0.13% Jun'26
+
+Asset quality metrics
+
+5.26%
+
+1.67% 0.70%
+Mar'16
+56%
+
+2.06%
+
+Mar'19
+
+GNPA
+
+NNPA
+
+62%
+
+1.28% 0.39%
+Jun'26 70%
+
+PCR
+
+Quarterly Results Q1FY27
+
+65
+
+Limited restructuring, largely secured and well provided
+
+Bank's Net NPA1 and Fund based BB and Below1 portfolio
+PCR (excluding technical write offs) at 70%; net NPA at 0.39%
+
+Update on restructured book
+Outstanding Covid (1+2) restructuring as on 30.06.2026
+
+All figures in  Crores Implemented
+
+71%
+
+70%
+
+70%
+
+70%
+
+70%
+
+0.80%
+
+0.67%
+
+0.70%
+
+0.60%
+0.22%
+0.50%
+
+0.40%
+
+0.62% 0.18%
+
+0.58% 0.16%
+
+0.51% 0.14%
+
+0.52% 0.13%
+
+0.30%
+
+0.20%
+
+0.45%
+
+0.10%
+
+0.44%
+
+0.42%
+
+0.37%
+
+0.39%
+
+0.00%
+Q1FY26
+
+Q2FY26
+
+Q3FY26
+
+Q4FY26
+
+Q1FY27
+
+Net NPA BB & Below (Fund based) PCR without technical write-offs
+
+Bank Retail Wholesale CBG Bank as a % of GCA Retail as a % of segment GCA Wholesale as a % of segment GCA CBG as a % of segment GCA
+
+913 770 143
+0.07% 0.11% 0.03%
+-
+
+ Overall provision on restructured book 166 crs, coverage ~ 17%  ~99% of Retail Covid (1+2) is secured, unsecured 100% provided  MSME (1+2) restructured book 87 crs, 0.01% of GCA, provision held 23 crs  Linked non-restructured book 47 crores, provision held 18 crs
+
+BB & below book
+
+Key comments on BB and Below book  89 crs downgraded to BB & below during the quarter
+
+BB & Below Outstanding Fund based (FB)
+
+Q4 FY26 1,774
+
+Q1 FY27 1,794
+
+ 39 crs slippages to NPA
+ 74 crs net reduction in form of balances/exits/upgrades from the BB & Below book during the quarter
+
+Non fund based
+
+706
+
+651
+
+ Average ticket size ~ 39 crs
+
+Investments
+
+833
+
+844
+
+ Top 5 sectors comprising Chemical & Chemical Products, Power Generation & Distribution, Infra Construction, Shipping Transportation & Logistics and Textiles account for 68% of FB book
+
+The outstanding amount in `BB and Below' portfolio incorporates cumulative impact of rating Upgrades / Downgrades and Slippages from the pool
+
+1 As % of customer assets, as applicable
+
+Quarterly Results Q1FY27
+
+66
+
+Safe Harbor
+Except for the historical information contained herein, statements in this release which contain words or phrases such as "will", "aim", "will likely result", "would", "believe", "may", "expect", "will continue", "anticipate", "estimate", "intend", "plan", "contemplate", "seek to", "future", "objective", "goal", "strategy", "philosophy", "project", "should", "will pursue" and similar expressions or variations of such expressions may constitute "forward-looking statements". These forward-looking statements involve a number of risks, uncertainties and other factors that could cause actual results to differ materially from those suggested by the forward-looking statements. These risks and uncertainties include, but are not limited to our ability to successfully implement our strategy, future levels of non-performing loans, our growth and expansion, the adequacy of our allowance for credit losses, our provisioning policies, technological changes, investment income, cash flow projections, our exposure to market risks as well as other risks. Axis Bank Limited undertakes no obligation to update forward-looking statements to reflect events or circumstances after the date thereof.
+
+Quarterly Results Q1FY27
+
+67
+
+Thank You
+
+Quarterly Results Q1FY27
+
+68
+
+

@@ -1,0 +1,1583 @@
+Board's
+Report
+
+Dear Members,
+
+The Board of Directors present the Company's Forty-ninth Annual Report (Post-IPO) and the Company's audited financial
+statements for the financial year ended March 31, 2026.
+
+Financial Results
+
+The Company's financial performance (standalone and consolidated) for the year ended March 31, 2026 is summarised below:
+
+                                                               Standalone                                         Consolidated
+
+                                                      2025-26              2024-25                   2025-26                    2024-25
+
+                                             crore            US$          crore             US$      crore            US$   crore          US$
+                                                         million*                       million*                  million*             million*
+
+Profit Before Tax                           54,076             5,702 46,128             5,397        1,23,162 12,987 1,06,017 12,403
+Current Tax
+Deferred Tax                                (7,872)            (830) (9,399) (1,100)                 (9,736) (1,027) (12,758) (1,493)
+Profit After Tax
+Share of Profit / (Loss) of Associates and  (2,353)            (248) (1,467)                  (172)  (17,816) (1,879) (12,472) (1,459)
+Joint Ventures
+Profit After Tax and Share of Profit /      43,851             4,624 35,262             4,125        95,610 10,081 80,787                9,451
+(Loss) of Associates and Joint Ventures
+Net Profit attributable to Non-Controlling            -              -               -        -      144          15            522      61
+Interest
+Net Profit Attributable to Owners of the    43,851             4,624 35,262             4,125        95,754 10,096 81,309                9,512
+Company
+Balance in Retained Earnings                          -              -               -        -      (14,979) (1,579) (11,661) (1,364)
+Others #
+Sub-Total                                   43,851             4,624 35,262             4,125        80,775       8,517 69,648           8,148
+Appropriations
+Transferred to General Reserve               1,31,709          18,034      1,03,213     14,701        3,91,943    51,116 3,39,787        45,014
+Transferred to Statutory Reserve                      -                -            -           -          (470)       (50) (10,813)      (1,265)
+Transferred to Capital Redemption Reserve                                                                                                51,897
+Transferred (to) / from Debenture           1,75,560           22,658     1,38,475      18,826       4,72,248     59,583 3,98,622
+Redemption Reserve
+Dividend on Equity Shares                             -              -               -        -      -            -             -        -
+Closing Balance
+                                                      -              -               -        -      (63)         (7)           (158)    (18)
+
+                                                      -              -               -        -      (1,059)      (112)         -        -
+
+                                                      -              -               -        -      (39)         (4)           245      29
+
+                                               (7,443)            (785) (6,766)            (792)        (7,443)      (785) (6,766)          (792)
+                                            1,68,117           21,873 1,31,709          18,034       4,63,644     58,675 3,91,943        51,116
+
+Figures in brackets represent deductions.
+* 1 US$ =  94.835 Exchange Rate as on March 31, 2026 (1 US$ =  85.475 as on March 31, 2025).
+# Includes impact of change in Non-Controlling Interest.
+
+Results of operations and the state of the                                                           Dividend
+Company's affairs:
+                                                                                                     The Board of Directors have
+Highlights of the Company's financial performance                                                    recommended a dividend of  6/-
+for the year ended March 31, 2026 are as under:                                                      (Rupees Six only) per equity share
+                                                                                                     of  10/- (Rupees Ten only) each,
+Particulars                                    Standalone                 Consolidated               aggregating  8,119 crore for the financial
+                                             crore US$ billion*                                      year ended March 31, 2026. Last year,
+                                                                           crore US$ billion*        dividend was  5.50 per equity share
+                                                                                                     of  10/- each. Dividend is subject to
+Value of Sales and Services  5,46,852                          57.7       11,75,919     124.0        approval of members at the ensuing
+                                                                                                     Annual General Meeting (AGM) and shall
+EBITDA                                      78,085             8.2        2,07,911            21.9   be subject to deduction of income tax
+                                                                                                     at source.
+Cash Profit                                 63,309             6.7        1,71,258            18.1
+
+Net Profit                                  43,851             4.6        95,754              10.1
+
+* 1 US$ =  94.835 Exchange Rate as on March 31, 2026
+
+78                                                                                                                Reliance Industries Limited
+The dividend recommended is in               Expansion of                                   Retail
+accordance with the Company's                partnership with
+Dividend Distribution Policy. The Policy is  Google Cloud to                                Reliance Retail delivered another year
+available on the Company's website and       Accelerate India's                             of growth led by steady performance
+can be accessed at https://www.ril.          Growth with AI                                 across all consumption baskets. The
+com/sites/default/files/reports/Dividend-                                                   Retail Segment recorded a Gross
+Distribution-Policy.pdf                      The Company announced the expansion            Revenue of  3,71,085 crore for the
+                                             of its strategic partnership with Google       FY 2025-26 with a growth of 12.1% over
+Details of material                          Cloud to help shape India's next leap          last year. It has registered an EBITDA
+changes from the                             with AI.                                       of  27,034 crore, growing by 7.7%
+end of the financial                                                                        Y-o-Y, driven by improved category mix,
+year                                         Under the partnership, Google Cloud            private label contribution and operating
+                                             and Reliance will work together to deliver     efficiencies across supply chain and
+There have been no material changes          the performance, reliability, and security     fulfilment. The business continued to
+and commitments affecting the financial      required to support one of the world's         invest and strengthen its position as one
+position of the Company between the          fastest-growing retail ecosystems. The         of the fastest-growing players in hyper-
+end of the financial year and date of        Company will design, build, and power          local commerce.
+this report.                                 the state-of-the-art cloud facility and
+                                             associated network infrastructure at           During the year, the business entered
+Material events                              Jamnagar. The cloud region will be             into strategic brand partnerships with
+during the year:                             fully compliant with Google Cloud's            Stella McCartney, Kurt Geiger, Max &
+                                             global specifications and service-level        Co. and Fabletics, reinforcing Reliance
+Partnership with Meta                        standards, to enable the most demanding        Retail's position as the partner of
+for Enterprise AI                            AI workloads.                                  choice for international brands entering
+Solutions for India                                                                         India. With the registered customer
+                                             The dedicated cloud region will enable         base rising to 387 million and annual
+The Company has entered into joint           the Company to develop and provide             transactions crossing 1.9 billion mark,
+venture (JV) that will build and scale       high-performance, AI-first services to         Reliance Retail continues to be a
+enterprise artificial intelligence (AI)      enterprises, SMBs, startups, developers        preferred retail destination for millions
+solutions for enterprises in India and       and public sector organisations, backed        of Indian customers across different
+select international markets. As per the     by the scale and reliability of Jio's network  consumption baskets.
+JV agreement, Reliance and Meta have         and Reliance's energy leadership.
+jointly invested ` 855crore in the ratio of                                                 Digital Services
+70% and 30%, respectively.                   Management
+                                             Discussion and                                 Digital Services achieved a gross revenue
+The JV will develop ready-to-deploy          Analysis Report                                of  1,76,164 crore with growth driven
+vertical and sector-specific solutions for                                                  by robust subscriber addition, ARPU
+Indian enterprises.                          Management Discussion and Analysis             growth and scale-up of digital services.
+                                             Report for the year under review, as per       The business registered an EBITDA of
+This partnership combines Meta's             the Securities and Exchange Board of            76,560 crore growing by 17.8% Y-o-Y on
+open-source Llama models with the            India (Listing Obligations and Disclosure      account of higher revenues and operating
+Company's digital backbone to deliver        Requirements) Regulations, 2015                leverage led margin improvement. Digital
+enterprise-grade AI at affordable            ("Listing Regulations"), is presented in a     Services has delivered ~18% CAGR in
+price points for Indian enterprises and      separate section, which forms part of this     EBITDA over the past five years.
+SMBs. The JV will be able to deploy          Annual Report.
+AI solutions at-scale given "Enterprise                                                     Jio is one of the largest data operators
+Grade" readiness of Llama - which has        Business                                       globally carrying over 241 exabytes
+been proven across several production        operations/                                    of data traffic during FY 2025-26.
+environments. More importantly, the JV       performance of the                             Key drivers of this industry leading
+will be able to scale high-performance       Company and its                                engagement are rapid adoption of
+models at a fraction of the cost given       major subsidiaries                             5G and Fixed Broadband services.
+Llama's lower total cost of ownership.                                                      Jio is the clear market leader in 5G
+The JV will also have greater flexibility    Major developments and business                services, serving 268 million 5G mobility
+to deploy over cloud, on-premises, and       performance of the Company and its             subscribers as of March 2026. Jio is
+across its own infrastructure. This will     major subsidiaries consolidated with the       also the largest FWA operator globally
+allow the JV to proactively manage           Company are given below:                       with ~13 million premises connected
+infrastructure costs.                                                                       by JioAirFiber. In addition, there is
+                                                                                            also strong momentum in revenue
+                                                                                            contribution from nonconnectivity
+                                                                                            digital services including Consumer and
+                                                                                            Enterprise Cloud Services, managed
+
+Integrated Annual Report 2025-26                                                            79
+Board's Report
+
+services for enterprises, integration of      KG D6 leading to lower volumes and            Subsidiary,
+Media & Entertainment with connectivity       lower price realisation partly offset by      Joint Venture
+packages and IoT services.                    increased Coal Bed Methane (CBM)              and Associate
+                                              gas production.                               companies
+Media and
+Entertainment                                 KG D6, comprising R Cluster, Satellite        During the year under review, companies
+                                              Cluster, and MJ fields, continues to          listed in Annexure I to this Report
+Media & Entertainment business                deliver strong performance with ~25.9         have become and/or ceased to be the
+achieved a gross revenue of  40,682           MMSCMD of gas and ~18,170 bbl/                subsidiary, joint venture or associate of
+crore driven by strong performance            day of oil and condensate produced in         the Company.
+across its key verticals - JioStar,           FY 2025-26, aligned with expectations.
+Network18 and Jio Studios. The business       The field has set global benchmarks,          A statement providing details of
+delivered an industry leading margin of       achieving 99.9% uptime and over 15            performance and salient features of
+16.7% with EBITDA of  5,842 crore led         years of major incident-free operations.      the financial statement of subsidiary,
+by record monetisation across key assets      To maximise recovery from the field,          associate, joint venture companies, as
+and focus on improving efficiencies.          four infill wells are planned in the Block    per Section 129(3) of the Act, is provided
+                                              targeting incremental ~220 BCF of             as Annexure A to the consolidated
+JioStar further fortified its stronghold      gas. Additionally, three workover wells       audited financial statement and
+across Linear and Digital platforms,          are also planned in FY 2026-27 for            therefore not repeated in this Report to
+becoming the nation's primary anchor for      production sustenance.                        avoid duplication.
+entertainment and sports consumption
+at scale. During the year, JioHotstar         The Company produced CBM from Block           The audited financial statements
+delivered average monthly active users        SP (West)- CBM-2001/1, with over 320          including the consolidated financial
+of over 451 million while JioStar's TV        wells contributing to an average output of    statement of the Company and all other
+network maintained its industry-leading       ~0.88 MMSCMD in FY 2025-26, a 9.8%            documents required to be attached
+share of 34.7%. Network18 widened             Y-o-Y increase. In the Block SP (West)­       thereto are available on the Company's
+its lead in the news cycle across linear      CBM­2001/1, multi-lateral horizontal          website and can be accessed at https://
+and digital platforms while Jio Studios       well (MLW) programmes (first of its           www.ril.com/reports/RIL-Integrated-
+shattered box-office records by delivering    kind in India) have been successfully         Annual-Report-2025-26.pdf. The
+India's highest grossing film of all time.    implemented reversing the field decline.      financial statements of the subsidiaries,
+                                              The first campaign has been completed         are available on the Company's website
+Oil to Chemicals                              and second campaign is underway.              and can be accessed at https://
+                                                                                            www.ril.com/investors/subsidiaries-
+Revenue of Oil to Chemicals for               Together these fields are contributing        associates/financial-statements-of-
+FY 202526 increased by 5.7% Y-o-Y to          almost 30% of India's Production.             subsidiaries/financial-statements-of-
+ 6,62,401 crore, primarily driven by higher                                                 subsidiaries-2025-26.
+domestic retail placements through Jio-BP     Credit Rating
+and improved fuel cracks. The growth                                                        The Policy for determining Material
+was partially offset by a decline in crude    The Company's financial discipline and        Subsidiaries is available on the
+oil prices.                                   prudence is reflected in the strong credit    Company's website and can be accessed
+                                              ratings ascribed by rating agencies. The      at https://www.ril.com/sites/default/
+EBITDA of Oil to Chemicals for                details of credit ratings are disclosed       files/reports/Material-Subsidiaries.pdf.
+FY 202526 was at  60,546 crore, up            in the Management Discussion and
+by 10.1% Y-o-Y, supported by a sharp          Analysis Report, which forms part of this     During the year under review, Jio
+recovery in transportation fuel cracks,       Annual Report.                                Platforms Limited, Reliance Jio Infocomm
+favourable domestic retail margins, and                                                     Limited, Reliance Retail Ventures Limited,
+feedstock optimisation (higher ethane         Consolidated                                  Reliance Retail Limited and Reliance
+cracking vs naphtha). However, profitability  Financial Statement                           International Limited were material
+was partially impacted by higher freight-                                                   subsidiaries of the Company as per the
+led feedstock costs and a weaker polyester    In accordance with the provisions of the      Listing Regulations.
+chain margin.                                 Companies Act, 2013 ("the Act") and
+                                              the Listing Regulations read with Ind AS      Secretarial
+Amidst volatile geopolitical environment,     110-Consolidated Financial Statements, Ind    Standards
+Business remained very resilient with         AS 28-Investments in Associates and Joint
+agile feedstock sourcing and optimised        Ventures and Ind AS 31-Interests in Joint     The Company has followed the
+product placement.                            Ventures, the consolidated audited financial  applicable Secretarial Standards with
+                                              statement forms part of this Annual Report.   respect to Meetings of the Board of
+Oil and Gas                                                                                 Directors (SS-1) and General Meetings
+                                                                                            (SS-2) issued by the Institute of Company
+Revenue and EBITDA were down by                                                             Secretaries of India.
+5.4% and 10.1% respectively, primarily
+due to natural production decline in
+
+80                                                                                          Reliance Industries Limited
+Directors'                                     Governance Report as per the Listing         at https://www.ril.com/sites/default/
+Responsibility                                 Regulations forms part of this Annual        files/reports/Policy-on-Materiality-of-
+Statement                                      Report. Certificate from the Auditors of     RPT.pdf.
+                                               the Company confirming compliance
+Your Directors state that:                     with the conditions of Corporate             There were no materially significant
+                                               Governance is attached to the Corporate      related party transactions which could
+a)in the preparation of the annual             Governance Report.                           have potential conflict with the interests
+       accounts for the year ended                                                          of the Company at large.
+       March 31, 2026, the applicable          Business
+       accounting standards read with          Responsibility                               Members may refer to Note 33 of the
+       requirements set out under              & Sustainability                             Standalone Financial Statement which
+       Schedule III to the Act have been       Report (BRSR)                                sets out Related Parties Disclosures
+       followed and there are no material                                                   pursuant to Ind AS.
+       departures from the same;               In accordance with the Listing
+                                               Regulations, the BRSR describes              Corporate Social
+b)the Directors have selected such             the performance of the Company on            Responsibility (CSR)
+       accounting policies and applied         environmental, social and governance
+       them consistently and made              aspects. The disclosures on key              The CSR activities undertaken during the
+       judgements and estimates that are       performance indicators (KPIs) of BRSR        year reflect the `We Care' philosophy that
+       reasonable and prudent so as to         Core and Independent Assurance               guides the Company's approach. These
+       give a true and fair view of the state  Report on the identified sustainability      CSR initiatives of the Company, under
+       of affairs of the Company as at         information are available on the             the leadership of Smt. Nita M. Ambani,
+       March 31, 2026 and of the profit of     Company's website and can be accessed        Founder & Chairperson, Reliance
+       the Company for the year ended on       at https://www.ril.com/sites/default/files/  Foundation, have touched the lives
+       that date;                              reports/BRSR202526.pdf.                      of more than 9.7 crore people, across
+                                                                                            98,000+ villages and several urban
+c)the Directors have taken                     Contracts or                                 locations across India since 2010.
+       proper and sufficient care for          arrangements with
+       the maintenance of adequate             related parties                              As per the CSR Policy, the Company
+       accounting records in accordance                                                     stepped up its endeavours to bring
+       with the provisions of the Act          During the year under review:                positive momentum to the lives of
+       for safeguarding the assets of                                                       people and enable an inclusive approach
+       the Company and for preventing          a)all contracts/arrangements/                through initiatives in the areas of Rural
+       and detecting fraud and                        transactions entered by the           Transformation, Health, Education, Sports
+       other irregularities;                          Company with related parties were     for Development, Women Empowerment,
+                                                      in the ordinary course of business    Disaster Management, Arts, Culture &
+d)the Directors have prepared                         and on arm's length basis.            Heritage and Environment & Animal
+       the annual accounts on a going                                                       Welfare. The three core commitments
+       concern basis;                          b)contracts/arrangements/                    of Scale, Impact and Sustainability,
+                                                      transactions which were material      with a focus on environment, women,
+e)the Directors have laid down                        as per the Listing Regulations, were  youth and grassroots sports, form the
+       internal financial controls to be              entered into with related parties in  bedrock of the Company's philosophy for
+       followed by the Company and that               accordance with the policy of the     CSR initiatives.
+       such internal financial controls               Company on Materiality of Related
+       are adequate and are operating                 Party Transactions and on dealing     The Company through its various CSR
+       effectively; and                               with Related Party Transactions.      initiatives, has aligned with various
+                                                                                            national priority initiatives including
+f)the Directors have devised proper            Details of contracts/arrangements/           towards a Viksit Bharat, Ayushman
+       systems to ensure compliance            transactions with related parties which      Bharat Mission, Swachh Bharat Abhiyan,
+       with the provisions of all applicable   are required to be reported in Form No.      Jal Shakti Abhiyan, Integrated Child
+       laws and that such systems are          AOC-2 in terms of Section 134(3)(h) read     Development Services Scheme, Skill
+       adequate and operating effectively.     with Section 188 of the Act and Rule         India Mission, NIPUN Bharat Mission,
+                                               8(2) of the Companies (Accounts) Rules,      National Rural Livelihoods Mission,
+Corporate                                      2014 are provided in Annexure II to          Digital India and more.
+Governance                                     this Report.
+                                                                                            The CSR initiatives of the Company have
+The Company is committed to maintain           The Policy on Materiality of Related Party   won several awards including the Global
+the highest standards of governance            Transactions and on dealing with Related     Peace Honour Award for Smt. Nita M.
+and has also implemented several best          Party Transactions is available on the       Ambani, the best corporate promoting
+governance practices. The Corporate            Company's website and can be accessed        sports by FICCI, the Global Humanitarian
+                                                                                            Award for Shri Anant M. Ambani for work
+                                                                                            on Animal Welfare, the Chief Minister
+
+Integrated Annual Report 2025-26                                                            81
+Board's Report
+
+recognition from the Government              c)ensuring that all adequate risk             The Board of Directors of the Company,
+of Andhra Pradesh for exemplary                     mitigation measures are in place to    based on the recommendation of the
+contribution during Cyclone Montha,                 address these risks.                   HRNR Committee, appointed Shri Dinesh
+Indian CSR Awards 2025 for Best Skill                                                      Kanabar as an Additional Director,
+Development initiative, eight awards for     Further details on the risk management        designated as an Independent Director,
+Reliance Foundation's communication          activities including the implementation       with effect from June 12, 2025.
+efforts to build understanding of social     of risk management policy, key risks
+settings and context and the CII Water       identified and their mitigations are          The members of the Company, vide
+Award in `Beyond the Fence' category.        covered in Management Discussion and          resolutions passed through postal
+                                             Analysis Report, which forms part of this     ballot, approved:
+The CSR Policy is available on the           Annual Report.
+Company's website and can be accessed                                                      i.appointment of Shri Anant M.
+at https://www.ril.com/sites/default/        Internal Financial                                   Ambani as a Whole-time Director,
+files/reports/CSR-Policy.pdf. During the     Controls                                             designated as an Executive
+year under review, the Company has                                                                Director of the Company, for a
+amended its CSR Policy to strengthen its     The key internal financial controls have             period of 5 (five) years, with effect
+focus areas and governance framework.        been documented, automated wherever                  from May 1, 2025;
+Key changes include "Sports for              possible and embedded in the respective
+Development" as a focus area, enhanced       business processes.                           ii.re-appointment of Shri Hital R.
+clarity on the role of the Corporate Social                                                       Meswani as a Whole-time Director,
+Responsibility & Governance Committee        Assurance to the Board on the                        designated as an Executive
+and alignment of the Policy with the         effectiveness of internal financial controls         Director of the Company, for a
+applicable provisions of the law.            is obtained through Three Lines of                   period of 5 (five) years, with effect
+                                             Defence which include:                               from August 4, 2025; and
+During the year under review, the
+Company has spent C 1,223 crore              a)Management reviews and                      iii.appointment of Shri Dinesh
+(2.37% of the average net profits of                self assessment;                              Kanabar as an Independent
+the immediately preceding three                                                                   Director of the Company, for a term
+financial years) towards identified and      b)Continuous controls monitoring by                  of 5 (five) consecutive years, with
+approved CSR initiatives covered under              functional experts; and                       effect from June 12, 2025.
+Schedule VII to the Act, directly/through
+implementing agencies. The progress          c)Independent design and                      In the opinion of the Board, Shri Dinesh
+and impact through the CSR initiatives              operational testing by the Group       Kanabar as well as the other Independent
+reaffirm Reliance's commitment of `We               Internal Audit function.               Directors possess requisite expertise,
+Care'; contributing to India's national                                                    integrity, experience and proficiency.
+priorities and building a hopeful future     The Company believes that these
+for all.                                     systems provide reasonable assurance          The Company has received declarations
+                                             that the Company's internal financial         from all the Independent Directors of the
+The Annual Report on CSR activities          controls are adequate and are operating       Company confirming that:
+including summary of Impact                  effectively as intended.
+Assessment Report is annexed and                                                           a)they meet the criteria of
+marked as Annexure III to this Report.       Directors and                                        independence prescribed
+                                             Key Managerial                                       under the Act and the Listing
+Risk Management                              Personnel                                            Regulations; and
+
+The Company has a structured Group           In accordance with the provisions of          b)they have registered their
+Risk Management Framework, designed          the Act and the Articles of Association              names in the Independent
+to identify, assess and mitigate risks       of the Company, Shri Akash M. Ambani                 Directors' Databank.
+appropriately. The Risk Management           and Shri Anant M. Ambani, Directors
+Committee has been entrusted with the        of the Company, retire by rotation            The Company has devised, inter alia, the
+responsibility to assist the Board in:       at the ensuing AGM. The Board of              following policies viz.:
+                                             Directors of the Company, based
+a)overseeing the Company's                   on the recommendation of the                  a)Policy for selection of Directors
+       enterprise wide risk                  Human Resources, Nomination and                      and determining Directors'
+       management framework;                 Remuneration (HRNR) Committee, have                  independence; and
+                                             recommended their re-appointment.
+b)ensuring that all material Strategic                                                     b)Remuneration Policy for Directors,
+       and Commercial risks including        Shri Raminder Singh Gujral, Independent              Key Managerial Personnel and
+       Cybersecurity, Safety and             Director of the Company, ceased to                   other employees.
+       Operations, Compliance, Control       be a Director of the Company upon
+       and Financial risks have been         completion of his second term on June         The Policy for selection of Directors and
+       identified and assessed; and          11, 2025.                                     determining Directors' independence
+                                                                                           sets out the guiding principles for the
+                                                                                           HRNR Committee for identifying persons
+                                                                                           who are qualified to become Directors
+                                                                                           and to determine the independence
+
+82                                                                                         Reliance Industries Limited
+of Directors, while considering their          commitment to the Company's                  Auditors' Report are self-explanatory and
+appointment as independent directors of        governance and strategic direction.          do not call for any further comments.
+the Company. The Policy also provides          Based on the evaluation, the Board
+for the factors in evaluating the suitability  believes that its composition adequately     Cost Auditors
+of individual board members with diverse       represents the requisite domain expertise,
+background and experience that are             skills and diversity. The Committees were    The Board has appointed the following
+relevant for the Company's operations.         recognised for their effective operation --  Cost Accountants as Cost Auditors for
+The Policy is available on the Company's       not only addressing matters within their     conducting the audit of cost records of
+website and can be accessed at                 mandated scope but also proactively          various products of the Company, for the
+                                               identifying and deliberating on issues of    financial year 2026-27:
+   https://www.ril.com/sites/default/files/    broader significance. The Board further
+reports/Policy-for-Selection-of-Directors.     acknowledged the contributions made by       i.Textiles Business ­ Kiran J. Mehta
+pdf.                                           each Director.                                      & Co.;
+
+The Company's remuneration policy is           The Board identified the need to conduct     ii.Chemicals Business ­ Diwanji
+directed towards rewarding performance,        focused learning sessions on pivotal                & Co., K. G. Goyal & Associates,
+based on review of achievements. The           topics like AI and Generative AI, digital           V.J. Talati & Co., Suresh Damodar
+remuneration policy is in consonance           twin, ESG and sustainability trends, to             Shenoy, Shome & Banerjee, Dilip
+with existing industry practice. The Policy    strengthen informed decision-making.                M. Malkar & Co. and V. Kumar
+is available on the Company's website                                                              & Associates;
+and can be accessed at https://                Employees' Stock
+www.ril.com/sites/default/files/reports/       Option Scheme                                iii.Polyester Business ­ Kiran J. Mehta
+Remuneration-Policy-for-Directors.pdf.                                                             & Co., Dilip M. Malkar & Co. and V.
+                                               The HRNR Committee, through RIL                     Kumar & Associates;
+There has been no change in the                ESOS 2017 Trust administers and
+above two policies, during the year            monitors Reliance Industries Limited         iv.Electricity Generation ­ Diwanji &
+under review.                                  Employees' Stock Option Scheme 2017                 Co., K. G. Goyal & Associates and
+                                               (ESOS-2017).                                        Balwinder & Associates;
+Performance
+Evaluation                                     The ESOS-2017 is in line with the SEBI       v.Petroleum Business ­ Suresh
+                                               (Share Based Employee Benefits and                  Damodar Shenoy;
+The Company has a policy for                   Sweat Equity) Regulations, 2021 (SBEB
+performance evaluation of the Board,           Regulations). The details as required to     vi.Oil & Gas Business ­ Shome
+Committees and other individual                be disclosed under the SBEB Regulations             & Banerjee;
+Directors (including Independent               are available on the Company's website
+Directors) which includes criteria for         and can be accessed at https://www.          vii.Gasification - Suresh Damodar
+performance evaluation of Non-Executive        ril.com/sites/default/files/reports/                Shenoy and Diwanji & Co.;
+Directors and Executive Directors.             esos_2017_disclosure-2025-26.pdf.
+                                                                                            viii.Composites Business ­ Kiran J.
+In accordance with the manner of               Auditors and                                        Mehta & Co.;
+evaluation specified by the HRNR               Auditors' Report:
+Committee, the Board carried out annual                                                     ix.Telecommunication Business -
+performance evaluation of the Board, its       Statutory Auditors                                  Shome & Banerjee; and
+Committees and Individual Directors.
+The Independent Directors carried out          Deloitte Haskins & Sells LLP, Chartered      x.RE Power Business - Shome
+annual performance evaluation of the           Accountants and Chaturvedi & Shah LLP,              & Banerjee.
+Chairman, the non-independent directors        Chartered Accountants, were appointed
+and the Board as a whole. The Chairman         as the Auditors of the Company for a         Shome & Banerjee, Cost Accountants,
+of the respective Committees shared the        term of 5 (five) consecutive years, at the   have been nominated as the Company's
+report on evaluation with the respective       45th AGM (Post-IPO) held on August 29,       Lead Cost Auditor.
+Committee members. The performance             2022. The Auditors have confirmed that
+of each Committee was evaluated by the         they are not disqualified from continuing    In accordance with the provisions of
+Board based on the report of evaluation        as the Auditors of the Company.              the Act, read with the Companies (Cost
+received from the respective Committees.                                                    Records and Audit) Rules, 2014, the
+                                               The Auditors' Report does not contain        Company has maintained cost records.
+The Board evaluation reflected the             any qualification, reservation, adverse
+contributions made by each Director,           remark or disclaimer. The Notes to the       Secretarial Auditor
+underscoring the strong individual             financial statements referred in the
+                                                                                            Dr. K.R. Chandratre, Practising Company
+                                                                                            Secretary, was appointed as the
+                                                                                            Secretarial Auditor of the Company, for
+                                                                                            a term of 5 (five) consecutive financial
+                                                                                            years, commencing from the financial
+
+Integrated Annual Report 2025-26                                                            83
+Board's Report
+
+year 2025-26 to the financial year          Environmental, Social                        ECTF oversees these mechanisms that
+202930, at the 48th AGM (Post-IPO)          and Governance (ESG)                         enable employees to confidentially report
+held on August 29, 2025. The Secretarial    Committee                                    unethical practices, with safeguards
+Audit Report for the financial year ended                                                in place to protect against retaliation.
+March 31, 2026 is annexed and marked        The ESG Committee comprises Shri Hital       It reviews incidents of suspected or
+as Annexure IV to this Report. The          R. Meswani (Chairman), Shri P.M.S.           actual violations of the Code of Conduct
+Secretarial Audit Report does not contain   Prasad and Smt. Arundhati Bhattacharya.      and submits its findings and actions
+any qualification, reservation, adverse                                                  thereon to the Audit Committee on a
+remark or disclaimer.                       Stakeholders'                                quarterly basis.
+                                            Relationship (SR)
+Dr. K.R. Chandratre has confirmed that      Committee                                    The Policy is available on the Company's
+he is not disqualified from continuing as                                                website and can be accessed at https://
+the Secretarial Auditor of the Company.     The SR Committee comprises                   www.ril.com/sites/default/files/reports/
+                                            Shri K. V. Chowdary (Chairman),              Vigil-Mechanism-and-Whistle-Blower-
+Disclosures:                                Shri Nikhil R. Meswani,                      Policy.pdf.
+                                            Shri Hital R. Meswani and
+Meetings of the Board                       Smt. Arundhati Bhattacharya.                 Prevention of sexual
+                                                                                         harassment at
+Five meetings of the Board of Directors     Risk Management (RM)                         workplace
+were held during the year. The particulars  Committee*
+of the meetings held and attendance                                                      In accordance with the requirements
+of each Director are detailed in the        Dr. Shumeet Banerji was appointed as         of the Sexual Harassment of Women at
+Corporate Governance Report.                the Chairman of the RM Committee. The        Workplace (Prevention, Prohibition &
+                                            other members of the RM Committee            Redressal) Act, 2013 (POSH Act) and the
+Audit Committee*                            are Shri Hital R. Meswani, Shri P.M.S.       Rules made thereunder, the Company
+                                            Prasad, Shri K. V. Chowdary and Shri         has in place a policy which mandates no
+Shri K.V. Kamath was appointed as a         Srikanth Venkatachari.                       tolerance against any conduct amounting
+member and the Chairman of the Audit                                                     to sexual harassment of women at
+Committee. The other members of the         Vigil Mechanism                              workplace. The Company has constituted
+Audit Committee are Shri K. V. Chowdary     and Whistle-blower                           Internal Committee(s) (ICs) to redress
+and Shri Haigreve Khaitan. All the          Policy                                       and resolve any complaints arising under
+recommendations made by the Audit                                                        the POSH Act. Training/awareness
+Committee were accepted by the Board.       The Company has in place a robust            programmes are conducted throughout
+                                            Vigil Mechanism and Whistle-blower           the year to create sensitivity towards
+Human Resources,                            Policy in line with the provisions of        ensuring a respectable workplace. During
+Nomination and                              the Act and the Listing Regulations.         the year under review, no complaints
+Remuneration (HRNR)                         An Ethics & Compliance Task Force            were filed under POSH Act.
+Committee*                                  (ECTF), comprising an Executive
+                                            Director, General Counsel, Group             The Code on Social
+Smt. Arundhati Bhattacharya was             Controller, and Company Secretary,           Security, 2020 -
+appointed as a member of the                has been constituted to oversee and          Maternity benefit
+Committee. The HRNR Committee               monitor the implementation of ethical
+presently comprises Dr. Shumeet Banerji     business practices.                          The Company is in compliance with the
+(Chairman), Shri K. V. Chowdary and                                                      applicable provisions relating to maternity
+Smt. Arundhati Bhattacharya.                Employees and stakeholders are               benefits as prescribed under the
+                                            expected to report actual or suspected       Maternity Benefit Act, 1961/ the Code on
+Corporate Social                            violations of applicable laws, regulations,  Social Security, 2020.
+Responsibility and                          and the Code of Conduct. Such genuine
+Governance (CSR&G)                          concerns (termed Reportable Matters)
+Committee                                   disclosed under the Policy are treated
+                                            as "Protected Disclosures" and may
+The CSR&G Committee comprises               be raised through email, a dedicated
+Dr. Shumeet Banerji (Chairman),             telephone line, or by letter to the ECTF
+Shri Nikhil R. Meswani and                  or directly to the Chairman of the
+Shri K. V. Chowdary.                        Audit Committee.
+
+*Shri Raminder Singh Gujral, Independent Director of the Company, ceased to be a Director of the Company upon completion of his second term on June 11,
+2025. Consequent to the above, he also ceased to be the Chairman and a member of the Audit Committee and the Risk Management Committee; and a member
+of the HRNR Committee.
+
+84                                                                                       Reliance Industries Limited
+Particulars of                               and 5(3) of the Companies (Appointment          or commission from any of the
+loans, investments,                          and Remuneration of Managerial                  subsidiaries of the Company.
+guarantees and                               Personnel) Rules, 2014, a statement          · No significant or material orders
+securities                                   showing the names of the top ten                were passed by the Regulators or
+                                             employees in terms of remuneration              Courts or Tribunals which impact the
+Particulars of loans given, investments      drawn and names and other particulars           going concern status and Company's
+made, guarantees given and securities        of the employees drawing remuneration           operation in future.
+provided along with the purpose for          in excess of the limits set out in the said  · No fraud has been reported by the
+which the loan or guarantee or security      rules, forms part of this Report.               Auditors to the Audit Committee or
+provided are proposed to be utilised                                                         the Board.
+by the recipient are disclosed in the        Disclosures relating to remuneration and     · No change in the nature of business
+Standalone Financial Statement (Please       other details as required under Section         of the Company.
+refer Note 2, 3, 7, 33 and 39 to the         197(12) of the Act read with Rule 5(1)       · No proceeding pending under
+Standalone Financial Statement).             of the Companies (Appointment and               the Insolvency and Bankruptcy
+                                             Remuneration of Managerial Personnel)           Code, 2016.
+Conservation of                              Rules, 2014 forms part of this Report.       · No instance of one time settlement
+energy, technology                                                                           with any Bank or Financial Institution.
+absorption, foreign                          Having regard to the provisions of the
+exchange earnings                            second proviso to Section 136(1) of the      Acknowledgement
+and outgo                                    Act and as advised, the Annual Report
+                                             excluding the aforesaid information          The Board places on record its deep
+The particulars relating to conservation     is being sent to the members of the          sense of appreciation for the committed
+of energy, technology absorption,            Company. Any member interested in            services by all the employees of the
+foreign exchange earnings and outgo,         obtaining such information may address       Company. The Board would also like
+as required to be disclosed under the        their email to rilagm@ril.com.               to express its sincere appreciation
+Act, are provided in Annexure V to                                                        for the assistance and co-operation
+this Report.                                 General                                      received from the financial institutions,
+                                                                                          banks, government and regulatory
+Annual Return                                Your Directors state that no disclosure      authorities, stock exchanges, customers,
+                                             or reporting is required in respect of       vendors, members, debenture holders
+The Annual Return of the Company as          the following matters as there were no       and debenture trustee during the year
+on March 31, 2026 is available on the        transactions on these matters during the     under review.
+Company's website and can be accessed        year under review:
+at https://www.ril.com/sites/default/files/                                               For and on behalf of the Board
+reports/AnnualReturn-2025-26.pdf.            · Details relating to deposits covered       of Directors
+                                                under Chapter V of the Act.
+Particulars of                                                                            Mukesh D. Ambani
+employees and                                · Issue of equity shares with differential   Chairman and Managing Director
+related disclosures                             rights as to dividend, voting             Mumbai, April 24, 2026
+                                                or otherwise.
+In terms of the provisions of Section
+197(12) of the Act read with Rules 5(2)      · Issue of sweat equity shares to
+                                                the employees or directors of
+                                                the Company.
+
+                                             · Neither the Managing Director
+                                                nor the Whole-time Directors of
+                                                the Company receive any salary
+
+Integrated Annual Report 2025-26                                                          85
+Board's Report
+
+Annexure I
+
+Companies/bodies corporate which became/ceased to be subsidiary, joint
+venture or associate as per the provisions of the Companies Act, 2013:
+
+1.Companies/bodies                                                                     Sr. No. Name of the Company/Body Corporate
+
+    corporate which became                                                            20 Reliance Green Hydrogen and Green Chemicals
+                                                                                                 Limited &
+    subsidiary during the
+                                                                                      21 Reliance Hydrogen Electrolysis Limited &
+    financial year 2025-26:                                                           22 Reliance Hydrogen Fuel Cell Limited &
+                                                                                      23 Reliance Lifestyle Products Private Limited $
+    Sr. No. Name of the Company/Body Corporate                                        24 Reliance NeuComm LLC #
+                                                                                      25 Reliance New Energy Carbon Fibre Cylinder Limited &
+    1   Goodness Group Global Pty Ltd                                                 26 Reliance New Energy Hydrogen Electrolysis Limited &
+                                                                                      27 Reliance New Energy Hydrogen Fuel Cell Limited &
+    2   Naturedge Beverages Private Limited                                           28 Reliance New Energy Power Electronics Limited &
+                                                                                      29 Reliance New Energy Storage Limited &
+    3   Nexba IP Pty Ltd                                                              30 Reliance New Power Electronics Limited &
+                                                                                      31 Reliance Petro Materials Limited &
+    4   Nexba Pty Ltd                                                                 32 Reliance Power Electronics Limited &
+                                                                                      33 Reliance Sideways Private Limited $
+    5   Nexba UK Ltd                                                                  34 Reliance TerraTech Holdings LLC #
+                                                                                      35 skyTran Inc. *
+    6   RCP Solutions and Services Private Limited                                    36 Star Television Productions Limited ^
+
+    7   Reliance Enterprise Intelligence Limited                                      $ amalgamated with Reliance Brands Limited
+                                                                                      ^ amalgamated with Jiostar India Private Limited
+    8   Reliance Intelligence Limited                                                 & amalgamated with Reliance New Energy Limited
+                                                                                      # liquidated / wound up
+    9   Remixt Pty Ltd                                                                ^^ Reliance Consumer Products Limited (RCPL), bearing CIN no.
+
+    10 Sikhya Entertainment Private Limited                                               U52300MH2022PLC394370, amalgamated with Reliance Retail
+                                                                                          Ventures Limited. Tira Beauty Limited, renamed as Reliance
+    11 Snow Mount Properties Private Limited                                              Consumer Products Limited, now houses the FMCG business carried
+                                                                                          on by erstwhile RCPL.
+    12 Southern Health Foods Private Limited                                          @ amalgamated with Reliance Industries (Middle East) DMCC
+                                                                                      * dissolved
+    13 Star Vijay Malaysia SDN. BHD.
+                                                                              3.Companies/bodies
+    14 Star Vijay Singapore Pte. Limited
+                                                                                  corporate which became
+    15 Trikam Properties LLP
+                                                                                  joint venture or associate
+    16 Udhaiyams Agro Foods Private Limited
+                                                                                  during the financial year
+    17 Vedathma Properties Private Limited
+                                                                                  2025-26: Nil
+    Note: Jio BLAST eSports Private Limited became a subsidiary w.e.f.
+    April 18, 2025 and ceased to be a subsidiary w.e.f. June 25, 2025. It is
+    now a joint venture of a subsidiary of the Company.
+
+2.Companies/bodies
+
+    corporate which ceased
+
+    to be subsidiary during the
+
+    financial year 2025-26:
+
+    Sr. No. Name of the Company/Body Corporate
+
+    1   Abraham & Thakore Private Limited
+
+    2   CAA Brands Reliance Private Limited $                                 4.Companies/bodies
+                                                                                  corporate which ceased
+    3   Genesis Colors Limited $                                                  to be joint venture or
+                                                                                  associate during the
+    4   Genesis La Mode Private Limited $                                         financial year 2025-26:
+
+    5   GLB Body Care Private Limited $
+
+    6   GLF Lifestyle Brands Private Limited $
+
+    7   GML India Fashion Private Limited $
+
+    8   IndiaCast Media Distribution Private Limited ^
+
+    9   Kalamboli East Infra Limited &
+
+    10  Kalamboli North Third Infra Limited &
+
+    11  Kutch New Energy Projects Limited &                                   Sr. No. Name of the Company/Body Corporate
+
+    12  REC Solar (Japan) Co., Ltd. #                                         1.  Balaji Telefilms Limited
+
+    13  REC Systems (Thailand) Co., Ltd. #
+
+    14  Reliance Brands Luxury Fashion Private Limited $                          For and on behalf of the Board of Directors
+
+    15  Reliance Carbon Fibre Cylinder Limited &
+
+    16 Reliance Consumer Products Limited ^^
+
+    17  Reliance Electrolyser Manufacturing Limited &                                              Mukesh D. Ambani
+                                                                                  Chairman and Managing Director
+    18  Reliance Exploration & Production DMCC @
+                                                                                               Mumbai, April 24, 2026
+    19 Reliance Global Project Services Pte. Ltd. *
+
+86                                                                                                          Reliance Industries Limited
+Annexure II
+
+Form No. AOC-2
+
+(Pursuant to clause (h) of sub-section (3) of section 134 of the Companies Act, 2013 and Rule 8(2) of the Companies (Accounts)
+Rules, 2014)
+
+Disclosure of particulars of contracts/arrangements entered into by the Company with related parties referred to in sub-section (1)
+of section 188 of the Companies Act, 2013 including certain arm's length transactions under fourth proviso thereto:
+
+1. Details of contracts or arrangements or transactions not at arm's length basis: Not Applicable
+2.Details of material contracts or arrangement or transactions at arm's length basis: Number of material contracts or
+
+       arrangements or transactions at arm`s length basis ­ 2
+
+Sr.  Particulars                             Entity 1                                                      Entity 2
+No.
+
+a) Corporate identity number (CIN) or any Any other registration number - 10625 CIN - U50100MH2015PLC327401
+     other registration number
+
+b) Name of the related party and nature of Reliance International Limited (RINL), a                        Reliance BP Mobility Limited (RBML), a
+
+     relationship                            wholly-owned subsidiary of the Company subsidiary of the Company
+
+c) Nature of contracts / arrangements /      The Company and RINL have entered into                        The Company and RBML have entered
+     transactions                            crude and product supply agreements                           into arrangements for purchase and
+                                             pursuant to which the Company purchases                       supply of petroleum products viz. High-
+                                             and sells high speed diesel, crude oil and                    Speed Diesel, Motor Spirit, Auto Liquefied
+                                             other petrochemical products.                                 Petroleum Gas.
+
+                                             Apart from above, the Company and RINL                        Apart from above, the Company and
+                                             have entered into other allied transactions                   RBML have entered into other allied
+                                             in the ordinary course of business.                           transactions in the ordinary course of
+                                                                                                           business.
+
+d) Duration of the contracts /               Tenure of the crude and product supply                        The arrangements between the Company
+     arrangements / transactions             agreements entered between the                                and RBML are continuing business
+                                             Company and RINL is upto March 31,                            arrangements.
+                                             2050 unless terminated earlier pursuant
+                                             to provisions of the said agreements. The
+                                             parties may mutually agree to extend
+                                             the term for further period on mutually
+                                             accepted terms.
+
+e) Salient terms of the contracts or         i.aggregate value of purchase by the                          i.aggregate value of purchase by the
+                                                                                                                 Company from RBML for FY 2025-26
+     arrangements or transactions including       Company from RINL for FY 2025-26                               ­ C 115 crore;
+
+     actual / expected contractual amount         ­ C 1,65,413 crore;
+
+                                             ii.aggregate value of sales by the                            ii.aggregate value of sales by the
+                                                   Company to RINL for FY 2025-26                                Company to RBML for FY 2025-26
+                                                   ­ C 2,05,081 crore; and                                       ­ C 53,692 crore; and
+
+                                             iii.aggregate value of other allied                           iii.aggregate value of other allied
+                                                   transactions between the Company                              transactions between the Company
+                                                   and RINL for FY 2025-26 ­ C 30 crore.                         and RBML for FY 2025-26 ­ C 27
+                                                                                                                 crore.
+
+f) Date(s) of approval by the Board, if any: Transactions of the Company with RINL                         Transactions of the Company with RBML
+                                                               are in the ordinary course of business and  are in the ordinary course of business and
+                                                               on an arm's length basis and accordingly,   on an arm's length basis and accordingly,
+                                                               approval of the Board under Section 188     approval of the Board under Section 188
+                                                               of the Companies Act, 2013 was not          of the Companies Act, 2013 was not
+                                                               applicable.                                 applicable.
+
+g) Amount paid as advances, if any           Nil                                                           Nil
+
+                                                                                        For and on behalf of the Board of Directors
+
+                                                                                                                                 Mukesh D. Ambani
+                                                                                                                Chairman and Managing Director
+
+                                                                                                                             Mumbai, April 24, 2026
+
+Integrated Annual Report 2025-26                                                                                                                   87
+Board's Report
+
+Annexure III
+
+Annual Report on Corporate Social Responsibility (CSR) Activities for the
+financial year 2025-26
+
+1.Brief outline on CSR Policy of the Company             Refer Section: Corporate Social Responsibility (CSR) in the Board's Report
+2. Composition of CSR Committee
+
+    Sl.  Name of Director      Designation/ Nature of Directorship           Number of meetings of CSR           Number of meetings of CSR
+    No                                                                     Committee held during the year  Committee attended during the year
+
+    1 Dr. Shumeet Banerji Chairman (Non-Executive Director)                          3                                    3
+
+    2 Shri K. V. Chowdary Member (Non-Executive Director)                            3                                    3
+
+    3 Shri Nikhil R. Meswani Member (Executive Director)                             3                                    3
+
+3. Provide the weblink where         Composition of CSR               https://www.ril.com/OurCompany/Leadership/BoardCommittees.aspx
+
+    Composition of CSR Committee, Committee
+
+    CSR Policy and CSR projects      CSR Policy                       https://www.ril.com/sites/default/files/reports/CSR-Policy.pdf
+    approved by the board are
+    disclosed on the website of the  CSR projects approved            https://www.ril.com/sites/default/files/2025-11/CSR-approved-projects-
+    company                          by the Board                     for-FY-2025-26.pdf
+
+4. Provide the executive summary along with web-link(s) of Impact          The Company has carried out Impact Assessment through
+
+    Assessment of CSR Projects carried out in pursuance of sub-rule (3) independent third parties. The reports are attached and also
+
+    of rule 8, if applicable.                                              available at https://www.ril.com/sites/default/files/reports/CSR-
+
+                                                                           IA-2025-26.pdf
+
+5. (a) Average net profit of the company as per sub-section (5) of section 135                                            C 51,617 crore
+       (b) Two percent of average net profit of the company as per sub-section (5) of section 135                         C 1,032 crore
+       (c) Surplus arising out of the CSR Projects or programmes or activities of the previous financial years            NIL
+       (d) Amount required to be set-off for the financial year, if any #                                                 NIL
+       (e) Total CSR obligation for the financial year [(b)+(c)-(d)]                                                      C 1,032 crore
+
+# For FY 2024-25, the CSR obligation was C 1,048 crore and the Company spent C 1,309 crore. The excess amount spent by the Company has not been set-off.
+
+6. (a)Amount spent on CSR Projects (both Ongoing Project and other than Ongoing Project)                                  C 1,223 crore
+        (b) Amount spent in Administrative Overheads                                                                      NIL
+        (c) Amount spent on Impact Assessment, if applicable                                                              *
+        (d) Total amount spent for the financial year [(a)+(b)+(c)]                                                       C 1,223 crore
+
+* Amount claimed towards Impact Assessment is C 50 Lakh
+
+       (e) CSR amount spent or unspent for the financial year:
+
+                                                                           Amount Unspent (D in crore)
+
+         Total Amount                   Total Amount transferred to                      Amount transferred to any fund specified under
+         Spent for the         Unspent CSR Account as per sub-section                Schedule VII as per second proviso to sub-section (5)
+         financial year
+                                                (6) of Section 135                                               of Section 135
+         C 1,223 crore
+                                     Amount              Date of transfer  Name of the Fund                Amount         Date of transfer
+
+                                             NIL                                                                NIL
+
+    (f) Excess amount for set-off, if any:
+
+         Sl.  Particulars                                                                                                 Amount
+         No.
+                                                                                                                          C 1,032 crore
+         (i) Two percent of average net profit of the company as per sub-section (5) of section 135                       C 1,223 crore
+                                                                                                                          C 191 crore
+         (ii) Total amount spent for the financial year                                                                   -
+                                                                                                                          C 191 crore
+         (iii) Excess amount spent for the financial year [(ii)-(i)]
+
+         (iv) Surplus arising out of the CSR projects or programmes or activities of the previous financial year, if any
+
+         (v) Amount available for set off in succeeding financial year [(iii)-(iv)]
+
+7. Details of Unspent CSR amount for the preceding three financial years:
+
+88                                                                                                              Reliance Industries Limited
+(1) (2)        (3)                             (4)                       (5)            (6)                     (7)                      (8)
+
+               Amount transferred to           Balance Amount in Amount                 Amount transferred to a Amount remaining
+
+Sl. Preceding  Unspent CSR Account             Unspent CSR Account       Spent in       Fund as specified under to be spent in           Deficiency,
+                                               under subsection (6)      the financial  Schedule VII as per second succeeding financial  if any
+No. financial year(s) under subsection (6) of  of section 135            year           proviso to subsection (5) years
+
+               section 135 (K In crore)        (K In crore)              (K In crore) of section 135, if any    (K In crore)
+
+                                                                                        Amount        Date of
+                                                                                        (K In crore)  Transfer
+
+1 FY 2024-25                                                                       NIL
+2 FY 2023-24
+3 FY 2022-23
+
+8. Whether any capital assets have been created or acquired through                                                           No
+       CSR amount spent in the financial year:                                                                                Not Applicable
+
+       If Yes, enter the number of Capital assets created/ acquired
+
+Furnish the details relating to such asset(s) so created or acquired through CSR amount spent in the financial year:
+
+Sl.      Short particulars of the property or       Pincode of the  Date of Amount of CSR             Details of entity/ Authority/
+No.      asset(s) [including complete address       property or     creation spent - K in crore       beneficiary of the registered owner
+         and location of the property]              asset(s)
+
+(1) (2)                                             (3)             (4)       (5)                     (6)
+
+                                                                                                      CSR Registration        Name  Registered
+                                                                                                      Number, if applicable         address
+
+                                                                    Not Applicable
+
+9. Specify the reason(s), if the company has failed to spend two per cent of the average net profit as per subsection (5) of section 135:
+       Not Applicable
+
+                                                                                                              For and on behalf of the Board of Directors
+
+Dr. Shumeet Banerji                            Nikhil R. Meswani                                      Mukesh D. Ambani
+(Chairman, Corporate Social                    (Executive Director)                                   (Chairman and Managing Director)
+Responsibility and Governance                                                                         Mumbai, April 24, 2026
+Committee)
+
+Summary of independent Impact Assessment studies conducted
+Year 2025-26
+
+Program ­ Reliance                             Objectives                                             Reach & Financial Impact
+Foundation
+Scholarships                                   · Assess the effectiveness and                         · 92% of scholars perceived the
+                                                  inclusivity in supporting high-                        selection process as fair, merit-based,
+1. Reliance Foundation                            potential scholars; and                                and nationally competitive, reinforcing
+Scholarship Programme                                                                                    RF Scholarship's credibility within
+                                               · Identify ways to improve                                India's scholarship ecosystem.
+Impact Study Agency ­                             program design, implementation,
+Athena Infonomics India                           and engagement.                                     · 82% of scholars received funds on
+Private Limited                                                                                          time, with the scholarship amount
+                                               Key Findings                                              covering an average of 49% of total
+Background                                                                                               academic expenses.
+The Reliance Foundation Scholarships,          For every 1 invested in RF scholarships,
+launched in 2020­21, build on the              4.4 of social value is created -                       Academic & Professional
+Dhirubhai Ambani Scholarships                  demonstrating strong returns in                        Outcomes
+(DAS) legacy to expand access to               education, employability, and long-term
+higher education in India. RF has              societal impact.                                       92% reported increased confidence and
+been supporting 5,100 students                                                                        motivation upon selection; 87% reported
+annually, including 5,000 meritorious          With 93% of scholars from EWS                          enhanced self-esteem and a stronger
+undergraduate students from                    backgrounds and 24% being first-                       sense of responsibility. Graduated
+underprivileged sections of society.           generation learners, the programme is                  scholars are working in top companies
+                                               enabling high-value career outcomes- as                such as Samsung, Google, Infosys,
+                                               reflected in strong alumni placement                   Microsoft, etc.
+                                               in engineering and IT sectors with an
+                                               average CTC of 25 lakh p.a.                            Engagement & Mentoring
+
+                                                                                                      · 87% of scholars actively engaged
+                                                                                                         with RF Scholarships' engagement
+
+Integrated Annual Report 2025-26                                                                                                              89
+Board's Report
+
+   platform, participating in expert-led    supporting the creation of self-reliant      · Goatery: Vaccination coverage
+   sessions on career guidance, soft        communities that can thrive economically.       improved from 47% to 89%, and
+   skills, and technical domains, etc.      Under this program, the Diversifying Rural      deworming reached 90%. Average
+· More than 80% of scholars                 Incomes and Women Entrepreneurship              annual income increased from
+   reported improved academic               initiative focuses on strengthening and         21,620 to 33,614.
+   focus, leadership, communication,        diversifying livelihoods in agriculture,
+   and time management skills --            livestock, fisheries and non-farm            · Poultry: Average income rose from
+   reflecting the tangible impact of RF     sectors. It enhances income stability           19,147 to 28,629.
+   Scholarships' structured engagement      and resilience to economic shocks while
+   opportunities, including industry        placing strong emphasis on women's           · Fisheries: Average annual income
+   expert interactions, webinars,           empowerment through cluster-based               increased from 6,959 to 7,371.
+   and sessions on CV building and          enterprise development, skill building,         Production increased from 34.1 kg to
+   professional development.                entrepreneurship promotion, and improved        45.5 kg per household annually. Sales
+· 43% of mentees reported improved          market access, enabling rural families to       improved with better price realisation
+   academic performance and career          achieve sustainable and inclusive growth.       (156 to 188 per kg).
+   clarity; 36% noted enhanced
+   communication skills.                    Objectives                                   · Non-Farm Activities: Imitation
+· 78% of scholars shared learnings with                                                     jewellery enterprises recorded a
+   peers or siblings, and 49% engaged       · Assess how the program initiatives            significant rise in annual income from
+   in volunteering -- reflecting strong        have strengthened income stability,          1,08,267 to 1,76,000. Similarly,
+   social spillover effects.                   enhanced productivity, reduced               sal-leaf plate making nearly doubled
+                                               costs, improved market access, and           annual income from 10,884 to
+Brand & Ecosystem Value                        increased overall profitability;             21,244
+
+· The "Reliance Scholar" identity           · Analyse how communities have               · Vegetables, Fruits, and Flowers:
+   carries strong merit signalling value       adopted improved practices,                  Annual income increased from
+   in interviews, placements, and higher       diversified income sources, and              37,008 to 80,029. Average monthly
+   education applications -- functioning       reinvested their earnings to promote         vegetable production rose from 140
+   as an external validation.                  long-term growth and resilience; and         kg to 203 kg, with prices improving
+                                                                                            from 20.59 to 31.97 per kg.
+· RF Scholarships are perceived             · Recommend practical strategies
+   favourably over other scholarships          to improve program effectiveness,         2.Adoption of New Practices and
+   due to its combination of meaningful        sustainability and impact.                Income Diversification
+   financial support, student engagement
+   and networking opportunities, merit-     Key findings                                 Communities demonstrated strong
+   based recognition, and a rigorous,                                                    adoption of improved practices:
+   transparent selection process            1.Improvement in Income
+   under strong institutional oversight     Stability, Productivity, Cost                · Use of drip or sprinkler irrigation from
+   - enhancing its credibility, value,      Savings, Market Access, and                     25% to 39%.
+   and confidence-building impact           Profitability
+   among scholars.                                                                       · Bio-input use increased from 66% to
+                                            Before the intervention, 94% of households      79%.
+Program ­ Rural                             were dependent on agriculture as their
+                                            primary source of income. Following          · Crop rotation increased from 51% to
+Transformation                              the intervention, clear diversification of      60%.
+                                            livelihoods was observed across multiple
+2. Strengthening and                        sectors. Participation in goatery increased  · Direct-to-consumer sales in fisheries
+Diversifying Income                         from 36% to 46%, dairy from 28% to 34%,         increased from 8% to 49%.
+Sources for Resilience                      fisheries from 3% to 9%, and poultry from
+                                            8% to 10%. Engagement in vegetables,         · Local market sales in fisheries
+Impact Study Agency ­ 4P                    fruit, and flower cultivation rose from         increased from 14% to 59%.
+Research and Consultancy                    17% to 19%, while small businesses and
+                                            handicrafts increased from 9% to 13%.        Households diversified income
+Background                                  This shift toward allied and non-farm        sources by integrating allied and non-
+                                            activities reduced reliance on agriculture   farm activities.
+This Program is a flagship initiative that  alone and strengthened income resilience.
+empowers marginalised rural communities     As a result, overall annual household        3. Women's Economic Participation
+across India through innovative,            income increased by approximately
+sustainable, and community-driven           56%, accompanied by improved savings         Women emerged as key drivers
+approaches. The program strengthens         and reinvestment.                            of livelihood growth - 91% of dairy
+resilience to climate change and economic                                                beneficiaries, 97% of goatery
+vulnerability of rural communities by       Sectoral income and productivity             beneficiaries, 88% of poultry participants
+promoting climate-resilient agriculture,    gains:                                       planned expansion of operations
+improved water resource management,
+and inclusive value chain development.      · Dairy: Milk production increased           Women reported improved decision-
+It has reached millions of people across       from 6.14 litres to 10.37 litres per      making in livestock management,
+multiple states and union territories,         day. Average annual dairy income          increased financial independence, and
+                                               rose from 79,242 to 1,30,395.             higher participation in training, market
+90                                             Adoption rates included stall feeding     fairs, and digital finance platforms.
+                                               (75%), artificial insemination (81%),
+                                               green fodder cultivation (98%), and       4. Evidence of Resilience,
+                                               veterinary care (91%).                    Empowerment, and Program
+                                                                                         Alignment
+
+                                                                                         The findings demonstrate that the
+                                                                                         interventions significantly strengthened
+                                                                                         household and community resilience
+                                                                                         by diversifying income sources,
+
+                                                                                                          Reliance Industries Limited
+improving productivity and enhancing        · To inform future programming                4. Implications for Strengthening
+market access. Increased adoption of           through evidence-based                     and Scaling Women's
+scientific practices, higher reinvestment      recommendations to                         Empowerment
+in productive activities and stronger          strengthen and scale women's
+institutional and market linkages              empowerment outcomes.                      The findings highlight the importance of
+contributed to income stability and                                                       strengthening banking and institutional
+reduced vulnerability to climate and        Key findings                                  linkages, expanding access to larger
+market shocks. Improved savings, access                                                   financial resources, and providing
+to financial services, and collective       1. Changes in Women's Digital and             advanced and refresher training to
+platforms further reinforced risk           Financial Knowledge, Skills and               translate confidence into sustainable
+preparedness and social empowerment,        Practices                                     economic outcomes. Addressing
+aligning closely with the program's theory                                                structural and gender-based barriers
+of change and its objective of building     The assessment indicates notable              through family and community
+resilient, self-reliant rural communities.  improvements in women's financial             engagement will be critical to deepening
+                                            confidence and capabilities. Nearly           women's leadership, visibility, and long-
+3. Outcome Assessment                       half of the respondents reported              term empowerment outcomes.
+- Enhancing Financial                       feeling confident or very confident in
+independence and Decision-                  managing bank accounts, savings, and          4. Outcome Assessment
+Making for Women                            credit. Over 75% reported improved            ­ Adoption and Impact
+                                            financial confidence, while around 40%        of Improved Agricultural
+Impact Study Agency ­ 4P                    expressed high confidence in taking           Technologies among Digital
+Research and Consultancy                    on work or business roles. More than          Farm School (DFS) Farmers
+                                            50% were very or extremely confident          under Rural Transformation
+Background                                  in women's financial management               Program
+                                            abilities. Additionally, 60% accessed
+This Program advances women's               skill-building programs, contributing         Impact Study Agency ­ 4P
+empowerment through a focused               to improved financial practices and           Research and Consultancy
+intervention on digital literacy and        greater independence in managing
+financial inclusion. Recognising that       household finances.                           Background
+limited access to digital tools, formal
+banking systems, and financial              2. Women's Participation and                  DFS, is a farmer-centric and phygital
+knowledge constrains women's                Influence in Decision-Making                  agricultural extension model designed
+economic participation and decision-                                                      to address key gaps in traditional
+making, the initiative seeks to bridge      Progress was observed in women's role         extension systems such as limited
+these gaps. The intervention equips         in household financial decisions, with        outreach, delayed advisories, and lack of
+women with digital skills, promotes         50% reporting improved participation.         contextualised information. The model
+access to mobile-based financial            Two-thirds noted reduced gender               integrates digital communication tools
+services, strengthens linkages with banks   disparities in decision-making within         including Voice Message Services
+and self-help groups, and facilitates       households, and 70% felt that women's         (VMS), IVR, and mobile-based platforms
+awareness and uptake of government          financial roles were reshaping gender         with on-ground support through field
+schemes and entitlements. By enhancing      norms to a moderate or significant            staff, demonstrations, and group-based
+financial literacy, encouraging savings     extent. These findings suggest growing        learning. By aligning advisories with
+and responsible borrowing, and enabling     recognition of women as key contributors      crop cycles and enabling continuous
+independent use of digital platforms        to household financial planning and           engagement, DFS supports farmers in
+for transactions and information, the       broader community processes.                  making timely and informed decisions.
+program aims to strengthen women's                                                        The program emphasises participatory
+financial autonomy and decision-making      3. Enablers and Barriers to                   learning and peer-to-peer knowledge
+power at both household and community       Financial and Digital Empowerment             exchange, positioning farmers not only
+levels, thereby contributing to more                                                      as recipients but also as contributors to
+inclusive and resilient rural development.  While progress is evident, significant        knowledge dissemination.
+                                            constraints remain. Only 1 in 4 women
+Objectives                                  reported good access to financial             Objectives
+                                            resources and many continue to
+· To assess changes in women's              face limited or no access. Financial          · Assess how continuous group
+   digital and financial knowledge,         constraints affected most women at               learning through DFS has
+   skills, and practices, including their   least occasionally in the past year. Nearly      strengthened farmers' knowledge,
+   ability to contribute to household       50% cited societal expectations and              skills, and farming practices;
+   finances independently;                  gender norms as barriers to financial
+                                            independence, while over 50% were             · Measure change in adoption rates of
+· To examine women's participation          moderately or highly affected by systemic        improved, climate-smart practices;
+   and influence in household and           barriers such as bureaucracy and
+   community decision-making,               mobility restrictions. Key limiting factors   · Measure change in crop productivity,
+   particularly in financial planning,      included lack of financial resources             expense optimisation, and farmer
+   education and health;                    (52%), inadequate training (47%) and             incomes; and
+                                            family or social restrictions (44%).
+· To identify key enablers and barriers     Although 70% rated institutional support      · Assess the extent of knowledge
+   affecting women's financial and digital  positively, delays, lack of information, and     sharing within peer / other farmers.
+   empowerment; and                         procedural barriers persist.
+                                                                                                                             91
+Integrated Annual Report 2025-26
+Board's Report
+
+Key findings                                 improved fertiliser efficiency, and 61%      · Gather user feedback to strengthen
+                                             reduced pesticide use.                          and improve RFRT services
+Knowledge and Skill Enhancement
+                                             These outcomes reflect a shift toward        Key findings
+The program has led to significant           more efficient and knowledge-driven
+improvements in farmers' knowledge           farming practices. The combination of        Awareness and engagement
+across all stages of the crop cycle.         higher productivity and reduced costs
+Improvements are observed in pre-            has resulted in improved profitability       Awareness levels remained consistently
+sowing practices (up to 62%), crop           and enhanced financial resilience            high across all quarters, ranging
+management (48%), pest and disease           among farmers, enabling them to better       between 86% and 95%. Similarly,
+management (54%) and post-harvest            manage risks and reinvest in their           advisory receipt ranged from 84% to
+practices (49%). Notably, 94% of             agricultural activities.                     93%, reflecting effective dissemination
+farmers reported improved decision-                                                       of information. Engagement levels are
+making capacity, indicating enhanced         Reaction: Satisfaction, Trust, and           also strong, with nearly 90% of users
+understanding and application of             Engagement                                   reporting either frequent or occasional
+agricultural knowledge.                                                                   use of advisories. Notably, fisherfolk
+                                             DFS demonstrates high levels of farmer       show higher engagement, with 65%
+These gains have enabled farmers to          satisfaction and trust, indicating strong    reporting frequent use compared to 36%
+take more confident and timely decisions     acceptance of the program. Farmers           among farmers.
+related to input use, pest control and       perceive the advisories as clear, relevant,
+crop management.                             and timely, which has contributed to         Adoption patterns and factors
+                                             sustained engagement. A large majority       influencing adoption
+Adoption and Practice Change                 of farmers (92%) reported overall
+                                             satisfaction with DFS services, while 89%    Adoption of advisories is consistently
+DFS has effectively translated knowledge     found the information easy to understand,    high, with 44% of users reporting
+into practice, with high levels of adoption  and 74% highlighted its locally              frequent use and 46% reporting
+across recommended agricultural              contextualised availability, reinforcing     occasional use. Adoption is primarily
+practices. Adoption rates are strong,        accessibility. Trust in DFS advisories and   driven by the relevance (59%), timeliness
+with 88% of farmers adopting improved        field teams is strong, with 72% of farmers   (57%), and usefulness (52%) of
+sowing techniques and 86% adopting           expressing confidence in the program.        advisories. Among the small proportion
+integrated pest management practices.        Additionally, 88% of farmers are willing     of low-use users (around 10%), the
+Furthermore, 72% of farmers have             to continue their participation, and 83%     key barriers include perceived lack of
+expanded these practices across their        would recommend DFS to others.               usefulness (36%), timing issues (23%),
+entire landholding, indicating sustained                                                  and gaps in relevance (20%).
+behavioral change. Farmers are also          5. RT Voice Advisory
+demonstrating improved planning              Services                                     Perceived benefits on livelihoods
+and decision-making behavior, with                                                        and skills
+83% planning agricultural activities in      Impact Study Agency ­
+advance and 66% directly following DFS       Global Tenet Events and                      User-reported impacts indicate
+advisories. Peer learning has emerged        Research                                     meaningful benefits on livelihoods and
+as a key strength of the program, with                                                    skills. Around 53% of users reported
+97% of farmers sharing information           Background                                   improved knowledge, 32% avoided
+with others and 76% reporting adoption       This program delivers large-scale,           losses, 24% experienced increased
+by fellow farmers. These findings            livelihood-enhancing advisories to           productivity, and 22% reported increased
+highlight that DFS is fostering a            rural communities through a phygital         income. Fisherfolk particularly benefited
+proactive, informed, and collaborative       model that combines voice-based              in terms of risk reduction, with 44%
+farming ecosystem.                           mobile technology with digital and           reporting improved safety and protection
+                                             on-ground engagement. The program            of fishing assets. Farmers, on the
+Changes in Crop Productivity,                aims to bridge critical information gaps     other hand, reported stronger gains in
+Cost Optimisation, and Farmer                faced by farmers, fisherfolk, and other      knowledge (64%) and productivity (31%).
+Incomes                                      rural households by providing timely,
+                                             relevant, and actionable guidance across     Feedback from Beneficiaries
+DFS farmers demonstrate significantly        agriculture, fisheries, livestock, weather,
+better economic outcomes compared            and government schemes.                      User satisfaction remains high, with
+to Non-DFS farmers. They achieve                                                          95% of users willing to recommend the
+approximately 34% higher production          Objectives                                   program. About 61% rated the service 4
+value per acre and report higher average     · Assess awareness and engagement            or 5 stars, while only 12% reported low
+incomes. On average, DFS farmers                                                          satisfaction. Preferences for advisory
+earn 30,777 per acre, which is more             levels among beneficiaries;               timing vary, with farmers showing a
+than twice the net income of Non-DFS         · Identify adoption patterns and factors     higher preference for evening delivery
+farmers (14,073 per acre). At the same                                                    (37%), while fisherfolk prefer morning and
+time, input costs are lower among DFS           influencing adoption;                     afternoon timings.
+farmers (18,251 compared to 21,592           · Capture perceived benefits on
+per acre among Non-DFS farmers),
+indicating improved cost efficiency.            livelihoods and skills; and
+A large proportion of farmers (94%)
+reported reduced crop losses, while
+77% reported reduced input costs, 68%
+
+92                                                                                        Reliance Industries Limited
+6. Role of Rainwater                                 non-beneficiaries), reflecting                and income from allied activities.
+Harvesting (RWH) in                                  strong recharge effects and                   A baseline was established using
+Enhancing Climate                                    some spillover benefits. Water                recall and triangulation methods,
+Resilience                                           availability has extended beyond              following which incremental
+                                                     the monsoon for most households,              benefits were calculated with
+Impact Study Agency                                  enabling multi-season farming,                attribution based on community
+­ Inicio Insights and                                increasing irrigation cycles and              perception. Finally, annual cash
+Consulting Private Limited                           cropping intensity.                           flows were developed to compute
+                                                                                                   the IRR for each structure.
+Background                                    2. L ivelihood Diversification and
+                                                     Income Strengthening: Improved         The IRR varies from 40% to 555%.
+RWH interventions aim to strengthen                  water availability has enabled                The variation in IRR across sites is
+water security and climate resilience                households to diversify into allied           largely influenced by differences in
+in rural India. The program addresses                livelihood activities. Participation          capital investment, O&M costs, and
+increasing water stress caused by erratic            in livestock, fodder cultivation, and         benefits, along with their attribution
+rainfall, declining groundwater levels,              kitchen gardening has increased               as reported by the community.
+and climate variability by promoting                 substantially. These improvements
+decentralised water storage and                      have translated into strong            6. S trengthened Women's
+groundwater recharge, enabling more                  agricultural and livelihood gains.            Participation and Household
+reliable irrigation and reduce dependence            Agricultural income among direct              Well-being: Improved water
+on unpredictable monsoon patterns.                   beneficiaries increased by 38%,               access has contributed to
+                                                     while allied income rose by 48%,              meaningful gender outcomes. 58%
+Targeting small and marginal farming                 driven by improved water access               of women report lower workload
+communities, the program supports                    among direct beneficiaries.                   and stress, while 57% have
+the development and restoration of                                                                 increased influence in decision-
+community-scale water harvesting              86% of households reported                           making. Overall, 61% of households
+structures such as check dams,                       gains attributing to improved                 feel their future more secure.
+percolation tanks, farm ponds, and                   water access, indicating that
+reservoirs, designed as community-                   rainwater harvesting interventions     Women's influence in household decisions
+managed resources for long-term                      are unlocking broader livelihood       has strengthened, contributing to greater
+sustainability. It also integrates capacity          opportunities beyond agriculture       agency and participation, and supporting
+building, participatory planning, and                and contributing to income stability.  improved household well-being and more
+awareness generation to strengthen                                                          inclusive development outcomes.
+local ownership and institutional             3.I mproved Climate Resilience
+management, aligning with broader                    & Adaptive Capacity: Rainwater         7. Assessment of Climate
+priorities of climate-resilient agriculture,         harvesting interventions have          Resilience
+natural resource management, and                     strengthened household resilience
+livelihood enhancement.                              to climate variability, with 81% of    Impact Study Agency ­
+                                                     households reporting improved          Global Tenet Events and
+Objectives                                           ability to manage drought and          Research
+                                                     irregular rainfall. Soil moisture has
+· Assess changes in water access,                    improved for 88% of households,        Background
+   agricultural practices, and livelihood            and crop performance during dry
+   outcomes associated with                          spells has strengthened for 89%,       This Program focuses on strengthening
+   the interventions;                                reflecting increased stability in      climate resilience in rural communities
+                                                     agricultural production.               through integrated interventions in
+· Evaluate the financial viability of                                                       climate-smart agriculture, water resource
+   rainwater harvesting structures            4.F inancial Viability & Resilience:          management, livelihood diversification,
+   through structure-level economic                  Financial analysis reveal strong       and women's empowerment. These
+   analysis; and                                     viability of RWH structures. With      interventions are designed to enhance
+                                                     relatively low capital investment--    the adaptive capacity of households
+· Assess the extent to which improved                averaging around INR 7.7               and promote sustainable, community-
+   water availability contributes to                 lakh--and minimal operation and        led development.
+   climate resilience, institutional                 maintenance costs, most structures
+   strengthening, and inclusive benefits,            achieve full cost recovery within      To systematically measure program
+   including women participation                     two years.                             outcomes, the Village Climate Resilience
+                                                                                            Index (VCRI) was developed as a
+Key findings                                  5.The Internal Rate of Return (IRR)           comprehensive framework to assess
+                                                     was calculated by first defining the   resilience across key socio-economic and
+1. Improved Water Availability:                      timeline of each structure, including  environmental dimensions. The tool was
+       Rainwater harvesting interventions            its functional year and any            later validated by an external academic
+       have led to substantial                       upgrades. Costs were compiled by       institution (Dr. Rajendra Prasad Central
+       improvements in water availability            accounting for capital investment,     Agricultural University) to ensure its
+       and groundwater recharge across               operation and maintenance (O&M),       robustness and reliability.
+       program areas, with stronger                  and major repairs. Benefits were
+       gains among direct beneficiaries.             estimated based on crop output,                                           93
+       Around 58% more households                    irrigation savings, avoided losses,
+       report improved water availability
+       (74% beneficiaries vs 16%
+
+Integrated Annual Report 2025-26
+Board's Report
+
+Objectives                                  agricultural practices, and participation           + Enterprise). However, 30%
+                                            of women in decision-making                         remain below 1 lakh, indicating
+· To assess the level of climate            processes have contributed to overall               the need for focused support to
+   resilience among program villages        resilience improvements.                            sustain progress.
+   using the VCRI framework;
+                                            Overall, the findings suggest that the       2. Farm Productivity:Farm
+· To track changes in resilience from       program is directionally robust and                 participation remains high (91%),
+   baseline to midline and measure          strategically aligned with the goal                 with growing adoption of improved
+   program progress; and                    of building climate-resilient villages.             and climate-resilient practices.
+                                            The observed improvements across                    Income gains are largely driven
+· To generate insights for strengthening    multiple dimensions demonstrate the                 by enhanced productivity and
+   interventions and improving              effectiveness of integrated interventions           self-consumption, strengthening
+   program effectiveness.                   and highlight the importance of a holistic          food security.
+                                            approach to resilience building.
+Key findings                                                                             3. O ff-farm income: Off-farm income
+                                            Program: Women                                      shows marginal improvement
+The study findings indicate that the        Empowerment                                         and remains largely subsistence-
+current distribution of villages across                                                         oriented. Early investments in
+VCRI score categories is largely            8. Swayamshree                                      livestock care are visible, though
+concentrated in the moderate resilience                                                         structured market linkages and
+range (40­60), accounting for 80% of        Impact Assessment Agency                            veterinary access remain limited.
+villages at midline. A smaller proportion   ­ Sambodhi Research and
+of villages fall under the high-resilience  Communications Private                       4. E nterprise: Enterprise income
+category (above 60) at 18%, while only      Limited                                             increased by 9%, primarily from
+2% remain in the low-resilience category                                                        small, home-based activities.
+(below 40). This distribution reflects an   Background                                          These provide supplementary
+overall improvement in resilience levels                                                        income during lean agricultural
+across program villages.                    This program aims to empower 1.1                    periods but remain constrained
+                                            million women entrepreneurs across                  by limited capital and local
+A comparison with the baseline reveals      Madhya Pradesh, Odisha, and Gujarat                 market dependence.
+a significant decline in low-resilience     helping them achieve an annual
+villages, which reduced sharply from 26%    household income of up to 1 lakh. The        5. Women's Agency: Women's
+to 2%, with the very low category (below    program is structured around three core             mobility and participation in
+30) dropping to zero. This indicates a      developmental axes: increasing income,              economic activities have improved
+substantial reduction in vulnerability and  improving quality of life and enhancing             modestly. However, sole decision-
+highlights the effectiveness of program     decision-making abilities for participating         making on income use and
+interventions in strengthening resilience   women. A mixed-methods approach                     livelihood choices remains limited,
+at the community level.                     (quantitative and qualitative data) and a           and gender norms continue to
+                                            cross-sectional design was adopted to               influence market-facing roles.
+Further, there has been a major shift       assess progress and identify emerging
+towards moderate resilience, with the       implementation learnings.                    9. Impact Assessment of
+proportion of villages in the 40­60 range                                                SWADESH
+increasing from 57% at baseline to          Objective
+80% at midline, demonstrating broad-                                                     Impact Assessment Agency
+based improvement. The high-resilience      To assess changes in household income        ­ Athena Infonomics India
+category has shown a marginal increase      livelihood patterns, and women's agency,     Private Limited
+from 17% to 18%, indicating steady          and to generate operational insights on
+but gradual progress. While the overall     what is driving (or constraining) outcome    Background
+movement is positive, the relatively        progress across program geographies.         The Artisan Craft Pavilions, developed
+limited growth in the high-resilience                                                    with Reliance Foundation (RF), aim to
+segment suggests the need for focused       Key findings                                 preserve India's diverse craft heritage
+efforts to accelerate the transition of                                                  while strengthening artisan livelihoods.
+villages towards higher resilience levels.  1.I ncrease in income: The program           The initiative brings together skilled
+                                                   is delivering measurable income       artisans from across regions and craft
+Analysis across the seven components               gains. Average annual household       traditions, including textiles, metal, wood,
+of the VCRI reveals that water resource            income increased by 9%, with          pottery, and tribal arts. RF supports
+management and producer networks/                  the strongest growth in Madhya        participation through logistics, fair
+market linkages have shown the                     Pradesh (18%). Farm income grew       compensation, and curated product
+strongest improvements. These                      by 22% and enterprise income          display. It also provides capacity building
+gains can be attributed to targeted                by 11%, driven by improved            support in product development, quality
+interventions such as improved irrigation          practices and diversification.        enhancement, pricing, branding, and
+practices, water conservation structures,          Sixty percent of households now       digital skills to enable long term socio
+and enhanced access to markets and                 earn above 1 lakh annually,           economic sustainability.
+institutional support systems.                     with 12% newly crossing this
+                                                   threshold. Income gains are                            Reliance Industries Limited
+Other components such as climate                   highest among households with
+awareness, agricultural practices, and             diversified livelihoods (Farm
+women's empowerment have also
+shown positive progress, though at
+varying levels. Increased access to
+advisories, adoption of climate-smart
+
+94
+Objective                                       learning, character building and               Participation trends indicated strong
+                                                leadership among India's youth, while          youth engagement, increasing female
+To assess the relevance, effectiveness,         creating pathways for future champions.        participation in specific programs, and
+efficiency, impact, equity, and sustainability                                                 sustained involvement across competitive
+of RF-supported developmental grants,           Impact assessment was conducted                age categories.
+and to understand the extent to which           to assess the overall effectiveness
+these interventions have contributed to         and impact of RF sports program,               3. Athlete Outcomes and
+improved well-being, service delivery, and      by evaluating performance against              Ecosystem Outcomes
+institutional strengthening.                    objectives, understanding reach and
+                                                inclusivity and identifying key strengths,     Findings indicated strong athlete
+Key findings                                    gaps and opportunities to strengthen           level outcomes, with improvements in
+                                                long-term athlete development.                 performance, discipline, teamwork, and
+Relevance & Equity                                                                             confidence across programs. Holistic
+                                                Objectives                                     development was particularly evident,
+· Strong alignment with livelihood                                                             with 88% of participants reporting
+   enhancement and cultural                     · To determine program effectiveness           gains in communication, discipline,
+   preservation, with inclusive support            by measuring achievements against           and teamwork. High performance and
+   for women and home-based                        objectives and assessing quality,           endurance programs demonstrated
+   artisans; and                                   inclusivity and accessibility of training,  measurable performance outcomes,
+                                                   competitions and infrastructure;            including personal bests, medals, and
+· Enabled equitable access to markets                                                          international exposure, supported by
+   by reducing reliance on intermediaries       · To analyse geographic and                    improvements in coaching quality,
+   and engaging marginalised artisan               demographic reach by mapping                sports science integration, and athlete
+   groups directly.                                coverage and participation trends           well being. Public engagement and
+                                                   across age, gender and sport;               visibility--especially through leagues and
+Effectiveness & Efficiency                                                                     competitions--further supported athlete
+                                                · To evaluate outcomes by tracking             motivation and progression
+· Effective in creating sustained                  athlete progression, improvements
+   market linkages, increasing                     in coaching, sports science                 4. Program Design and Delivery
+   orders, and improving product                   integration, athlete well-being and         Strengths
+   positioning through direct customer             public engagement;
+   engagement; and                                                                             The assessment highlighted several
+                                                · To identify best practices and gaps          strong practices in program design
+· Efficient model combining exhibition,            in program design, delivery, and            and delivery, particularly the use of
+   live demonstrations, and post-                  monitoring; and                             mentor driven coaching models,
+   event sourcing, though constrained                                                          integrated sports science support,
+   by scalability and need for                  · To recommend strategic                       athlete centred training plans, and robust
+   continued handholding.                          enhancements for scalable,                  infrastructure and safety protocols.
+                                                   sustainable approaches and long-            These elements contributed to consistent
+Impact                                             term ecosystem strengthening.               program delivery, high levels of athlete
+                                                                                               engagement, and strong trust among
+· Engaging 65+ artisans across                  Key findings                                   stakeholders. The findings also indicate
+   30+ craft forms from 16+ states,                                                            clear opportunities to further enhance
+   the Nita Mukesh Ambani Cultural              1. Program Effectiveness (Quality,             existing strengths by deepening
+   Centre pavilions hosted 5 exhibition         Inclusivity, Accessibility)                    grassroots engagement, strengthening
+   cycles, reached over 1 lakh visitors,                                                       progression pathways, and formalising
+   along with significant digital and           The assessment found that RFS were             long term career planning frameworks--
+   media coverage.                              highly effective in delivering planned         building on the solid operational and
+                                                objectives, offering structured training,      developmental foundations already
+· Enhanced incomes, generated                   regular competition, and access to quality     in place.
+   additional livelihood opportunities,         infrastructure across stages of athlete
+   and strengthened artisan confidence          development. Participants reported             5. Implications for Scale,
+   and recognition.                             strong improvements in technical               Sustainability, and Long Term
+                                                performance, game understanding, and           Ecosystem Strengthening
+· Contributed to cultural continuity            confidence, alongside high levels of
+   by repositioning traditional crafts in       perceived safety, professionalism, and         Overall findings suggest that the RFS
+   contemporary markets and increasing          medical support, which strengthened            initiative has established a strong
+   appreciation of craft processes.             trust among athletes and parents. Overall      foundation for scalable and sustainable
+                                                program quality and accessibility were         athlete development. To amplify
+Program: Reliance                               consistently rated positively across           long term impact, the study points to
+Foundation Sports                               geographies and sport formats.                 opportunities to strengthen pipeline
+                                                                                               integration, improve inter league and
+10. Reliance Foundation                         2. Geographic and Demographic                  academic calendar alignment, deepen
+Sports (RFS) Program                            Reach                                          grassroots outreach, and formalise
+                                                                                               career transition pathways. Addressing
+Impact Assessment Agency                        The initiative demonstrated broad              these areas would enable the initiative
+­ Hansa Research Group                          geographic coverage and demographic            to further enhance ecosystem
+Private Limited                                 reach, spanning urban, semi urban, and         resilience while sustaining high
+                                                remote regions, and engaging athletes          performance outcomes.
+Background                                      across age groups, genders, and sports.
+                                                Grassroots programs enabled early                                                 95
+This program leveraged sports as a              access and inclusion, while feeder and
+powerful medium to promote lifelong             elite programs supported progression
+Integrated Annual Report 2025-26                through structured pathways.
+Board's Report
+
+Annexure IV
+
+                                    Secretarial Audit Report
+
+                                                       For the financial year ended 31 March 2026
+                             [Pursuant to Section 204(1) of the Companies Act, 2013 and Rule 9 of the Companies
+
+                                     (Appointment and Remuneration of Managerial Personnel) Rules, 2014]
+
+To,                                                Direct Investment and External                         of Securities) Regulations,
+The Members,                                       Commercial Borrowings;                                 2018 (Not applicable to the
+Reliance Industries Limited,                                                                              Company during the Audit
+3rd Floor, Maker Chambers IV,               (v)The following Regulations and                              Period); and
+222, Nariman Point, Mumbai ­ 400 021.              Guidelines prescribed under the
+                                                   Securities and Exchange Board of               (i)The Securities and
+I have conducted the Secretarial                   India Act, 1992 (`SEBI Act'): --                       Exchange Board of India
+Audit of the compliance of applicable                                                                     (Listing Obligations and
+statutory provisions and the adherence             (a)The Securities and Exchange                         Disclosure Requirements)
+to good corporate practices by Reliance                    Board of India (Substantial                    Regulations, 2015.
+Industries Limited (hereinafter called                     Acquisition of Shares and
+"the Company"). Secretarial Audit was                      Takeovers) Regulations, 2011;   I have also examined compliance with the
+conducted in a manner that provided                                                        applicable clauses of the following:
+me a reasonable basis for evaluating the           (b)The Securities and Exchange
+corporate conducts/statutory compliances                   Board of India (Prohibition     (i)Secretarial Standards with
+and expressing my opinion thereon.                         of Insider Trading)                    respect to Meetings of the Board
+                                                           Regulations, 2015;                     of Directors (SS-1) and General
+Based on my verification of the                                                                   Meetings (SS-2) issued by The
+Company's books, papers, minute books,             (c)The Securities and Exchange                 Institute of Company Secretaries of
+forms and returns filed and other records                  Board of India (Issue of               India; and
+maintained by the Company and also the                     Capital and Disclosure
+information provided by the Company,                       Requirements) Regulations,      (ii)Listing Agreements entered into
+its officers, agents and authorised                        2018 (Not applicable to the            by the Company with BSE Limited
+representatives during the conduct of                      Company during the Audit               and the National Stock Exchange
+Secretarial Audit, I hereby report that in                 Period);                               of India Limited.
+my opinion, the Company has, during the
+Audit Period covering the financial year           (d)The Securities and                   During the Audit Period, the Company
+ended on 31 March 2026 ("Audit Period")                    Exchange Board of India         has complied with the provisions of
+complied with the statutory provisions                     (Share Based Employee           the Act, Rules, Regulations, Guidelines,
+listed hereunder and also that the                         Benefits and Sweat Equity)      Standards, etc. mentioned above.
+Company has proper Board processes                         Regulations, 2021;
+and compliance mechanism in place to                                                       I further report that, having regard
+the extent, in the manner and subject to           (e)The Securities and Exchange          to the compliance system prevailing in
+the reporting made hereinafter:                            Board of India (Issue and       the Company and on examination of
+                                                           Listing of Non-Convertible      the relevant documents and records in
+I have examined the books, papers,                         Securities) Regulations, 2021;  pursuance thereof on test-check basis,
+minute books, forms and returns filed                                                      the Company has complied with the
+and other records maintained by the                (f)The Securities and Exchange          following laws applicable specifically to
+Company for the financial year ended                       Board of India (Registrars to   the Company:
+on 31 March 2026 according to the                          an Issue and Share Transfer
+provisions of:                                             Agents) Regulations, 1993       (a)The Petroleum Act, 1934 and Rules
+                                                           and the Securities and                 made thereunder;
+(i)The Companies Act, 2013 (the Act)                       Exchange Board of India
+       and the rules made thereunder;                      (Registrars to an Issue and     (b)The Oilfields (Regulation and
+                                                           Share Transfer Agents)                 Development) Act, 1948 and Rules
+(ii)The Securities Contracts                               Regulations, 2025 regarding            made thereunder;
+       (Regulation) Act, 1956 and the                      the Act and dealing with
+       rules made thereunder;                              client (Not applicable to       (c)The Mines Act, 1952 and Rules
+                                                           the Company during the                 made thereunder; and
+(iii)The Depositories Act, 1996 and                        Audit Period);
+       the Regulations and bye-laws                                                        (d)The Petroleum and Natural Gas
+       framed thereunder;                          (g)The Securities and Exchange                 Regulatory Board Act, 2006 and
+                                                           Board of India (Delisting of           the Rules made thereunder.
+(iv)The Foreign Exchange                                   Equity Shares) Regulations,
+       Management Act, 1999 and                            2021 (Not applicable to the     I further report that
+       the rules and regulations made                      Company during the Audit
+       thereunder to the extent of Foreign                 Period);                        The Board of Directors of the Company
+       Direct Investment, Overseas                                                         is duly constituted with proper balance
+                                                   (h)The Securities and Exchange          of Executive Directors, Non-Executive
+96                                                         Board of India (Buy-Back        Directors and Independent Directors. The
+
+                                                                                                            Reliance Industries Limited
+changes in the composition of the Board    out unanimously as recorded in the               b)Secured Non-Convertible
+of Directors that took place during the    respective minutes of the meetings.                      Debentures amounting
+Audit Period under review were carried     The circular resolutions passed by the                   C 1,000 crore (Series PPD 8).
+out in compliance with the provisions of   Board of Directors of the Company were
+the Act.                                   approved with requisite majority.         2.Granted 8,40,964 options to
+                                                                                            the eligible employees under
+Adequate notice is given to all directors  I further report that there are adequate         Employees' Stock Option
+to schedule the Meetings of the Board      systems and processes in the Company             Scheme 2017.
+and Committees. Except where consent       commensurate with the size and
+of directors was received for scheduling   operations of the Company to monitor      Dr. K. R. Chandratre
+meeting at a shorter notice, agenda and    and ensure compliance with applicable     FCS No.: 1370, C. P. No.: 5144
+detailed notes on agenda were sent         laws, rules, regulations and guidelines.  Place: Pune
+at least seven days in advance, and a                                                Date: 24 April 2026
+system exists for seeking and obtaining    I further report that during the Audit    UDIN: F001370H000197280
+further information and clarifications on  Period, the Company has:                  Peer Review Certificate No.:
+the agenda items before the meeting                                                  7703/2026
+and for meaningful participation at        1. Redeemed:
+the meeting.                                                                         This report is to be read with my letter of
+                                                  a)Unsecured Non-Convertible        even date which is annexed and forms an
+All decisions at Board Meetings and                       Debentures amounting       integral part of this report.
+Committee Meetings were carried                           C 1,650 crore (PPD Series
+                                                          L); and
+
+                         Annexure to the Secretarial Audit Report
+
+To,
+The Members,
+Reliance Industries Limited,
+3rd Floor, Maker Chambers IV,
+222, Nariman Point, Mumbai ­ 400 021.
+
+My report of even date is to be read along with this letter:
+
+1.Maintenance of secretarial records is the responsibility of the management of the Company. My responsibility is to express an
+       opinion on these secretarial records based on my audit.
+
+2.I have followed the audit practices and processes as were appropriate to obtain reasonable assurance about the correctness
+       of the contents of the secretarial records. The verification was done on test-check basis to ensure that correct facts are
+       reflected in secretarial records. I believe that the process and practices I followed provide a reasonable basis for my opinion.
+
+3.I have not verified the correctness and appropriateness of financial records and books of accounts of the Company.
+
+4.Wherever required, I have obtained Management Representation about the compliance of laws, rules and regulations and
+       happening of events, etc.
+
+5.The compliance of the provisions of corporate and other applicable laws, rules, regulations, standards is the responsibility of
+       management. My examination was limited to the verification of procedures on test-check basis.
+
+6.The Secretarial Audit report is neither an assurance as to future viability of the Company nor of the efficacy or effectiveness
+       with which the management has conducted the affairs of the Company.
+
+Dr. K. R. Chandratre
+FCS No.: 1370, C. P. No.: 5144
+Place: Pune
+Date: 24 April 2026
+UDIN: F001370H000197280
+Peer Review Certificate No.: 7703/2026
+
+Integrated Annual Report 2025-26                                                     97
+Board's Report
+
+Annexure V
+
+Particulars of energy conservation, technology absorption, foreign exchange
+earnings and outgo required under the Companies (Accounts) Rules, 2014
+
+A)Conservation of                             Petrochemical Complexes:                     · In Vadodara Manufacturing
+    energy                                                                                    Division, uprate of additional
+                                              · In Jamnagar Manufacturing                     gas turbine with advanced gas
+(i)Steps taken to                                Division (JMD) C2 Complex,                   path components for improved
+     conserve energy                             stopping of condensing Steam                 heat rates, saving 1 Gcal/hr.
+                                                 Turbine Generator (STG)
+Energy management is deeply                      increased power generation         (ii)Steps taken to
+       integrated into the organisation's        cycle efficiency, saving 26 Gcal/       utilise alternate
+       strategic framework. Specialised          hr.                                     sources of energy
+       teams operate both at plant
+       locations and at the corporate         · Installation of a heat exchanger    To accelerate the long-term
+       level, leveraging advanced systems        in JMD Mono Ethylene Glycol               sustainability vision, the company
+       and digital tools to track, evaluate,     unit to recover heat from waste           is strategically expanding its
+       audit, benchmark and enhance              water, saving 2.9 Gcal/hr.                infrastructure capabilities to
+       energy performance in a structured                                                  support greater integration
+       manner. The efforts are closely        · In Nagothane Manufacturing                 and utilisation of renewable
+       coordinated and directly support          Division (NMD), optimisation              energy sources.
+       the company's long-term ambition          of power and steam generation
+       of reaching net-zero emissions            loads enabling fuel efficient             · JMD has successfully
+       by 2035.                                  operation of GT (Gas Turbine) &              connected with Central
+                                                 STG, saving 4 Gcal/hr.                       Transmission Utility and has
+The energy management approach                                                                started importing green power.
+       is anchored in five core principles:   · Additional heat recovery
+                                                 from NMD - HRSG (heat                     · The Manufacturing sites at
+       · Optimising energy use;                  recovery steam generator)                    Dahej, Hazira, Barabanki and
+       · Embracing innovative and                flue gas through installation of             Hoshiarpur continued co-firing
+                                                 condensate preheat, saving 2.5               of biomass in captive plants to
+          emerging technologies,                 Gcal/hr.                                     meet energy requirement.
+          digital solutions and industry
+          best practices;                     · In Hazira Manufacturing
+       · Harnessing low-grade                    Division Polyesters,
+          waste heat;                            replacement of chillers with
+       · Lowering the carbon intensity of        energy efficient ones, saving 1.2
+          the overall energy used; and           Gcal/hr.
+       · Optimising cost of energy
+                                              (iii)Capital investment on energy conservation
+                                                   equipments
+
+Major initiatives                             Sr.  Manufacturing Division              Capital investments      Energy savings
+      implemented are given                   No                                        on energy efficient             (Gcal/hr)
+      below:                                                                                                                    36
+                                              1. Jamnagar Refinery Complex          equipment ( in crore)                       43
+Jamnagar Refinery                             2. Petrochemical Complexes                                                       79
+       Complex:                                                                                            116
+                                                   Total
+       · Replacement of Air-preheater                                                                       22
+          bank in Crude Unit to enable
+          higher heat recovery from flue                                                                  138
+          gas, saving 9.2 Gcal/hr.
+                                              B) Technology absorption
+       · Process modification to utilise
+          liquid phase isomerisation in              The Company's research, technology development, and technology adoption
+          Aromatics, saving 6.6 Gcal/hr.             create superior value and competitive advantage. Research and technology
+                                                     development focuses on:
+       · Uprates in additional gas
+          turbines with advanced gas                 a)New products, processes, and catalysts development to strengthen
+          path components resulting in                       existing business and pave way for new businesses through
+          efficient operation and saving of                  breakthrough technologies.
+          6 Gcal/hr.
+                                                     b)Advance support to capital projects and reliability improvements in
+                                                             manufacturing plants through novel solutions.
+
+                                                     c)Innovative solutions to achieve net carbon zero goals.
+
+98                                                                                  Reliance Industries Limited
+(i)Major efforts made                                · Development of polyisobutylene (PIB) composite based sealant tape for
+     towards technology                                 solar applications.
+     absorption
+                                              Bio-Chemicals and Synthetic Biology
+Oil to Chemicals (O2C)
+      Business                                       · Algae biorefinery technology for production of sustainable specialty
+                                                        products viz. super proteins, algae oil for cosmetics, and bio-stimulant for
+       · Non-phthalate-based PP                         agricultural applications.
+          catalyst development for
+          replacing the phthalate-                   · Scale-up demonstration for spider silk protein (SSP) for personal
+          based catalyst.                               care application.
+
+       · Catalytic gasification of biomass           · Industrial microbial technology for improving yield in coal bed methane.
+          into green syngas.
+                                              (ii)Information regarding imported technology
+       · Technology development for                (imported during last three financial years)
+          catalytic pyrolysis of waste
+          plastic to oil.                     Details of technology imported           Year of import       Absorbed or not
+                                              PMD ­ Metaxylene Process Technology      FY 2024-25                          Yes
+       · Technology development               DMD - Ethylene Dichloride Technology     FY 2025-26
+          for vanadium recovery from          NMD - Vinyl Chloride Monomer Technology  FY 2025-26         Under Execution
+          gasification slag.                  NMD - Poly Vinyl Chloride Technology     FY 2025-26        - will be absorbed
+                                              DMD - Chlor Alkali Technology            FY 2025-26        once plant is fully
+       · FCC and hydroprocessing
+          catalyst development.                                                                              commissioned
+
+       · Bioplastic PBAT                      (iii) T he benefits derived from Research and
+          process and product                      Development and technology absorption,
+          technology development.                  adoption and innovation:
+
+       · Prototype development for DPE        Reliance's strategic prioritisation of research and innovation positions the
+          (Disentangled Polyethylene)                organisation to develop advanced, market responsive solutions that strengthen
+          based protective jackets.                  its competitive advantage. Through institutionalised cycles of technology
+                                                     absorption and adoption, the company consistently drives operational excellence
+       · Demonstration of 1-                         and achieves meaningful cost optimisation. This disciplined framework enables
+          Hexene Catalyst.                           Reliance to expand market share, elevate customer experience, and maintain
+                                                     agility in responding to evolving industry dynamics--thereby reinforcing its long
+       · Value added product from                    term competitiveness and supporting sustained enterprise growth.
+          CPVC acidic effluent water.
+                                              (iv)Expenditure incurred on Research and
+       · Value addition of PTA solid               Development:
+          waste into low-cost plasticiser.
+                                              Sr. No. Particulars                                        ( in crore)
+       · Reducing catalyst cost                                                                                3,317
+          and enhancing safety in             a)     Capital                                                   1,365
+          LAB production.                                                                                     4,682
+                                              b)     Revenue
+       · Sulphur based fertiliser for sodic
+          soil application.                   Total
+
+       · Chemical recycling of polyester      C) Foreign exchange earnings and Outgo
+          textile waste into bis(2-
+          hydroxyethyl) terephthalate         Total foreign exchange earned and used
+          (BHET) monomer.
+                                              Sr. No. Particulars                                        ( in crore)
+       · Reduction in use of Antimony                                                                      2,83,293
+          based heavy metal catalyst          a)     Foreign Exchange earned in terms of actual inflows    1,97,583
+          in Polyester.
+                                              b)     Total savings in foreign exchange through products   4,80,876
+       · Development of new polyester                                                                      3,68,214
+          grades that support enhanced               manufactured by the Company and deemed exports
+          functionality, sustainability, and
+          diverse applications.                      (US$ 20.8 billion)
+
+Advanced materials                                   Sub-total (a+b)
+      and other Research and
+      Development activities                  c)     Foreign Exchange outgo in terms of actual outflows
+
+       · Development of PVC                                              For and on behalf of the Board of Directors
+          nano composites.
+                                                                                                        Mukesh D. Ambani
+       · Development of polyacrylonitrile                                              Chairman and Managing Director
+          (PAN) precursor for
+          carbon fibre.                                                                             Mumbai, April 24, 2026
+
+Integrated Annual Report 2025-26                                                                         99
+
